@@ -6,15 +6,35 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
-        <item
-            android:id="@+id/nav_gallery"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:title="INICIO" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/nav_elsalvador"
+            android:icon="@drawable/ic_bandera"
+            android:title="1) EL SALVADOR" />
+        <item
+            android:id="@+id/nav_guatemala"
+            android:icon="@drawable/ic_bandera"
+            android:title="2) GUATEMALA" />
+        <item
+            android:id="@+id/nav_nicaragua"
+            android:icon="@drawable/ic_bandera"
+            android:title="3) NICARAGUA" />
+
+        <item
+            android:id="@+id/nav_costarica"
+            android:icon="@drawable/ic_bandera"
+            android:title="4) COSTA RICA" />
+
+        <item
+            android:id="@+id/nav_hondura"
+            android:icon="@drawable/ic_bandera"
+            android:title="5) HONDURAS" />
+
+        <item
+            android:id="@+id/nav_panama"
+            android:icon="@drawable/ic_bandera"
+            android:title="6) PANAMA" />
+
     </group>
 </menu>
