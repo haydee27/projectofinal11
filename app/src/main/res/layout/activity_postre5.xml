@@ -5,8 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@color/purple_200"
     android:layout_margin="0dp"
-    android:gravity=""
+    android:gravity="center"
     tools:context=".postre1"
     tools:ignore="MissingClass">
 
