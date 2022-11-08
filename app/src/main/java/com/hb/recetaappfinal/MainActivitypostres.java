@@ -23,9 +23,29 @@ public class MainActivitypostres extends AppCompatActivity {
         btno5 = findViewById(R.id.btno5);
     }
 
-    public void MainActivity3(View view) {
+    public void postre1(View view) {
         Intent btno1= new Intent(this, postre1.class);
         startActivity(btno1);
+    }
+
+    public void postre2(View view) {
+        Intent btno2= new Intent(this, postre2.class);
+        startActivity(btno2);
+    }
+
+    public void postre3(View view) {
+        Intent btno3= new Intent(this, postre3.class);
+        startActivity(btno3);
+    }
+
+    public void postre4(View view) {
+        Intent btno4= new Intent(this, postre4.class);
+        startActivity(btno4);
+    }
+
+    public void postre5(View view) {
+        Intent btno5= new Intent(this, postre5.class);
+        startActivity(btno5);
     }
 
 
