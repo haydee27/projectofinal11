@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background=""
 
     android:layout_margin="0dp"
 
@@ -23,11 +24,13 @@
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginRight="10dp"
-        android:layout_marginLeft="10dp"
-        tools:src="@drawable/CEBADA" />
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginLeft="60dp"
+        tools:src="@drawable/postres"
+
+        />
         <Button
             android:id="@+id/btn1"
             android:layout_width="wrap_content"
@@ -51,11 +54,11 @@
 
         <ImageView
         android:id="@+id/imageView4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginRight="10dp"
-        android:layout_marginLeft="10dp"
-        tools:src="@tools:sample/avatars" />
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginLeft="60dp"
+        tools:src="@drawable/bebida" />
 
         <Button
             android:id="@+id/button3"
@@ -79,11 +82,11 @@
 
     <ImageView
         android:id="@+id/imageView5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        tools:src="@tools:sample/avatars"
-        android:layout_marginRight="10dp"
-        android:layout_marginLeft="10dp"/>
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        tools:src="@drawable/platofuerte"
+        android:layout_marginRight="60dp"
+        android:layout_marginLeft="60dp"/>
 
     <Button
         android:id="@+id/button4"
