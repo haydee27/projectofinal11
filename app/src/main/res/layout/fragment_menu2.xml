@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_marginRight="10dp"
         android:layout_marginLeft="10dp"
-        tools:src="@tools:sample/avatars" />
+        tools:src="@drawable/CEBADA" />
         <Button
             android:id="@+id/btn1"
             android:layout_width="wrap_content"
