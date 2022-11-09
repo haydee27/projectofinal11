@@ -1,8 +1,10 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.nicaragua;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.hb.recetaappfinal.R;
 
 public class platon3 extends AppCompatActivity {
 

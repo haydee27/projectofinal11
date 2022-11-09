@@ -1,14 +1,16 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.nicaragua;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class bebidan5 extends AppCompatActivity {
+import com.hb.recetaappfinal.R;
+
+public class bebidan4 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_bebidan5);
+        setContentView(R.layout.activity_bebidan4);
     }
 }

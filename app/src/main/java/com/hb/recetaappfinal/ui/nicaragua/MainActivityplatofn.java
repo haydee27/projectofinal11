@@ -1,4 +1,4 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.nicaragua;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,11 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.hb.recetaappfinal.ui.sv.plato1;
-import com.hb.recetaappfinal.ui.sv.plato2;
-import com.hb.recetaappfinal.ui.sv.plato3;
-import com.hb.recetaappfinal.ui.sv.plato4;
-import com.hb.recetaappfinal.ui.sv.plato5;
+import com.hb.recetaappfinal.R;
 
 public class MainActivityplatofn extends AppCompatActivity {
 

@@ -1,15 +1,12 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.nicaragua;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import com.hb.recetaappfinal.ui.sv.postre1;
-import com.hb.recetaappfinal.ui.sv.postre2;
-import com.hb.recetaappfinal.ui.sv.postre3;
-import com.hb.recetaappfinal.ui.sv.postre4;
-import com.hb.recetaappfinal.ui.sv.postre5;
+
+import com.hb.recetaappfinal.R;
 
 public class MainActivitypostresn extends AppCompatActivity {
 

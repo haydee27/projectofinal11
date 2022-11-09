@@ -13,46 +13,46 @@
         android:theme="@style/Theme.Recetaappfinal"
         tools:targetApi="31">
         <activity
-            android:name=".platon5"
+            android:name=".ui.nicaragua.platon5"
             android:exported="false" />
         <activity
-            android:name=".platon4"
+            android:name=".ui.nicaragua.platon4"
             android:exported="false" />
         <activity
-            android:name=".platon3"
+            android:name=".ui.nicaragua.platon3"
             android:exported="false" />
         <activity
-            android:name=".platon2"
+            android:name=".ui.nicaragua.platon2"
             android:exported="false" />
         <activity
-            android:name=".platon1"
+            android:name=".ui.nicaragua.platon1"
             android:exported="false" />
         <activity
-            android:name=".bebidan5"
+            android:name=".ui.nicaragua.bebidan5"
             android:exported="false" />
         <activity
-            android:name=".bebidan4"
+            android:name=".ui.nicaragua.bebidan4"
             android:exported="false" />
         <activity
-            android:name=".bebidan3"
+            android:name=".ui.nicaragua.bebidan3"
             android:exported="false" />
         <activity
-            android:name=".bebidan2"
+            android:name=".ui.nicaragua.bebidan2"
             android:exported="false" />
         <activity
-            android:name=".bebidan1"
+            android:name=".ui.nicaragua.bebidan1"
             android:exported="false" />
         <activity
-            android:name=".postren5"
+            android:name=".ui.nicaragua.postren5"
             android:exported="false" />
         <activity
-            android:name=".postren4"
+            android:name=".ui.nicaragua.postren4"
             android:exported="false" />
         <activity
-            android:name=".postren3"
+            android:name=".ui.nicaragua.postren3"
             android:exported="false" />
         <activity
-            android:name=".postren2"
+            android:name=".ui.nicaragua.postren2"
             android:exported="false" />
             <meta-data
                 android:name="android.app.lib_name"
@@ -66,13 +66,13 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".MainActivityplatofn"
+            android:name=".ui.nicaragua.MainActivityplatofn"
             android:exported="false" />
         <activity
-            android:name=".MainActivitybebidasn"
+            android:name=".ui.nicaragua.MainActivitybebidasn"
             android:exported="false" />
         <activity
-            android:name=".MainActivitypostresn"
+            android:name=".ui.nicaragua.MainActivitypostresn"
             android:exported="false" />
         <activity
             android:name=".ui.sv.bebida5"

@@ -1,4 +1,4 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.nicaragua;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,11 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.hb.recetaappfinal.ui.sv.bebida1;
-import com.hb.recetaappfinal.ui.sv.bebida2;
-import com.hb.recetaappfinal.ui.sv.bebida3;
-import com.hb.recetaappfinal.ui.sv.bebida4;
-import com.hb.recetaappfinal.ui.sv.bebida5;
+import com.hb.recetaappfinal.R;
 
 public class MainActivitybebidasn extends AppCompatActivity {
 
