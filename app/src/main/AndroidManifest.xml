@@ -28,13 +28,13 @@
             android:name=".bebida4"
             android:exported="false" />
         <activity
-            android:name=".bebida3"
+            android:name=".ui.sv.bebida3"
             android:exported="false" />
         <activity
-            android:name=".bebida2"
+            android:name=".ui.sv.bebida2"
             android:exported="false" />
         <activity
-            android:name=".bebida1"
+            android:name=".ui.sv.bebida1"
             android:exported="false" />
         <activity
             android:name=".plato5"
