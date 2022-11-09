@@ -76,58 +76,94 @@
             android:exported="false" />
         <activity
             android:name=".ui.sv.bebida5"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Bebida5"
+            android:parentActivityName=".ui.sv.MainActivitybebidas"/>
         <activity
             android:name=".ui.sv.bebida4"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Bebida4"
+            android:parentActivityName=".ui.sv.MainActivitybebidas"/>
         <activity
             android:name=".ui.sv.bebida3"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Bebida3"
+            android:parentActivityName=".ui.sv.MainActivitybebidas"/>
         <activity
             android:name=".ui.sv.bebida2"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Bebida2"
+            android:parentActivityName=".ui.sv.MainActivitybebidas"/>
         <activity
             android:name=".ui.sv.bebida1"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Bebida1"
+            android:parentActivityName=".ui.sv.MainActivitybebidas"/>
         <activity
             android:name=".ui.sv.plato5"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Plato5"
+            android:parentActivityName=".ui.sv.MainActivityplatof"/>
         <activity
             android:name=".ui.sv.plato4"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Plato4"
+            android:parentActivityName=".ui.sv.MainActivityplatof"/>
         <activity
             android:name=".ui.sv.plato3"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Plato3"
+            android:parentActivityName=".ui.sv.MainActivityplatof"/>
         <activity
             android:name=".ui.sv.plato2"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Plato2"
+            android:parentActivityName=".ui.sv.MainActivityplatof"/>
         <activity
             android:name=".ui.sv.plato1"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Plato1"
+            android:parentActivityName=".ui.sv.MainActivityplatof"/>
         <activity
             android:name=".ui.sv.MainActivityplatof"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Plato"
+            android:parentActivityName=".ui.sv.menu2"/>
         <activity
             android:name=".ui.sv.MainActivitybebidas"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Plato"
+            android:parentActivityName=".ui.sv.menu2"/>
         <activity
             android:name=".ui.sv.postre5"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Postre5"
+            android:parentActivityName=".ui.sv.MainActivitypostres"/>
         <activity
             android:name=".ui.sv.postre4"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Postre4"
+            android:parentActivityName=".ui.sv.MainActivitypostres"/>
         <activity
             android:name=".ui.sv.postre3"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Postre3"
+            android:parentActivityName=".ui.sv.MainActivitypostres"/>
         <activity
             android:name=".ui.sv.postre2"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Postre2"
+            android:parentActivityName=".ui.sv.MainActivitypostres" />
         <activity
             android:name=".ui.sv.postre1"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Postre1"
+            android:parentActivityName=".ui.sv.MainActivitypostres"/>
         <activity
             android:name=".ui.sv.MainActivitypostres"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Postres"
+            android:parentActivityName=".ui.sv.menu2"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -146,4 +182,4 @@
         </activity>
 
     </application>
-    </manifest>
+</manifest>

@@ -24,7 +24,7 @@
         android:contentDescription="@string/nav_header_desc"
         android:foregroundGravity="center"
         android:paddingTop="70dp"
-        app:srcCompat="@drawable/logoo" />
+        app:srcCompat="@drawable/logo1" />
 
     <TextView
         android:layout_width="116dp"
