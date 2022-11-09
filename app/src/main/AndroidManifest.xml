@@ -13,6 +13,48 @@
         android:theme="@style/Theme.Recetaappfinal"
         tools:targetApi="31">
         <activity
+            android:name=".platon5"
+            android:exported="false" />
+        <activity
+            android:name=".platon4"
+            android:exported="false" />
+        <activity
+            android:name=".platon3"
+            android:exported="false" />
+        <activity
+            android:name=".platon2"
+            android:exported="false" />
+        <activity
+            android:name=".platon1"
+            android:exported="false" />
+        <activity
+            android:name=".bebidan5"
+            android:exported="false" />
+        <activity
+            android:name=".bebidan4"
+            android:exported="false" />
+        <activity
+            android:name=".bebidan3"
+            android:exported="false" />
+        <activity
+            android:name=".bebidan2"
+            android:exported="false" />
+        <activity
+            android:name=".bebidan1"
+            android:exported="false" />
+        <activity
+            android:name=".postren5"
+            android:exported="false" />
+        <activity
+            android:name=".postren4"
+            android:exported="false" />
+        <activity
+            android:name=".postren3"
+            android:exported="false" />
+        <activity
+            android:name=".postren2"
+            android:exported="false" />
+        <activity
             android:name=".MainActivityplatofn"
             android:exported="false" />
         <activity
@@ -22,10 +64,10 @@
             android:name=".MainActivitypostresn"
             android:exported="false" />
         <activity
-            android:name=".bebida5"
+            android:name=".ui.sv.bebida5"
             android:exported="false" />
         <activity
-            android:name=".bebida4"
+            android:name=".ui.sv.bebida4"
             android:exported="false" />
         <activity
             android:name=".ui.sv.bebida3"
@@ -37,43 +79,43 @@
             android:name=".ui.sv.bebida1"
             android:exported="false" />
         <activity
-            android:name=".plato5"
+            android:name=".ui.sv.plato5"
             android:exported="false" />
         <activity
-            android:name=".plato4"
+            android:name=".ui.sv.plato4"
             android:exported="false" />
         <activity
-            android:name=".plato3"
+            android:name=".ui.sv.plato3"
             android:exported="false" />
         <activity
-            android:name=".plato2"
+            android:name=".ui.sv.plato2"
             android:exported="false" />
         <activity
-            android:name=".plato1"
+            android:name=".ui.sv.plato1"
             android:exported="false" />
         <activity
-            android:name=".MainActivityplatof"
+            android:name=".ui.sv.MainActivityplatof"
             android:exported="false" />
         <activity
-            android:name=".MainActivitybebidas"
+            android:name=".ui.sv.MainActivitybebidas"
             android:exported="false" />
         <activity
-            android:name=".postre5"
+            android:name=".ui.sv.postre5"
             android:exported="false" />
         <activity
-            android:name=".postre4"
+            android:name=".ui.sv.postre4"
             android:exported="false" />
         <activity
-            android:name=".postre3"
+            android:name=".ui.sv.postre3"
             android:exported="false" />
         <activity
-            android:name=".postre2"
+            android:name=".ui.sv.postre2"
             android:exported="false" />
         <activity
-            android:name=".postre1"
+            android:name=".ui.sv.postre1"
             android:exported="false" />
         <activity
-            android:name=".MainActivitypostres"
+            android:name=".ui.sv.MainActivitypostres"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

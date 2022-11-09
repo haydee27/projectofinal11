@@ -1,4 +1,4 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.sv;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,6 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+
+import com.hb.recetaappfinal.R;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -69,7 +71,7 @@ public class menu2 extends Fragment {
         btn1Activity.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getActivity(),MainActivitypostres.class);
+                Intent intent = new Intent(getActivity(), MainActivitypostres.class);
                 startActivity(intent);
             }
         });
@@ -77,7 +79,7 @@ public class menu2 extends Fragment {
         btn2Activity.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getActivity(),MainActivitybebidas.class);
+                Intent intent = new Intent(getActivity(), MainActivitybebidas.class);
                 startActivity(intent);
             }
         });
@@ -85,7 +87,7 @@ public class menu2 extends Fragment {
         btn3Activity.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getActivity(),MainActivityplatof.class);
+                Intent intent = new Intent(getActivity(), MainActivityplatof.class);
                 startActivity(intent);
             }
         });
