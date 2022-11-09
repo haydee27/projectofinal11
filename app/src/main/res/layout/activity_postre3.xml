@@ -6,9 +6,30 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:layout_margin="0dp"
+    android:background="@drawable/fondooooo"
     android:gravity=""
     tools:context=".postre1"
     tools:ignore="MissingClass">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        />
+
+
+    <androidx.appcompat.widget.AppCompatCheckedTextView
+        android:id="@+id/txtm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SORVETE DE COCO"
+        android:textColor="#FFBB86FC"
+        android:textSize="25dp"
+        android:textAlignment="center"
+        android:layout_marginLeft="85dp"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="48dp"
+        />
+
 
     <Space
         android:layout_width="match_parent"
@@ -26,7 +47,7 @@
             android:id="@+id/imageView7"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:srcCompat="@tools:sample/avatars" />
+            tools:srcCompat="@drawable/sorvete" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -40,11 +61,18 @@
         android:gravity="center"
         android:orientation="horizontal">
 
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
         <TextView
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/receta_postre1" />
+            android:textAlignment="center"
+            android:text="@string/postre3" />
+
+        </ScrollView>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 
