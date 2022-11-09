@@ -13,7 +13,7 @@ public class MainActivitybebidas extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main_activitypostres);
+        setContentView(R.layout.activity_main_activitybebidas);
 
         btnb1 = findViewById(R.id.btnb1);
         btnb2 = findViewById(R.id.btnb2);
@@ -22,27 +22,27 @@ public class MainActivitybebidas extends AppCompatActivity {
         btnb5 = findViewById(R.id.btnb5);
     }
 
-    public void plato1(View view) {
+    public void bebida1(View view) {
         Intent btnb1= new Intent(this, bebida1.class);
         startActivity(btnb1);
     }
 
-    public void plato2(View view) {
+    public void bebida2(View view) {
         Intent btnb2= new Intent(this, bebida2.class);
         startActivity(btnb2);
     }
 
-    public void plato3(View view) {
+    public void bebida3(View view) {
         Intent btnb3= new Intent(this, bebida3.class);
         startActivity(btnb3);
     }
 
-    public void plato4(View view) {
+    public void bebida4(View view) {
         Intent btnb4= new Intent(this, bebida4.class);
         startActivity(btnb4);
     }
 
-    public void plato5(View view) {
+    public void bebida5(View view) {
         Intent btnb5= new Intent(this, bebida5.class);
         startActivity(btnb5);
     }

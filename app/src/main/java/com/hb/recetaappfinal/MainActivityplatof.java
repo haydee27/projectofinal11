@@ -15,7 +15,7 @@ public class MainActivityplatof extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main_activitypostres);
+        setContentView(R.layout.activity_main_activityplatof);
 
         btnp1 = findViewById(R.id.btnp1);
         btnp2 = findViewById(R.id.btnp2);

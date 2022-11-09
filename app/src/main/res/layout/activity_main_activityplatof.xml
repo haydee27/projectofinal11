@@ -45,8 +45,8 @@
             android:id="@+id/btnp1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Button"
-            android:onClick="postre1"
+            android:text="plato1"
+            android:onClick="plato1"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
@@ -55,7 +55,7 @@
             android:id="@+id/btnp2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postre2"
+            android:onClick="plato2"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -96,7 +96,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Button"
-            android:onClick="postre3"
+            android:onClick="plato3"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
@@ -105,7 +105,7 @@
             android:id="@+id/btnp4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postre4"
+            android:onClick="plato4"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -135,7 +135,7 @@
             android:id="@+id/btnp5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postre5"
+            android:onClick="plato5"
             android:text="Button" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 

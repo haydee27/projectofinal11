@@ -14,11 +14,7 @@
     <fragment
         android:id="@+id/nav_elsalvador"
         android:name="com.hb.recetaappfinal.menu2"
-<<<<<<< Updated upstream
         android:label="Menu El Salvador"
-=======
-        android:label="@string/menu_gallery"
->>>>>>> Stashed changes
         tools:layout="@layout/fragment_menu2" />
 
     <fragment
