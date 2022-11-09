@@ -63,6 +63,9 @@ public class menu2 extends Fragment {
                              Bundle savedInstanceState) {
         View view =  inflater.inflate(R.layout.fragment_menu2, container, false);
         Button btn1Activity = (Button) view.findViewById(R.id.btn1);
+        Button btn2Activity = (Button) view.findViewById(R.id.btn2);
+        Button btn3Activity = (Button) view.findViewById(R.id.btn3);
+
         btn1Activity.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -70,6 +73,23 @@ public class menu2 extends Fragment {
                 startActivity(intent);
             }
         });
+
+        btn2Activity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(),MainActivitybebidas.class);
+                startActivity(intent);
+            }
+        });
+
+        btn3Activity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(),MainActivityplatof.class);
+                startActivity(intent);
+            }
+        });
+
         return view;
     }
 }
