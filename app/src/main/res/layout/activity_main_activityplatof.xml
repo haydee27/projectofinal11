@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:layout_margin="0dp"
-    tools:context=".MainActivity"
+    tools:context=".MainActivityplatof"
     tools:ignore="MissingClass">
 
     <Space
@@ -42,20 +42,20 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btnb1"
+            android:id="@+id/btnp1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="bebida1"
-            android:onClick="bebida1"
+            android:text="plato1"
+            android:onClick="plato1"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
 
         <Button
-            android:id="@+id/btnb2"
+            android:id="@+id/btnp2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="bebida2"
+            android:onClick="plato2"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -92,20 +92,20 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btnb3"
+            android:id="@+id/btnp3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Button"
-            android:onClick="bebida3"
+            android:onClick="plato3"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
 
         <Button
-            android:id="@+id/btnb4"
+            android:id="@+id/btnp4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="bebida4"
+            android:onClick="plato4"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -132,10 +132,10 @@
         android:gravity="center"
         android:orientation="horizontal">
         <Button
-            android:id="@+id/btnb5"
+            android:id="@+id/btnp5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="bebida5"
+            android:onClick="plato5"
             android:text="Button" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
