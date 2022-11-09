@@ -42,7 +42,7 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btno1"
+            android:id="@+id/btnb1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Button"
@@ -52,7 +52,7 @@
 
 
         <Button
-            android:id="@+id/btno2"
+            android:id="@+id/btnb2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="postre2"
@@ -92,7 +92,7 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btno3"
+            android:id="@+id/btnb3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Button"
@@ -102,7 +102,7 @@
 
 
         <Button
-            android:id="@+id/btno4"
+            android:id="@+id/btnb4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="postre4"
@@ -132,7 +132,7 @@
         android:gravity="center"
         android:orientation="horizontal">
         <Button
-            android:id="@+id/btno5"
+            android:id="@+id/btnb5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="postre5"

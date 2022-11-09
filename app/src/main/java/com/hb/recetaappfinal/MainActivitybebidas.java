@@ -23,31 +23,31 @@ public class MainActivitybebidas extends AppCompatActivity {
     }
 
     public void plato1(View view) {
-        Intent btnp1= new Intent(this, plato1.class);
-        startActivity(btnp1);
+        Intent btnb1= new Intent(this, bebida1.class);
+        startActivity(btnb1);
     }
 
     public void plato2(View view) {
-        Intent btnp2= new Intent(this, plato2.class);
-        startActivity(btnp2);
+        Intent btnb2= new Intent(this, bebida2.class);
+        startActivity(btnb2);
     }
 
     public void plato3(View view) {
-        Intent btnp3= new Intent(this, plato3.class);
-        startActivity(btnp3);
+        Intent btnb3= new Intent(this, bebida3.class);
+        startActivity(btnb3);
     }
 
     public void plato4(View view) {
-        Intent btnp4= new Intent(this, plato4.class);
-        startActivity(btnp4);
+        Intent btnb4= new Intent(this, bebida4.class);
+        startActivity(btnb4);
     }
 
     public void plato5(View view) {
-        Intent btnp5= new Intent(this, plato5.class);
-        startActivity(btnp5);
+        Intent btnb5= new Intent(this, bebida5.class);
+        startActivity(btnb5);
     }
 
 
 };
-}
+
 
