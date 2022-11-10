@@ -25,7 +25,7 @@
 
     <fragment
         android:id="@+id/nav_nicaragua"
-        android:name="com.hb.recetaappfinal.menunicaragua"
+        android:name="com.hb.recetaappfinal.ui.nicaragua.menunicaragua"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_menunicaragua" />
 
