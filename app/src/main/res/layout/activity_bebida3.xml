@@ -45,7 +45,7 @@
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/receta_postre1" />
+            android:text="@string/receta_bebida3" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 
