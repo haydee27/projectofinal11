@@ -490,7 +490,7 @@ Procedimieto
 
 
     </string>
-<<<<<<< HEAD
+
     <string name="chichademaiz">INGREDIENTES
     2 kg de maíz
 4 tazas de raspadura
@@ -687,7 +687,7 @@ Sirva con patacones o papas. ¡Buen provecho!
     </string>
     <string name="receta_bebida4">bebida4</string>
     <string name="receta_bebida5">bebida5</string>
-=======
+    =======
     <string name="vigoron">Vigorón
         Ingredientes:
 1 ½ kg de chicharrón
@@ -794,6 +794,6 @@ Sal y pimienta
 4.	Ahora dejamos que la masa se cocine con los demás elementos, por al menos 10 a 15 minutos, es importante probar y tantear la consistencia, ya que a ciencia cierta no hay un tiempo específico.
     </string>
 
->>>>>>> 3068ce41001d8e4b0d691133139ab568d1a9ec90
+    >>>>>>> 3068ce41001d8e4b0d691133139ab568d1a9ec90
 
 </resources>
