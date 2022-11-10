@@ -16,7 +16,7 @@ public class MainActivitybebidasn extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main_activitybebidas);
+        setContentView(R.layout.activity_main_activitybebidasn);
 
         btnib1 = findViewById(R.id.btnib1);
         btnib2 = findViewById(R.id.btnib2);

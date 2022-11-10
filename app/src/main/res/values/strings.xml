@@ -110,6 +110,7 @@ Antes de servirlo, lo sacaremos del congelador al menos 20 minutos antes (o más
 
 
     </string>
+
     <string name="receta_bebida1">
         Ingredientes:
 1 litro de agua
@@ -169,5 +170,5 @@ Elotes naturales cocinados
     </string>
     <string name="receta_bebida4">bebida4</string>
     <string name="receta_bebida5">bebida5</string>
-
+    
 </resources>
