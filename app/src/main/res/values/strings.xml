@@ -111,4 +111,6 @@ Antes de servirlo, lo sacaremos del congelador al menos 20 minutos antes (o más
 
     </string>
     <string name="title_activity_postren1">postren1</string>
+    <string name="title_activity_main_activitypostreg">MainActivitypostreg</string>
+    <string name="title_activity_postreg2">postreg2</string>
 </resources>

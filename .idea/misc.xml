@@ -3,50 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebida1.xml" value="0.1" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebida2.xml" value="0.1" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebida3.xml" value="0.1" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebida4.xml" value="0.1" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebidan1.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebidan2.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebidan3.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebidan4.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebidan5.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_main_activitybebidas.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_main_activitybebidasn.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_main_activitypaltofn.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_main_activityplatof.xml" value="0.1" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_main_activitypostres.xml" value="0.10126582278481013" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_main_activitypostreg.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_main_activitypostresn.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_plato1.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_plato1_es.xml" value="0.1453804347826087" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_plato2.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_plato3.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_plato4.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_plato5.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_postre1.xml" value="0.25" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_postre2.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_postre3.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_postre4.xml" value="0.14628623188405798" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_postre5.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_postren1.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/content_plato1_es.xml" value="0.1453804347826087" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/content_postren1.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/fragment_first.xml" value="0.1453804347826087" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/fragment_menu2.xml" value="0.21" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/fragment_menuguatemala.xml" value="0.19010416666666666" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/fragment_menunicaragua.xml" value="0.1" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/fragment_plato1n.xml" value="0.1" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/fragment_second.xml" value="0.1453804347826087" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.15" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/fragment_menu2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/fragment_menuguatemala.xml" value="0.1" />
       </map>
     </option>
   </component>
-  <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
-  </component>
-  <component name="ProjectType">
-    <option name="id" value="Android" />
   </component>
 </project>

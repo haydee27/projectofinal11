@@ -15,7 +15,7 @@ public class MainActivitypostresn extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main_activitypostres);
+        setContentView(R.layout.activity_main_activitypostresn);
 
         btnio1 = findViewById(R.id.btnio1);
         btnio2 = findViewById(R.id.btnio2);
