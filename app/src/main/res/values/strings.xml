@@ -110,7 +110,65 @@ Antes de servirlo, lo sacaremos del congelador al menos 20 minutos antes (o más
 
 
     </string>
-    <string name="title_activity_postren1">postren1</string>
-    <string name="title_activity_main_activitypostreg">MainActivitypostreg</string>
-    <string name="title_activity_postreg2">postreg2</string>
+
+    <string name="receta_bebida1">
+        Ingredientes:
+1 litro de agua
+1 rajita de canela
+5 pimientas gordas
+5 clavos de olor
+1/4 taza de harina de pan o de arroz
+2 cucharadas de esencia de vainilla
+2 o 3 cucharadas de esencia de fresa
+* Azúcar al gusto
+
+    Procedimiento:
+Ponga a hervir el agua con la canela y los clavos durante 10 minutos, una vez pasados ese tiempo, agréguele la harina de arroz, disuelta en una taza de agua, y cocínelo a fuego mediano moviendo constantemente durante 5 minutos.
+ Luego se le agrega la vainilla la esencia de fresa y la azúcar al gusto.
+Se cuela para eliminar grumos y se deja enfriar, se puede guardar esa pasta en la refrigeradora si no se usa de una sola vez. (Esta preparación queda bien espesa y se adelgaza con más agua).
+Sírvala bien fría o con hielito. Sabrosa!!
+
+    </string>
+    <string name="receta_bebida2">
+        Ingredientes:
+½ lb de arroz
+½ lb de ajonjolí
+½ libra de maní o cacahuete
+½ libra de pepitoria o semilla de ayote
+½ libra de semillas de cacao
+1  lb.de morro
+2 onzas de canela
+2 semillas enteras de nuez moscada
+2 onzas de culantro (semilla)
+
+        Procedimiento:
+En un comal o cacerola plana, tostar a fuego moderado, cada uno de los ingredientes por separado empezando por el cacao hasta que tome un color dorado, tener cuidado de no sobre tostar nada sobre todo el arroz, cuidado con no quemarlo. Agregar la canela hasta el final. Luego junte todo y lleve al molino, o lo muele en su molinillo, o en su licuadora, o simplemente en su piedra de moler. (No debe agregar agua, porque estamos haciéndolo polvo) puede guardarlo en un frasco de vidrio limpio y seco.
+
+— Para la preparación del fresco de Horchata: Necesitaremos 3 tazas de agua, 1 taza de leche y 8 cucharadas de polvo de horchata (la que hicimos en el paso anterior) la cual debe disolverse en el agua y luego se debe colarse en una manta (que se llama etamina o manta de colar).
+Agregar el azúcar al gusto y si lo deseas más leche. —
+–Para nuestros hermanos en el extranjero:
+En las tiendas donde venden productos de Latinoamérica encontraran la Semilla de Morro en bolsita. Porque una horchata sin semilla de morro no es horchata Salvadoreña Las semillas de culantro (cilantro) las consigues en el supermercado en la zona de las especies.
+
+
+
+    </string>
+    <string name="receta_bebida3">
+        Ingredientes:
+1 galón de leche
+Canela en rama (a su gusto)
+Azúcar al gusto
+3 ó 4 latas de elotes (grano entero o en crema)
+Elotes naturales cocinados
+
+        Preparación
+1.	Se licua el elote con un poquito de leche y lo agregas en una olla honda.
+2.	Se pone a hervir la leche con la canela, el elote licuado y el azúcar. No se puede dejar de mover para evitar que se pegue.
+3.	Al hervir se deja cocinar por 20 minutos sin dejar de mover.
+4.	Antes de servir se pasa por un colador y listo para disfrutar.
+
+
+    </string>
+    <string name="receta_bebida4">bebida4</string>
+    <string name="receta_bebida5">bebida5</string>
+    
 </resources>
