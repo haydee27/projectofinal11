@@ -13,8 +13,9 @@
         android:theme="@style/Theme.Recetaappfinal"
         tools:targetApi="31">
         <activity
-            android:name=".ui.costarica.MainActivitybebidasc"
-            android:exported="false">
+            android:name=".platop5"
+            android:exported="false"
+            tools:ignore="WrongManifestParent">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
@@ -34,11 +35,57 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".ui.nicaragua.postren1"
+            android:name=".platop4"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
+        </activity>
+        <activity
+            android:name=".platop3"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".platop2"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".platop1"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".bebidap5"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".bebidap4"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".bebidap3"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".bebidap2"
+            android:exported="false">
         </activity>
         <activity
             android:name=".bebidap1"
@@ -278,5 +325,5 @@
             </intent-filter>
         </activity>
     </application>
+    </manifest>
 
-</manifest>
