@@ -490,7 +490,111 @@ Procedimieto
 
 
     </string>
-    <string name="receta_bebida4">bebida4</string>
-    <string name="receta_bebida5">bebida5</string>
+    <string name="vigoron">Vigorón
+        Ingredientes:
+1 ½ kg de chicharrón
+2 dientes ajo
+2 naranja agria
+Manteca de cerdo
+Sal a gusto
+1 kg de repollo
+300 gr de tomate
+Sal, pimienta negra molida y vinagre a gusto
+1 ½ de yuca
+
+        Preparación:
+1.	En una olla colocamos la yuca ya pelada y en pequeños trozos con suficiente agua hasta que este blanda.
+2.	Aparte hacemos la ensalada, cortamos el repollo en trozos finos, con el tomate en cuadritos un toque de sal, vinagre y pimienta negra molida al gusto.
+3.	Para preparar el chicharron marinaremos la carne picada en trozos pequeños con el jugo de las dos naranjas, los ajos y sal al gusto durante hora y media, una vez pasado este tiempo la freimos con suficiente manteca de cerdo.
+4.	Luego podemos servir encima de unas hojas de chiguere o platano la yuca, con el chicharron y encima la ensalada.
+    </string>
+    <string name="nacatamal">Nacatamal
+        Ingredientes
+2 ½ Kg maíz
+450 gr costilla de cerdo
+450 gr lomo de cerdo con gordura
+200 gr manteca de cerdo
+2 cebollas
+2 cabezas ajo
+3 tomates
+3 chiltomas
+3 chiles congos
+¼ Kg arroz
+3 papas grandes
+30 gr achiote
+2 naranjas agrias en zumo
+hierba buena
+sal
+Hojas plátano
+mecate
+aceitunas, pasas de uva y alcaparras
+
+        Preparación:
+Paso 1: Primero hay que nezquizar el maíz, es decir cocer en cal con algo de sal para que suelten la piel o hervir hasta que revienten los granos. Incorporar la manteca derretida poco a poco, las cebollas en rodajas, los ajos cortados y salar. También se puede comprar la masa industrial que es más fácil de preparar.
+Paso 2: Cortar la carne de cerdo en trozos pequeños y adobar con la mezcla del achiote, la naranja agria, la cebolla rayada, el ajo machacado y sal a gusto. Lavar las hojas de plátano, desvenar y secar al sol o sobre una plancha para que se suavicen y sea más fácil usarla; lavar también el arroz y escurrir
+Armado de tamales: Colocar dos trozos de hojas de plátanos cruzadas entre sí en forma de cruz, colocar un sobrante en la diagonal; poner una cucharada abundante de masa, unos trozos de carne de cerdo, un puñado de arroz, la chiltoma, trozos de cebolla, papa y tomate en rodajas. Adornar con trozos de chile congos y hierba buena.
+Doblar en cuatro y amarrar con el mecate
+    </string>
+    
+    <string name="guirilas">Gúirilas
+        Ingredientes
+12 elotes o maíz tierno
+1 pizca de sal
+2 cucharadas de mantequilla derretida
+Hojas de banano o plátano.
+
+        Preparación:
+1.	Se desgrana el elote, se muele y se hace una masa con una pizca de sal y la mantequilla para elaborar las tortillas
+2.	Por ser de maíz tierno, estas deben colocarse en el comal sobre una hoja de de plátano ya que de no hacerlo por ser un maíz tierno se pegaría en el comal o sartén
+3.	Se sirven con cuajada, frijoles carne etc
+    </string>
+
+    <string name="picadillopapa">Piacdillo de Papa
+        Ingredientes
+6 papas
+4 salchichas
+½ chile dulce
+Hojas de culantro
+½ cucharada de paprika
+½ cucharada de comino
+1 cucharada de culantro picadito
+1 taza de caldo de vegetales
+Aceite de achiote
+Sal y pimienta
+
+        Preparación
+1.	Cortar las papas y las salchichas en trozos.
+2.	En una sartén, agregue un poco de aceite y proceda a freír las salchichas. Reservar.
+3.	En la misma sartén, sofría el chile y agregue las papas cortadas en cuadros. Condimente con sal, pimienta, paprika y comino.
+4.	Cuando las papas se han ablandado un poco, se añaden las salchichas y se coloca un poco de caldo para terminar de cocinar.
+5.	Servir en un plato y decore con hojitas de culantro.
+    </string>
+    
+    <string name="indioviejo">Indio Viejo
+        Ingredientes:
+•	1 cabeza de ajo picada
+•	1 cebolla picada
+•	1/2 taza de manteca de chancho
+•	2 chiltomas en cuadros
+•	4 tomates pelados y picados
+•	1 moño de hierba buena
+•	8 hojas de cilantro en trozos
+•	1 1/2 taza de maza de maíz, diluida en una taza de agua
+•	1 libra de trasera de cecina desmenuzada
+•	Achiote diluido en agua
+•	Jugo de naranja agria
+•	2 tazas de caldo de carne
+•	Sal
+
+        Preparación:
+•	En una cazuela, vamos a poner 1/2 taza de manteca de cerdo, también le agregamos una cebolla picada, 1 cabeza de ajo picada o majada le damos 2 minutos de cocción.
+•	Y le agregamos las chiltomas cortadas en cuadros, agregamos los tomates picados, la hierba buena y el cilantro.
+•	Ahora le integramos la carne trasera de cecina, ya sancochada y obviamente desmenuzada. Una vez integrado, mezclamos todos los elementos en la cazuela.
+1.	Procedemos a agregar la taza de maíz, diluida en agua y removemos un poco y la vamos vertiendo. A su vez le integramos las tazas de caldo de la carne.
+2.	Ahora como colorante, le agregamos un poco de achiote diluido y un poco de juego de naranja agria y sal.
+3.	Ahora agregamos un poco de más de hierba buena para que el aroma y color del Indio Viejo se mantenga característico.
+4.	Ahora dejamos que la masa se cocine con los demás elementos, por al menos 10 a 15 minutos, es importante probar y tantear la consistencia, ya que a ciencia cierta no hay un tiempo específico.
+    </string>
+
 
 </resources>
