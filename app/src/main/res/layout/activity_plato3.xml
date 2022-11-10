@@ -5,15 +5,27 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/purple_200"
+    android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
     android:gravity="center"
     tools:context=".ui.sv.plato3"
     tools:ignore="MissingClass">
+    <androidx.appcompat.widget.AppCompatCheckedTextView
+        android:id="@+id/txtm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SOPA DE PATA"
+        android:textSize="35dp"
+        android:textColor="#FFBB86FC"
+        android:textAlignment="center"
+        android:layout_marginLeft="10dp"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="48dp"
+        />
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="55dp"
+        android:layout_height="25dp"
         />
 
     <androidx.appcompat.widget.LinearLayoutCompat
@@ -25,14 +37,14 @@
 
         <ImageView
             android:id="@+id/imageView7"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            tools:srcCompat="@tools:sample/avatars" />
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            tools:srcCompat="@drawable/sopadepata" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
         android:layout_width="match_parent"
-        android:layout_height="55dp"
+        android:layout_height="25dp"
         />
 
     <androidx.appcompat.widget.LinearLayoutCompat
@@ -45,7 +57,9 @@
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/receta_postre1" />
+            android:textAlignment="center"
+            android:layout_marginLeft="10dp"
+            android:text="@string/sopapata" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 

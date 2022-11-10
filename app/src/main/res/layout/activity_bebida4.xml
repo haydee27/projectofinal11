@@ -5,15 +5,28 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/purple_200"
+    android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
     android:gravity="center"
     tools:context=".ui.sv.bebida4"
     tools:ignore="MissingClass">
 
+    <androidx.appcompat.widget.AppCompatCheckedTextView
+        android:id="@+id/txtm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="REFRESCO DE TAMARINDO"
+        android:textColor="#FFBB86FC"
+        android:textSize="35dp"
+        android:textAlignment="center"
+        android:layout_marginLeft="5dp"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="48dp"
+        />
+
     <Space
         android:layout_width="match_parent"
-        android:layout_height="55dp"
+        android:layout_height="25dp"
         />
 
     <androidx.appcompat.widget.LinearLayoutCompat
@@ -32,7 +45,7 @@
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
         android:layout_width="match_parent"
-        android:layout_height="55dp"
+        android:layout_height="25dp"
         />
 
     <androidx.appcompat.widget.LinearLayoutCompat
@@ -45,7 +58,8 @@
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/receta_postre1" />
+            android:textAlignment="center"
+            android:text="@string/tamarindo" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 

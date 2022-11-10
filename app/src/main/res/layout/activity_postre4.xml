@@ -11,8 +11,6 @@
     tools:context=".ui.sv.postre1"
     tools:ignore="MissingClass">
 
-
-
     <Space
         android:layout_width="match_parent"
         android:layout_height="55dp"

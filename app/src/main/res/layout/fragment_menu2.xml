@@ -48,8 +48,7 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
             android:layout_marginLeft="10dp"
-            android:drawableBottom="@drawable/button"
-            android:background="@drawable/button"
+            android:drawableBottom="@drawable/button_color"
             android:text="POSTRE" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -79,8 +78,7 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
             android:layout_marginLeft="10dp"
-            android:drawableBottom="@drawable/button"
-            android:background="@drawable/button"
+            android:drawableBottom="@drawable/button_color"
             android:text="Bebida" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
@@ -109,8 +107,7 @@
         android:layout_height="wrap_content"
         android:text="Plato fuerte"
         android:layout_marginRight="10dp"
-        android:drawableBottom="@drawable/button"
-        android:background="@drawable/button"
+        android:drawableBottom="@drawable/button_color"
         android:layout_marginLeft="10dp"/>
         </androidx.appcompat.widget.LinearLayoutCompat>
 
