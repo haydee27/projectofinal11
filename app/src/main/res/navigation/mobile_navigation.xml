@@ -19,9 +19,9 @@
 
     <fragment
         android:id="@+id/nav_guatemala"
-        android:name="com.hb.recetaappfinal.ui.slideshow.SlideshowFragment"
+        android:name="com.hb.recetaappfinal.ui.guatemala.menuguatemala"
         android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_menuguatemala" />
 
     <fragment
         android:id="@+id/nav_nicaragua"
@@ -31,19 +31,19 @@
 
     <fragment
         android:id="@+id/nav_costarica"
-        android:name="com.hb.recetaappfinal.ui.slideshow.SlideshowFragment"
+        android:name="com.hb.recetaappfinal.ui.costarica.menucostarica"
         android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_menucostarica" />
 
     <fragment
         android:id="@+id/nav_panama"
-        android:name="com.hb.recetaappfinal.ui.slideshow.SlideshowFragment"
+        android:name="com.hb.recetaappfinal.ui.panama.menupanama"
         android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_menupanama" />
 
     <fragment
         android:id="@+id/nav_hondura"
-        android:name="com.hb.recetaappfinal.ui.slideshow.SlideshowFragment"
+        android:name="com.hb.recetaappfinal.ui.honduras.menuhonduras"
         android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_menuhonduras" />
 </navigation>

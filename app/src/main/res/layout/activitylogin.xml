@@ -33,6 +33,7 @@
         android:layout_height="wrap_content"
         app:cardCornerRadius="10dp"
         android:layout_marginEnd="25dp"
+        android:background="#D9D3E1"
         android:layout_marginStart="25dp"
         android:elevation="4dp"
         app:cardUseCompatPadding="true">
@@ -41,6 +42,7 @@
             android:layout_width="match_parent"
             android:layout_height="363dp"
             android:layout_margin="15dp"
+            android:background="@color/purple_200"
             android:orientation="vertical">
 
             <RelativeLayout
@@ -99,7 +101,7 @@
                     android:backgroundTint="@null"
                     android:text="Ingresar"
                     android:textColor="@color/black"
-                    android:textSize="20dp" />
+                    android:textSize="15dp" />
 
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/btnRegistrarUsuario"
@@ -111,7 +113,7 @@
                     android:backgroundTint="@null"
                     android:onClick="OnClick"
                     android:text="Registrarse"
-                    android:textAlignment="center"
+                    android:textSize="15dp"
                     android:textColor="@color/black" />
             </androidx.appcompat.widget.LinearLayoutCompat>
         </LinearLayout>

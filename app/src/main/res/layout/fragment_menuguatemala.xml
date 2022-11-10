@@ -5,9 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
-    tools:context=".MainActivity">
+    android:background="@drawable/fondooooo"
+    tools:context=".ui.guatemala.menuguatemala">
     <androidx.appcompat.widget.AppCompatCheckedTextView
         android:id="@+id/txtm"
         android:layout_width="wrap_content"
@@ -20,7 +20,6 @@
         tools:layout_editor_absoluteX="50dp"
         tools:layout_editor_absoluteY="48dp"
         />
-
 
     <Space
         android:layout_width="match_parent"
@@ -42,8 +41,9 @@
             tools:src="@drawable/postres"
 
             />
+
         <Button
-            android:id="@+id/btn1"
+            android:id="@+id/btng1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
@@ -73,7 +73,7 @@
             tools:src="@drawable/bebida" />
 
         <Button
-            android:id="@+id/btn2"
+            android:id="@+id/btng2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
@@ -102,13 +102,17 @@
             android:layout_marginLeft="60dp"/>
 
         <Button
-            android:id="@+id/btn3"
+            android:id="@+id/btng3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Plato fuerte"
+            android:text="Button"
             android:layout_marginRight="10dp"
+<<<<<<< HEAD
             android:drawableBottom="@drawable/button_color"
+=======
+>>>>>>> 821364a32336873dc2691d958f3194963733cf06
             android:layout_marginLeft="10dp"/>
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 </androidx.appcompat.widget.LinearLayoutCompat>
+

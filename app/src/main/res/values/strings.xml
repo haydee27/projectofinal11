@@ -110,6 +110,7 @@ Antes de servirlo, lo sacaremos del congelador al menos 20 minutos antes (o más
 
 
     </string>
+
     <string name="receta_bebida1">
         Ingredientes:
 1 litro de agua
@@ -335,5 +336,5 @@ Sirva inmediatamente o refrigere por unos 30 minutos si lo prefiere frío.
     </string>
     <string name="receta_bebida4">bebida4</string>
     <string name="receta_bebida5">bebida5</string>
-
+    
 </resources>
