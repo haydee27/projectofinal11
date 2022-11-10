@@ -7,6 +7,12 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.hb.recetaappfinal.ui.guatemala.postreg1;
+import com.hb.recetaappfinal.ui.guatemala.postreg2;
+import com.hb.recetaappfinal.ui.guatemala.postreg3;
+import com.hb.recetaappfinal.ui.guatemala.postreg4;
+import com.hb.recetaappfinal.ui.guatemala.postreg5;
+
 
 public class MainActivitypostreg extends AppCompatActivity {
 

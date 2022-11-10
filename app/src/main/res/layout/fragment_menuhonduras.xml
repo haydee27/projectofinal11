@@ -7,12 +7,12 @@
     android:orientation="vertical"
     android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
-    tools:context=".MainActivity">
+    tools:context=".ui.honduras.menuhonduras">
     <androidx.appcompat.widget.AppCompatCheckedTextView
         android:id="@+id/txtm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Menu Homduras"
+        android:text="Menu Honduras"
         android:textColor="#FFBB86FC"
         android:textSize="35dp"
         android:textAlignment="center"

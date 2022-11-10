@@ -1,4 +1,4 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.guatemala;
 
 import android.os.Bundle;
 
@@ -8,12 +8,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.hb.recetaappfinal.R;
+
 /**
  * A simple {@link Fragment} subclass.
- * Use the {@link menuhonduras#newInstance} factory method to
+ * Use the {@link menuguatemala#newInstance} factory method to
  * create an instance of this fragment.
  */
-public class menuhonduras extends Fragment {
+public class menuguatemala extends Fragment {
 
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -24,7 +26,7 @@ public class menuhonduras extends Fragment {
     private String mParam1;
     private String mParam2;
 
-    public menuhonduras() {
+    public menuguatemala() {
         // Required empty public constructor
     }
 
@@ -34,11 +36,11 @@ public class menuhonduras extends Fragment {
      *
      * @param param1 Parameter 1.
      * @param param2 Parameter 2.
-     * @return A new instance of fragment menuhonduras.
+     * @return A new instance of fragment menuguatemala.
      */
     // TODO: Rename and change types and number of parameters
-    public static menuhonduras newInstance(String param1, String param2) {
-        menuhonduras fragment = new menuhonduras();
+    public static menuguatemala newInstance(String param1, String param2) {
+        menuguatemala fragment = new menuguatemala();
         Bundle args = new Bundle();
         args.putString(ARG_PARAM1, param1);
         args.putString(ARG_PARAM2, param2);
@@ -59,6 +61,6 @@ public class menuhonduras extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_menuhonduras, container, false);
+        return inflater.inflate(R.layout.fragment_menuguatemala, container, false);
     }
 }

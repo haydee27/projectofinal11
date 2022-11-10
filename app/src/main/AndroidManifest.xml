@@ -13,20 +13,20 @@
         android:theme="@style/Theme.Recetaappfinal"
         tools:targetApi="31">
         <activity
-            android:name=".postreg5"
+            android:name=".ui.guatemala.postreg5"
             android:exported="false" />
         <activity
-            android:name=".postreg4"
+            android:name=".ui.guatemala.postreg4"
             android:exported="false" />
         <activity
-            android:name=".postreg3"
+            android:name=".ui.guatemala.postreg3"
             android:exported="false" />
         <activity
-            android:name=".postreg2"
+            android:name=".ui.guatemala.postreg2"
             android:exported="false"
             android:theme="@style/Theme.Recetaappfinal.NoActionBar" />
         <activity
-            android:name=".postreg1"
+            android:name=".ui.guatemala.postreg1"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.platon5"
@@ -70,7 +70,7 @@
         <activity
             android:name=".ui.nicaragua.postren2"
             android:exported="false" />
-        
+
         <meta-data
             android:name="android.app.lib_name"
             android:value="" />

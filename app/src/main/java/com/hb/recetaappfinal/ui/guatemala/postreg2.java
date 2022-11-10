@@ -1,4 +1,4 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.guatemala;
 
 import android.os.Bundle;
 
@@ -13,6 +13,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
+import com.hb.recetaappfinal.R;
 import com.hb.recetaappfinal.databinding.ActivityPostreg2Binding;
 
 public class postreg2 extends AppCompatActivity {

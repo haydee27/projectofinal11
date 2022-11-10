@@ -1,14 +1,16 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.guatemala;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class postreg3 extends AppCompatActivity {
+import com.hb.recetaappfinal.R;
+
+public class postreg1 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_postreg3);
+        setContentView(R.layout.activity_postreg1);
     }
 }

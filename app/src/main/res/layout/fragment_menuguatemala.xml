@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:layout_margin="0dp"
     android:background="@drawable/fondooooo"
-    tools:context=".MainActivity">
+    tools:context=".ui.guatemala.menuguatemala">
     <androidx.appcompat.widget.AppCompatCheckedTextView
         android:id="@+id/txtm"
         android:layout_width="wrap_content"
