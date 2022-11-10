@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:text="TAMALES DE GALLINA"
         android:textSize="35dp"
-        android:textColor="#FFBB86FC"
+        android:textColor="#9C27B0"
         android:textAlignment="center"
         android:layout_marginLeft="10dp"
         tools:layout_editor_absoluteX="50dp"

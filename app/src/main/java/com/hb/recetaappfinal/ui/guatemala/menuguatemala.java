@@ -11,6 +11,9 @@ import android.view.ViewGroup;
 import android.widget.Button;
 
 import com.hb.recetaappfinal.R;
+import com.hb.recetaappfinal.ui.nicaragua.MainActivitybebidasn;
+import com.hb.recetaappfinal.ui.nicaragua.MainActivityplatofn;
+import com.hb.recetaappfinal.ui.nicaragua.MainActivitypostresn;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -67,11 +70,10 @@ public class menuguatemala extends Fragment {
         Button btng2Activit = (Button) view.findViewById(R.id.btng2);
         Button btng3Activit = (Button) view.findViewById(R.id.btng3);
 
-
         btng1Activit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), MainActivitypostreg.class);
+                Intent intent = new Intent(getActivity(), MainActivitypostresn.class);
                 startActivity(intent);
             }
         });
@@ -79,7 +81,7 @@ public class menuguatemala extends Fragment {
         btng2Activit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), MainActivitybebidasg.class);
+                Intent intent = new Intent(getActivity(), MainActivitybebidasn.class);
                 startActivity(intent);
             }
         });
@@ -87,7 +89,7 @@ public class menuguatemala extends Fragment {
         btng3Activit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), MainActivityplatofg.class);
+                Intent intent = new Intent(getActivity(), MainActivityplatofn.class);
                 startActivity(intent);
             }
         });

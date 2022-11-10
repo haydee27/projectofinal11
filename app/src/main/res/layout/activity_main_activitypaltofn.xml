@@ -47,7 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="platon1"
-            android:onClick="plato1"
+            android:onClick="platon1"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
@@ -106,7 +106,7 @@
             android:id="@+id/btnip4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="plato4"
+            android:onClick="platon4"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
