@@ -6,7 +6,20 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:layout_margin="0dp"
+    android:background="@drawable/fondooooo"
     tools:context=".MainActivity">
+    <androidx.appcompat.widget.AppCompatCheckedTextView
+        android:id="@+id/txtm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Menu Nicaragua"
+        android:textSize="35dp"
+        android:textAlignment="center"
+        android:layout_marginLeft="70dp"
+        android:textColor="#FFBB86FC"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="48dp"
+        />
 
     <Space
         android:layout_width="match_parent"
@@ -63,7 +76,7 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
             android:layout_marginLeft="10dp"
-            android:text="Button" />
+            android:text="Bebida" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
     <Space
@@ -89,7 +102,7 @@
             android:id="@+id/btni3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Button"
+            android:text="Plato fuerte"
             android:layout_marginRight="10dp"
             android:layout_marginLeft="10dp"/>
     </androidx.appcompat.widget.LinearLayoutCompat>

@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    android:background="@color/white"
+    android:background="@drawable/fondooooo"
     tools:context=".ui.login.registrar">
 
     <Space
@@ -55,13 +55,13 @@
         <ScrollView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#9068C1">
+            android:background="#D8B8DD">
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="15dp"
-                android:background="#9068C1"
+                android:background="#AC74F1"
                 android:orientation="vertical">
 
                 <RelativeLayout
@@ -72,9 +72,10 @@
                         android:id="@+id/textView"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_marginLeft="76dp"
                         android:text="Registro Usuario"
                         android:textColor="@android:color/black"
-                        android:textSize="28sp"
+                        android:textSize="20sp"
                         android:textStyle="bold" />
                 </RelativeLayout>
                 <EditText
