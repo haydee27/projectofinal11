@@ -47,7 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="bebida1"
-            android:onClick="bebida1"
+            android:onClick="bebidan1"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
@@ -56,7 +56,7 @@
             android:id="@+id/btnib2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="bebida2"
+            android:onClick="bebidan2"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -97,7 +97,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Button"
-            android:onClick="bebida3"
+            android:onClick="bebidan3"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
@@ -106,7 +106,7 @@
             android:id="@+id/btnib4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="bebida4"
+            android:onClick="bebidan4"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -136,7 +136,7 @@
             android:id="@+id/btnib5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="bebida5"
+            android:onClick="bebidan5"
             android:text="Button" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
