@@ -1,11 +1,12 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.sv;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.os.Bundle;
+
+import com.hb.recetaappfinal.R;
 
 
 public class MainActivityplatof extends AppCompatActivity {

@@ -5,15 +5,29 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/purple_200"
+    android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
     android:gravity="center"
-    tools:context=".postre1"
+    tools:context=".ui.sv.postre1"
     tools:ignore="MissingClass">
+
+
 
     <Space
         android:layout_width="match_parent"
         android:layout_height="55dp"
+        />
+    <androidx.appcompat.widget.AppCompatCheckedTextView
+        android:id="@+id/txtm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ATOLE DE ELOTE"
+        android:textColor="#FFBB86FC"
+        android:textSize="35dp"
+        android:textAlignment="center"
+        android:layout_marginLeft="10dp"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="48dp"
         />
 
     <androidx.appcompat.widget.LinearLayoutCompat
@@ -25,9 +39,9 @@
 
         <ImageView
             android:id="@+id/imageView7"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            tools:srcCompat="@tools:sample/avatars" />
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            tools:srcCompat="@drawable/atoldeelote" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -45,7 +59,8 @@
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/receta_postre1" />
+            android:textAlignment="center"
+            android:text="@string/postre4" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 

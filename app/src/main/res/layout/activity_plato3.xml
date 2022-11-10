@@ -8,7 +8,7 @@
     android:background="@color/purple_200"
     android:layout_margin="0dp"
     android:gravity="center"
-    tools:context=".plato3"
+    tools:context=".ui.sv.plato3"
     tools:ignore="MissingClass">
 
     <Space

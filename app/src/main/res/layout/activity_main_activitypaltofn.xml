@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:layout_margin="0dp"
-    tools:context=".MainActivityplatof"
+    tools:context=".ui.sv.MainActivityplatof"
     tools:ignore="MissingClass">
 
     <Space

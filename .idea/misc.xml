@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebida1.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebida2.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebida3.xml" value="0.1" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebida4.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebidan1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebidan2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebidan3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebidan4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_bebidan5.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_main_activitybebidas.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_main_activitybebidasn.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_main_activitypaltofn.xml" value="0.20416666666666666" />
@@ -21,7 +29,9 @@
         <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_postre3.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_postre4.xml" value="0.14628623188405798" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_postre5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/activity_postren1.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/content_plato1_es.xml" value="0.1453804347826087" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/content_postren1.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/fragment_first.xml" value="0.1453804347826087" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/fragment_menu2.xml" value="0.21" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/projectofinal11/app/src/main/res/layout/fragment_menunicaragua.xml" value="0.1" />

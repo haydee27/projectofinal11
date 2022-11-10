@@ -13,7 +13,7 @@
 
     <fragment
         android:id="@+id/nav_elsalvador"
-        android:name="com.hb.recetaappfinal.menu2"
+        android:name="com.hb.recetaappfinal.ui.sv.menu2"
         android:label="Menu El Salvador"
         tools:layout="@layout/fragment_menu2" />
 
