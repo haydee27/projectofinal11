@@ -19,12 +19,12 @@
         tools:context=".ui.sv.plato1"
         tools:ignore="MissingClass">
 
-        
+
         <androidx.appcompat.widget.AppCompatCheckedTextView
             android:id="@+id/txtm"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="COCADA"
+            android:text="COCADA."
             android:textSize="35dp"
             android:textColor="#FFBB86FC"
             android:textAlignment="center"
