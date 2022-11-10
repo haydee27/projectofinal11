@@ -19,10 +19,7 @@
         tools:context=".ui.sv.plato1"
         tools:ignore="MissingClass">
 
-        <Space
-            android:layout_width="wrap_content"
-            android:layout_height="15dp"/>
-
+        
         <androidx.appcompat.widget.AppCompatCheckedTextView
             android:id="@+id/txtm"
             android:layout_width="wrap_content"
