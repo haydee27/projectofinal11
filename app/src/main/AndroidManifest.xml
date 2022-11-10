@@ -121,13 +121,13 @@
             android:name=".ui.guatemala.MainActivitybebidasg"
             android:exported="false" />
         <activity
-            android:name=".bebidag1"
+            android:name=".ui.guatemala.bebidag1"
             android:exported="false" />
         <activity
-            android:name=".bebidag3"
+            android:name=".ui.guatemala.bebidag3"
             android:exported="false" />
         <activity
-            android:name=".bebidag2"
+            android:name=".ui.guatemala.bebidag2"
             android:exported="false" />
         <activity
             android:name=".ui.guatemala.MainActivityplatofg"

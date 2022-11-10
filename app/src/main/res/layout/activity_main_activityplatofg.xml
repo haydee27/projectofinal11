@@ -7,7 +7,7 @@
     android:background="@drawable/fondooooo"
     android:orientation="vertical"
     android:layout_margin="0dp"
-    tools:context=".ui.sv.MainActivityplatof"
+    tools:context=".ui.guatemala.MainActivityplatofg"
     tools:ignore="MissingClass">
 
     <Space
