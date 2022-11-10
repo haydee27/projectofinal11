@@ -24,7 +24,7 @@
             android:id="@+id/imageView5"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/sopagallina"
+            android:src="@drawable/pupusas_salvadorenas"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"/>
 
@@ -32,7 +32,7 @@
             android:id="@+id/imageView6"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/sopadepata"
+            android:src="@drawable/sopagallina"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="10dp"/>
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -46,22 +46,27 @@
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnp1"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:text="Plato Fuerte"
+            android:text="pupusas"
             android:onClick="plato1"
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="0dp"
             android:textColor="@color/black"
-            android:layout_marginRight="60dp"
-            android:textSize="15dp" />
+            android:textSize="10dp" />
 
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnp2"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
             android:onClick="plato2"
-            android:text="Button" />
+            android:text="sopa de gallina"
+            android:layout_marginLeft="110dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -78,7 +83,7 @@
             android:id="@+id/imageView9"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/pupusas_salvadorenas"
+            android:src="@drawable/sopadepata"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"/>
 
@@ -98,22 +103,29 @@
         android:gravity="center"
         android:orientation="horizontal">
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnp3"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:text="Button"
+            android:background="@drawable/button_color"
+            android:text="sopa de pata"
             android:onClick="plato3"
-            android:layout_marginRight="60dp"
-            android:layout_marginLeft="0dp"/>
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
 
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnp4"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
             android:onClick="plato4"
-            android:text="Button" />
+            android:text="pan con pollo"
+            android:layout_marginLeft="110dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -140,12 +152,20 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="horizontal">
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnp5"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
+            android:text="Tamales de pollo"
             android:onClick="plato5"
-            android:text="Button" />
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
+
+
+
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 </androidx.appcompat.widget.LinearLayoutCompat>
