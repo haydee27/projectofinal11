@@ -168,7 +168,16 @@ Elotes naturales cocinados
 
 
     </string>
-    <string name="receta_bebida4">bebida4</string>
+    <string name="receta_bebida4I">bebida4i</string>
+
+    1 litro de agua
+    1 rajita de canela
+    5 pimientas gordas
+    5 clavos de olor
+    1/4 taza de harina de pan o de arroz
+    2 cucharadas de esencia de vainilla
+    2 o 3 cucharadas de esencia de fresa
+    * Azúcar al gusto
     <string name="receta_bebida5">bebida5</string>
     
 </resources>
