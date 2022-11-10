@@ -1,4 +1,4 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.guatemala;
 
 import android.os.Bundle;
 
@@ -7,6 +7,8 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.hb.recetaappfinal.R;
 
 /**
  * A simple {@link Fragment} subclass.

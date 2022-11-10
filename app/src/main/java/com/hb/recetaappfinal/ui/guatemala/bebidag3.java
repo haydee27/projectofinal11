@@ -1,14 +1,16 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.guatemala;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class bebidag2 extends AppCompatActivity {
+import com.hb.recetaappfinal.R;
+
+public class bebidag3 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_bebidag2);
+        setContentView(R.layout.activity_bebidag3);
     }
 }
