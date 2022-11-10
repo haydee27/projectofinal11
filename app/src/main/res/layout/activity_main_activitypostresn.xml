@@ -47,7 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Button"
-            android:onClick="postresn1"
+            android:onClick="postren1"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
@@ -56,7 +56,7 @@
             android:id="@+id/btnio2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postresn2"
+            android:onClick="postren2"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -97,7 +97,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Button"
-            android:onClick="postresn3"
+            android:onClick="postren3"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
@@ -106,7 +106,7 @@
             android:id="@+id/btnio4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postresn4"
+            android:onClick="postren4"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -136,7 +136,7 @@
             android:id="@+id/btnio5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postresn5"
+            android:onClick="postren5"
             android:text="Button" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
