@@ -334,6 +334,115 @@ Pruebe y si lo desea agregue azúcar o miel de abeja a su gusto.
 Sirva inmediatamente o refrigere por unos 30 minutos si lo prefiere frío.
 
     </string>
+    <string name="dulcepapaya">INGREDIENTES
+    -500 gramos de papaya madura
+-200 gramos de azúcar
+-2 ramas de canela
+-1 cucharadita de levadura en polvo
+-1 trozo de queso vegano
+-Agua
+-Cáscara de un limón
+-Extracto de vainilla
+
+        PROCEDIMIENTO
+
+        Comenzaremos pelando y limpiando muy bien la papaya. Luego, la cortaremos en trozos medianos en forma rectangular.
+-Colocamos la papaya troceada en un bol, cubrimos de agua y agregamos la levadura en polvo. Removemos y dejamos reposar durante una hora.
+-Al transcurso de este tiempo, retiramos la papaya, lavamos y la escurrimos.
+-Ahora, colocaremos la papaya en una olla con agua.
+-Adicionamos el azúcar, la cáscara de limón, la canela y extracto de vainilla según tus gustos, te recomendamos incorporar solo una cucharadita.
+-Llevamos a la cocina y dejamos hervir tapada durante aproximadamente una hora.
+-Después de una hora de cocción, y verificamos que el líquido se haya reducido lo suficiente para formar una especie de caramelo.
+-En este punto, retiramos del fuego y dejamos enfriar.
+-Mientras tanto picamos en pequeños rectángulos el trozo de queso vegano y reservamos.
+-Servimos el dulce de papaya madura cuando se encuentre frío y decoramos con unos trocitos de queso vegano para generar ese contraste de sabor dulce y salado.
+    </string>
+
+    <string name="hojaldrapanameña">INGRDIENTES
+        2 tazas de harina de trigo
+1 ½ cucharadita de azúcar
+2 cucharaditas de polvo de hornear
+1 cucharadita sal
+1cucharada de aceite
+Aceite suficiente para freír las hojaldres
+
+        PROCEDIMIENTO
+
+        En un bol coloque la harina, azúcar, sal, polvo de hornear. Remueve todo y añadir poco a poco agua o leche para ir formando la masa.
+Lleve la masa sobre una superficie plana y amásela bien. Dejar tapada que repose unos 30 minutos.
+Cortar trocitos de masa y estirarlos de manera que queden bien delgadas.
+Freír en aceite bien caliente. ¡Buen porvecho!
+
+    </string>
+
+    <string name="cocada">INGREDIENTES
+3 tazas de coco rallado
+400 gr de raspadura o miel
+½ taza de agua
+1 rollito de canela
+Corteza de naranja
+
+        PROCEDIMIENTO
+
+        En una cacerola colocar la raspadura con el agua y la canela, y cocinar por 5 minutos.
+Añadir el coco recién rallado, la corteza de naranja y cocinar a fuego bajo por unos 30 minutos, sin dejar de remover.
+La preparación estará lista cuando el caramelo ya no pegue del fondo de la cacerola y en la mezcla se formen surcos firmes. Retirar la canela y la corteza de naranja.
+Con la ayuda de dos cucharas, tomar parte de la preparación y formar pequeñas bolas que debe colocar sobre una bandeja. Dejar enfriar.
+Puede llevarlas al refrigerador para que la mezcla compacte más.
+Deguste frías o a temperatura ambiente. ¡Buen provecho!
+
+    </string>
+    <string name="mazamorra">INGREDIENTES
+        2 tazas de granos de maíz viejo.
+•	1 taza de granos de maíz nuevo.
+•	6 tazas de agua.
+•	2 tazas de azúcar.
+•	4 ramas de canela.
+•	8 clavos de olor.
+•	1 taza de chicha de nance.
+•	1 taza de leche evaporada.
+•	½ taza de leche de coco.
+•	Una pizca de sal.
+
+        PROCEDIMIENTO
+
+        1- Lavamos bien el maíz viejo, lo escurrimos y lo llevamos a tostar a una sartén por unos 10 minutos hasta que se ponga un poco oscuro, y lo dejamos reposar hasta que se enfríe.
+
+2- Cuando este frío comenzamos a molerlo y lo reservamos.
+
+3- En una olla grande agregamos el agua, el azúcar, la canela los clavos y dejamos cocinar por 5 minutos mientras vamos removiendo.
+
+4- Cuando el azúcar se haya disuelto completamente, vamos incorporando de a poco el maíz viejo molido mientras removemos para evitar que se creen grumos.
+
+5- Seguidamente agregamos el maíz nuevo, la leche evaporada y la leche de coco, dejamos cocinar por 15 minutos.
+
+6- Cuando veamos que ya está espesando nuestra mazamorra, añadimos la chicha de nance, la pizca de sal, removemos por 2 minutos y retiramos del fuego.
+
+7- Servimos caliente la mazamorra y degustamos a nuestro gusto.
+
+    </string>
+
+    <string name="pesadadenance">INGREDIENTES
+        1 botella de nance
+•	5 cucharadas de azúcar
+•	6 onzas de leche evaporada
+•	2 tazas de agua
+•	1 taza de harina
+•	pizca de sal
+•	queso fresco rallado a gusto
+
+        PROCEDIMIENTO
+
+        1: Colocamos los nances en una licuadora con la misma agua que tenía en la botella. Licuamos bien y colamos.
+        2: Mientras estamos colando agregamos las 2 tazas de agua para que facilite el proceso de colar.
+
+3: Agregar la azúcar y la harina previamente disuelta en un poco de agua a nuestra mezcla.
+
+4: Seguimos mezclando e incorporamos la leche evaporada. Llevamos a cocinamos por 15 aprox. hasta que comience a espesar.
+
+5: Finalmente, ya solo queda servir y esparcir por encima un poco de queso picado que lo disfrutes.
+
+    </string>
     <string name="receta_bebida4">bebida4</string>
     <string name="receta_bebida5">bebida5</string>
 
