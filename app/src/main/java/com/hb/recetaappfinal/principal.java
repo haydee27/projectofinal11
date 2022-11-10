@@ -10,10 +10,10 @@ import android.view.ViewGroup;
 
 /**
  * A simple {@link Fragment} subclass.
- * Use the {@link bebidag4#newInstance} factory method to
+ * Use the {@link principal#newInstance} factory method to
  * create an instance of this fragment.
  */
-public class bebidag4 extends Fragment {
+public class principal extends Fragment {
 
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -24,7 +24,7 @@ public class bebidag4 extends Fragment {
     private String mParam1;
     private String mParam2;
 
-    public bebidag4() {
+    public principal() {
         // Required empty public constructor
     }
 
@@ -34,11 +34,11 @@ public class bebidag4 extends Fragment {
      *
      * @param param1 Parameter 1.
      * @param param2 Parameter 2.
-     * @return A new instance of fragment bebidag4.
+     * @return A new instance of fragment principal.
      */
     // TODO: Rename and change types and number of parameters
-    public static bebidag4 newInstance(String param1, String param2) {
-        bebidag4 fragment = new bebidag4();
+    public static principal newInstance(String param1, String param2) {
+        principal fragment = new principal();
         Bundle args = new Bundle();
         args.putString(ARG_PARAM1, param1);
         args.putString(ARG_PARAM2, param2);
@@ -59,6 +59,6 @@ public class bebidag4 extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_bebidag4, container, false);
+        return inflater.inflate(R.layout.fragment_principal, container, false);
     }
 }

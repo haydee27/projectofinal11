@@ -38,7 +38,7 @@
             android:layout_height="160dp"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"
-            tools:src="@drawable/postres"
+            android:src="@drawable/postres"
 
             />
         <Button
@@ -68,7 +68,7 @@
             android:layout_height="160dp"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"
-            tools:src="@drawable/bebida" />
+            android:src="@drawable/bebida" />
 
         <Button
             android:id="@+id/btni2"
@@ -94,7 +94,7 @@
             android:id="@+id/imageView5"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            tools:src="@drawable/platofuerte"
+            android:src="@drawable/platofuerte"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"/>
 
