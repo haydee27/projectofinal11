@@ -79,7 +79,7 @@ public class menuguatemala extends Fragment {
         btng2Activit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), MainActivitybebidag.class);
+                Intent intent = new Intent(getActivity(), MainActivitybebidasg.class);
                 startActivity(intent);
             }
         });

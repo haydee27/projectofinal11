@@ -41,7 +41,7 @@
             android:id="@+id/imageView7"
             android:layout_width="200dp"
             android:layout_height="200dp"
-            tools:srcCompat="@drawable/chocolate" />
+            android:src="@drawable/chocolate" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space

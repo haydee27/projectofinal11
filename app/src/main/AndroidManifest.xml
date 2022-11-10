@@ -19,9 +19,6 @@
             android:name=".bebidag1"
             android:exported="false" />
         <activity
-            android:name=".bebidag4"
-            android:exported="false" />
-        <activity
             android:name=".bebidag3"
             android:exported="false" />
         <activity

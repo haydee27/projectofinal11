@@ -47,7 +47,7 @@
             android:id="@+id/imageView7"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:srcCompat="@drawable/sorvete" />
+            android:src="@drawable/sorvete" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space

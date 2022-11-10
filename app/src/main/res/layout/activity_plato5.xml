@@ -40,7 +40,7 @@
             android:id="@+id/imageView7"
             android:layout_width="200dp"
             android:layout_height="200dp"
-            tools:srcCompat="@drawable/tamalesdegallina" />
+            android:src="@drawable/tamalesdegallina" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space

@@ -40,7 +40,7 @@
             android:id="@+id/imageView7"
             android:layout_width="wrap_content"
             android:layout_height="160dp"
-            tools:srcCompat="@drawable/panrelleno" />
+            android:src="@drawable/panrelleno" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space

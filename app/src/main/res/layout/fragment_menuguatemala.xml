@@ -38,7 +38,7 @@
             android:layout_height="160dp"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"
-            tools:src="@drawable/postres"
+            android:src="@drawable/postres"
 
             />
 
@@ -70,7 +70,7 @@
             android:layout_height="160dp"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"
-            tools:src="@drawable/bebida" />
+            android:src="@drawable/bebida" />
 
         <Button
             android:id="@+id/btng2"
@@ -97,7 +97,7 @@
             android:id="@+id/imageView5"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            tools:src="@drawable/platofuerte"
+            android:src="@drawable/platofuerte"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"/>
 
@@ -107,10 +107,7 @@
             android:layout_height="wrap_content"
             android:text="Button"
             android:layout_marginRight="10dp"
-<<<<<<< HEAD
             android:drawableBottom="@drawable/button_color"
-=======
->>>>>>> 821364a32336873dc2691d958f3194963733cf06
             android:layout_marginLeft="10dp"/>
     </androidx.appcompat.widget.LinearLayoutCompat>
 
