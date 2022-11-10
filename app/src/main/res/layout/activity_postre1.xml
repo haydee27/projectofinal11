@@ -66,7 +66,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:textAlignment="center"
-            android:text="@string/receta_postre1" />
+            android:text="@string/receta_postre1" /> 
     </ScrollView>
 
 
