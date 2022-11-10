@@ -9,8 +9,36 @@
     android:gravity="center"
     tools:context=".ui.sv.bebida1"
     tools:ignore="MissingClass">
+
     <TextView
         android:layout_width="wrap_content"
+        android:layout_margin="0dp"
+        android:gravity="center"
+        tools:context=".ui.sv.bebida1"
+        tools:ignore="MissingClass"
+        android:layout_height="wrap_content"/>
+
+    <androidx.appcompat.widget.AppCompatCheckedTextView
+        android:id="@+id/txtm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="REFRESCO DE CEBADA"
+        android:textColor="#FFBB86FC"
+        android:textSize="35dp"
+        android:textAlignment="center"
+        android:layout_marginLeft="10dp"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="48dp"
+        />
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        />
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Fresco de Cebada"
         android:textSize="30dp"
@@ -25,7 +53,7 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="55dp"
+        android:layout_height="25dp"
         />
 
     <TextView
@@ -46,9 +74,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="@color/black"
+            android:textAlignment="center"
             android:text="@string/receta_bebida1" />
-
-    </androidx.appcompat.widget.LinearLayoutCompat>
+</androidx.appcompat.widget.LinearLayoutCompat>
 
 
 

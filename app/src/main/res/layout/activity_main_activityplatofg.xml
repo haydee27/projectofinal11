@@ -42,20 +42,20 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btnip1"
+            android:id="@+id/btngp1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="platon1"
-            android:onClick="plato1"
+            android:text="plato1"
+            android:onClick="platog1"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
 
         <Button
-            android:id="@+id/btnip2"
+            android:id="@+id/btngp2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="platon2"
+            android:onClick="platog2"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -92,20 +92,20 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btnip3"
+            android:id="@+id/btngp3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Button"
-            android:onClick="platon3"
+            android:onClick="platog3"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
 
         <Button
-            android:id="@+id/btnip4"
+            android:id="@+id/btngp4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="plato4"
+            android:onClick="platog4"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -132,10 +132,10 @@
         android:gravity="center"
         android:orientation="horizontal">
         <Button
-            android:id="@+id/btnip5"
+            android:id="@+id/btngp5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="platon5"
+            android:onClick="platog5"
             android:text="Button" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 

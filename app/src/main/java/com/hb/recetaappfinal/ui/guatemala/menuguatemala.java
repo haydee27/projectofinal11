@@ -1,5 +1,6 @@
 package com.hb.recetaappfinal.ui.guatemala;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -7,6 +8,7 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 
 import com.hb.recetaappfinal.R;
 
@@ -60,7 +62,36 @@ public class menuguatemala extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_menuguatemala, container, false);
+        View view = inflater.inflate(R.layout.fragment_menuguatemala, container, false);
+        Button btng1Activit = (Button) view.findViewById(R.id.btng1);
+        Button btng2Activit = (Button) view.findViewById(R.id.btng2);
+        Button btng3Activit = (Button) view.findViewById(R.id.btng3);
+
+
+        btng1Activit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivitypostreg.class);
+                startActivity(intent);
+            }
+        });
+
+        btng2Activit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivitybebidag.class);
+                startActivity(intent);
+            }
+        });
+
+        btng3Activit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivityplatofg.class);
+                startActivity(intent);
+            }
+        });
+
+        return view;
     }
 }
