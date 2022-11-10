@@ -6,8 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:layout_margin="0dp"
+    tools:context=".ui.sv.postre1"
    android:background="@drawable/fondooooo"
-    tools:context=".postre1"
     tools:ignore="MissingClass">
 
     <Space

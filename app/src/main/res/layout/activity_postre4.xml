@@ -8,7 +8,7 @@
     android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
     android:gravity="center"
-    tools:context=".postre1"
+    tools:context=".ui.sv.postre1"
     tools:ignore="MissingClass">
 
 

@@ -13,12 +13,51 @@
         android:theme="@style/Theme.Recetaappfinal"
         tools:targetApi="31">
         <activity
-            android:name=".ui.login.registrar"
-            android:exported="false">
+            android:name=".ui.nicaragua.platon5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.nicaragua.platon4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.nicaragua.platon3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.nicaragua.platon2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.nicaragua.platon1"
+            android:exported="false" />
+        <activity
+            android:name=".ui.nicaragua.bebidan5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.nicaragua.bebidan4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.nicaragua.bebidan3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.nicaragua.bebidan2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.nicaragua.bebidan1"
+            android:exported="false" />
+        <activity
+            android:name=".ui.nicaragua.postren5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.nicaragua.postren4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.nicaragua.postren3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.nicaragua.postren2"
+            android:exported="false" />
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
-        </activity>
+
         <activity
             android:name=".ui.login.MainActivitylogin"
             android:exported="false">
@@ -27,73 +66,110 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".MainActivityplatofn"
+            android:name=".ui.nicaragua.MainActivityplatofn"
             android:exported="false" />
         <activity
-            android:name=".MainActivitybebidasn"
+            android:name=".ui.nicaragua.MainActivitybebidasn"
             android:exported="false" />
         <activity
-            android:name=".MainActivitypostresn"
+            android:name=".ui.nicaragua.MainActivitypostresn"
             android:exported="false" />
         <activity
-            android:name=".bebida5"
-            android:exported="false" />
+            android:name=".ui.sv.bebida5"
+            android:exported="false"
+            android:label="Bebida5"
+            android:parentActivityName=".ui.sv.MainActivitybebidas"/>
         <activity
-            android:name=".bebida4"
-            android:exported="false" />
+            android:name=".ui.sv.bebida4"
+            android:exported="false"
+            android:label="Bebida4"
+            android:parentActivityName=".ui.sv.MainActivitybebidas"/>
         <activity
             android:name=".ui.sv.bebida3"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Bebida3"
+            android:parentActivityName=".ui.sv.MainActivitybebidas"/>
         <activity
             android:name=".ui.sv.bebida2"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Bebida2"
+            android:parentActivityName=".ui.sv.MainActivitybebidas"/>
         <activity
             android:name=".ui.sv.bebida1"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Bebida1"
+            android:parentActivityName=".ui.sv.MainActivitybebidas"/>
         <activity
-            android:name=".plato5"
-            android:exported="false" />
+            android:name=".ui.sv.plato5"
+            android:exported="false"
+            android:label="Plato5"
+            android:parentActivityName=".ui.sv.MainActivityplatof"/>
         <activity
-            android:name=".plato4"
-            android:exported="false" />
+            android:name=".ui.sv.plato4"
+            android:exported="false"
+            android:label="Plato4"
+            android:parentActivityName=".ui.sv.MainActivityplatof"/>
         <activity
-            android:name=".plato3"
-            android:exported="false" />
+            android:name=".ui.sv.plato3"
+            android:exported="false"
+            android:label="Plato3"
+            android:parentActivityName=".ui.sv.MainActivityplatof"/>
         <activity
-            android:name=".plato2"
-            android:exported="false" />
+            android:name=".ui.sv.plato2"
+            android:exported="false"
+            android:label="Plato2"
+            android:parentActivityName=".ui.sv.MainActivityplatof"/>
         <activity
-            android:name=".plato1"
-            android:exported="false" />
+            android:name=".ui.sv.plato1"
+            android:exported="false"
+            android:label="Plato1"
+            android:parentActivityName=".ui.sv.MainActivityplatof"/>
         <activity
-            android:name=".MainActivityplatof"
-            android:exported="false" />
+            android:name=".ui.sv.MainActivityplatof"
+            android:exported="false"
+            android:label="Plato"
+            android:parentActivityName=".ui.sv.menu2"/>
         <activity
-            android:name=".MainActivitybebidas"
-            android:exported="false" />
+            android:name=".ui.sv.MainActivitybebidas"
+            android:exported="false"
+            android:label="Plato"
+            android:parentActivityName=".ui.sv.menu2"/>
         <activity
-            android:name=".postre5"
-            android:exported="false" />
+            android:name=".ui.sv.postre5"
+            android:exported="false"
+            android:label="Postre5"
+            android:parentActivityName=".ui.sv.MainActivitypostres"/>
         <activity
-            android:name=".postre4"
-            android:exported="false" />
+            android:name=".ui.sv.postre4"
+            android:exported="false"
+            android:label="Postre4"
+            android:parentActivityName=".ui.sv.MainActivitypostres"/>
         <activity
-            android:name=".postre3"
-            android:exported="false" />
+            android:name=".ui.sv.postre3"
+            android:exported="false"
+            android:label="Postre3"
+            android:parentActivityName=".ui.sv.MainActivitypostres"/>
         <activity
-            android:name=".postre2"
-            android:exported="false" />
+            android:name=".ui.sv.postre2"
+            android:exported="false"
+            android:label="Postre2"
+            android:parentActivityName=".ui.sv.MainActivitypostres" />
         <activity
-            android:name=".postre1"
-            android:exported="false" />
+            android:name=".ui.sv.postre1"
+            android:exported="false"
+            android:label="Postre1"
+            android:parentActivityName=".ui.sv.MainActivitypostres"/>
         <activity
-            android:name=".MainActivitypostres"
-            android:exported="false" />
+            android:name=".ui.sv.MainActivitypostres"
+            android:exported="false"
+            android:label="Postres"
+            android:parentActivityName=".ui.sv.menu2"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.Recetaappfinal.NoActionBar">
+            android:theme="@style/Theme.Recetaappfinal.NoActionBar"
+            tools:ignore="WrongManifestParent">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -104,6 +180,6 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
-    </application>
 
+    </application>
 </manifest>
