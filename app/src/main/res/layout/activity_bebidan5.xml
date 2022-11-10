@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    aandroid:background="@drawable/fondooooo"
+    android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
     android:gravity="center"
     tools:context=".ui.sv.bebida3"
