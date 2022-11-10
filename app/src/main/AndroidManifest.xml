@@ -13,6 +13,27 @@
         android:theme="@style/Theme.Recetaappfinal"
         tools:targetApi="31">
         <activity
+            android:name=".ui.costarica.MainActivitybebidasc"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.costarica.MainActivityplatofc"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.costarica.MainActivitypostresc"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".ui.nicaragua.postren1"
             android:exported="false">
             <meta-data
