@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:text="PESADA DE NANCE"
         android:textSize="35dp"
-        android:textColor="#FFBB86FC"
+        android:textColor="#9C27B0"
         android:textAlignment="center"
         android:layout_marginLeft="10dp"
         tools:layout_editor_absoluteX="50dp"
@@ -58,12 +58,17 @@
         android:gravity="center"
         android:orientation="horizontal">
 
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
         <TextView
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAlignment="center"
             android:text="@string/pesadadenance" />
+        </ScrollView>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 

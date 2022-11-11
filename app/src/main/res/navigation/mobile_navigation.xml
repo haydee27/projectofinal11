@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/nav_home"
         android:name="com.hb.recetaappfinal.principal"
-        android:label="@string/menu_home"
+        android:label="My Recipes"
         tools:layout="@layout/fragment_principal" />
 
     <fragment
@@ -20,30 +20,30 @@
     <fragment
         android:id="@+id/nav_guatemala"
         android:name="com.hb.recetaappfinal.ui.guatemala.menuguatemala"
-        android:label="@string/menu_slideshow"
+        android:label="Menu Guatemala"
         tools:layout="@layout/fragment_menuguatemala" />
 
     <fragment
         android:id="@+id/nav_nicaragua"
         android:name="com.hb.recetaappfinal.ui.nicaragua.menunicaragua"
-        android:label="@string/menu_slideshow"
+        android:label="Menu Nicaragua"
         tools:layout="@layout/fragment_menunicaragua" />
 
     <fragment
         android:id="@+id/nav_costarica"
         android:name="com.hb.recetaappfinal.ui.costarica.menucostarica"
-        android:label="@string/menu_slideshow"
+        android:label="Menu Costa Rica"
         tools:layout="@layout/fragment_menucostarica" />
 
     <fragment
         android:id="@+id/nav_panama"
         android:name="com.hb.recetaappfinal.ui.panama.menupanama"
-        android:label="@string/menu_slideshow"
+        android:label="Menu Panama"
         tools:layout="@layout/fragment_menupanama" />
 
     <fragment
         android:id="@+id/nav_hondura"
         android:name="com.hb.recetaappfinal.ui.honduras.menuhonduras"
-        android:label="@string/menu_slideshow"
+        android:label="Menu Honduras"
         tools:layout="@layout/fragment_menuhonduras" />
 </navigation>
