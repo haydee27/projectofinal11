@@ -61,10 +61,11 @@
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="@color/black"
             android:textAlignment="center"
             android:text="@string/picadillopapa" />
-
         </ScrollView>
+
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 
