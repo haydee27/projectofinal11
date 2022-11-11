@@ -5,19 +5,23 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/fondooooo"
+    android:background="@drawable/guatemala"
     android:layout_margin="0dp"
     android:gravity="center"
-    tools:context=".ui.nicaragua.platon4"
+    tools:context=".ui.sv.plato1"
     tools:ignore="MissingClass">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp"/>
 
     <androidx.appcompat.widget.AppCompatCheckedTextView
         android:id="@+id/txtm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Picadillo de Papas"
+        android:text="TISTE"
         android:textSize="35dp"
-        android:textColor="#FFBB86FC"
+        android:textColor="#9C27B0"
         android:textAlignment="center"
         android:layout_marginLeft="10dp"
         tools:layout_editor_absoluteX="50dp"
@@ -40,7 +44,7 @@
             android:id="@+id/imageView7"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/guirilas" />
+           android:src="@drawable/tisteguate"/>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -57,18 +61,15 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
-        <TextView
-            android:id="@+id/textView2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textAlignment="center"
-            android:text="@string/picadillopapa" />
-
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="@string/tiste" />
         </ScrollView>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
-
-
 
 
 

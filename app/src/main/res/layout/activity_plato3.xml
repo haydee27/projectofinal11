@@ -54,6 +54,9 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="horizontal">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
 
         <TextView
             android:id="@+id/textView2"
@@ -62,6 +65,7 @@
             android:textAlignment="center"
             android:layout_marginLeft="10dp"
             android:text="@string/sopapata" />
+        </ScrollView>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 
