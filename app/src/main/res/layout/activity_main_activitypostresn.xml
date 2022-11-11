@@ -42,22 +42,29 @@
         android:gravity="center"
         android:orientation="horizontal">
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnio1"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:text="Button"
+            android:background="@drawable/button_color"
+            android:text="button"
             android:onClick="postren1"
-            android:layout_marginRight="60dp"
-            android:layout_marginLeft="0dp"/>
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
 
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnio2"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
             android:onClick="postren2"
-            android:text="Button" />
+            android:text="button"
+            android:layout_marginLeft="110dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -92,22 +99,29 @@
         android:gravity="center"
         android:orientation="horizontal">
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnio3"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:text="Button"
+            android:background="@drawable/button_color"
+            android:text="sopa de pata"
             android:onClick="postren3"
-            android:layout_marginRight="60dp"
-            android:layout_marginLeft="0dp"/>
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
 
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnio4"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
             android:onClick="postren4"
-            android:text="Button" />
+            android:text="pan con pollo"
+            android:layout_marginLeft="110dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -132,12 +146,17 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="horizontal">
-        <Button
+
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnio5"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
             android:onClick="postren5"
-            android:text="Button" />
+            android:text="pan con pollo"
+            android:layout_marginLeft="110dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 </androidx.appcompat.widget.LinearLayoutCompat>

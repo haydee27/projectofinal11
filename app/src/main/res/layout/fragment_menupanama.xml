@@ -42,13 +42,14 @@
             android:src="@drawable/postres"
 
             />
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btn1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginRight="10dp"
-            android:layout_marginLeft="10dp"
-            android:text="POSTRE" />
+            android:background="@drawable/button_color"
+            android:text="Postre"
+            android:textColor="@color/black"
+            android:textSize="13dp" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 
@@ -71,13 +72,14 @@
             android:layout_marginLeft="60dp"
             android:src="@drawable/bebida" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btn2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginRight="10dp"
-            android:layout_marginLeft="10dp"
-            android:text="Bebida" />
+            android:background="@drawable/button_color"
+            android:text="bebida"
+            android:textColor="@color/black"
+            android:textSize="13dp" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
     <Space
@@ -99,13 +101,14 @@
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"/>
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btn3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
             android:text="Plato fuerte"
-            android:layout_marginRight="10dp"
-            android:layout_marginLeft="10dp"/>
+            android:textColor="@color/black"
+            android:textSize="11dp" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 </androidx.appcompat.widget.LinearLayoutCompat>

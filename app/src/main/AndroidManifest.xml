@@ -262,12 +262,12 @@
             android:name=".ui.sv.MainActivityplatof"
             android:exported="false"
             android:label="MENU PLATOS"
-            android:parentActivityName=".ui.sv.menu2" />
+             />
         <activity
             android:name=".ui.sv.MainActivitybebidas"
             android:exported="false"
             android:label="MENU BEBIDAS"
-            android:parentActivityName=".ui.sv.menu2" />
+             />
         <activity
             android:name=".ui.sv.postre5"
             android:exported="false"
@@ -297,7 +297,7 @@
             android:name=".ui.sv.MainActivitypostres"
             android:exported="false"
             android:label="MENU POSTRES"
-            android:parentActivityName=".ui.sv.menu2" />
+            />
         <activity
             android:name=".MainActivity"
             android:exported="true"

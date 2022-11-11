@@ -48,10 +48,22 @@
             android:src="@drawable/empanadas" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
+
     <Space
         android:layout_width="match_parent"
         android:layout_height="55dp"
         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="5dp"
+        android:textColor="@color/purple_500"
+        android:textStyle="bold"
+        android:text="INGREDIENTES Y PROCEDIMIENTO:"/>
+
+
 
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
@@ -65,6 +77,7 @@
 
         <TextView
             android:id="@+id/textView2"
+            android:textColor="@color/black"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAlignment="center"

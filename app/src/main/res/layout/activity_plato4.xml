@@ -48,11 +48,22 @@
         android:layout_height="55dp"
         />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:textColor="@color/purple_500"
+        android:textStyle="bold"
+        android:text="INGREDIENTES Y PROCEDIMIENTO:"/>
+
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="horizontal">
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
 
         <TextView
             android:id="@+id/textView2"
@@ -60,7 +71,7 @@
             android:layout_height="wrap_content"
             android:textAlignment="center"
             android:text="@string/panrelleno" />
-
+    </ScrollView>
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 
