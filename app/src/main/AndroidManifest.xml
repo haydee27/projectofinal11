@@ -34,42 +34,42 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".postreg5"
+            android:name=".ui.guatemala.postreg5"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".postreg4"
+            android:name=".ui.guatemala.postreg4"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".postreg3"
+            android:name=".ui.guatemala.postreg3"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".postreg2"
+            android:name=".ui.guatemala.postreg2"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".postreg1"
+            android:name=".ui.guatemala.postreg1"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".MainActivitypostreg"
+            android:name=".ui.guatemala.MainActivitypostreg"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"
