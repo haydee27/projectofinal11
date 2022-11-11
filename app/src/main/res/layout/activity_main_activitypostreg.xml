@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
-    tools:context=".ui.guatemala.MainActivitypostreg"
+    tools:context=".MainActivitypostreg"
     tools:ignore="MissingClass">
 
     <Space
@@ -53,11 +53,11 @@
 
 
         <Button
-            android:id="@+id/b2"
+            android:id="@+id/btngo2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postresg2"
-            android:text="Button2" />
+            android:onClick="postreg2"
+            android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space

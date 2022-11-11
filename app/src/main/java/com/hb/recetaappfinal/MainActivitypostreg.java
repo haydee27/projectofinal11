@@ -1,4 +1,4 @@
-package com.hb.recetaappfinal.ui.guatemala;
+package com.hb.recetaappfinal;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,16 +7,15 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.hb.recetaappfinal.R;
-import com.hb.recetaappfinal.ui.nicaragua.postren1;
-import com.hb.recetaappfinal.ui.nicaragua.postren2;
-import com.hb.recetaappfinal.ui.nicaragua.postren3;
-import com.hb.recetaappfinal.ui.nicaragua.postren4;
-import com.hb.recetaappfinal.ui.nicaragua.postren5;
+import com.hb.recetaappfinal.ui.panama.postrep1;
+import com.hb.recetaappfinal.ui.panama.postrep2;
+import com.hb.recetaappfinal.ui.panama.postrep3;
+import com.hb.recetaappfinal.ui.panama.postrep4;
+import com.hb.recetaappfinal.ui.panama.postrep5;
 
 public class MainActivitypostreg extends AppCompatActivity {
 
-    Button btngo1, b2, btngo3, btngo4, btngo5;
+    Button btngo1, btngo2, btngo3, btngo4, btngo5;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,7 +23,7 @@ public class MainActivitypostreg extends AppCompatActivity {
         setContentView(R.layout.activity_main_activitypostreg);
 
         btngo1 = findViewById(R.id.btngo1);
-         b2 = findViewById(R.id.b2);
+        btngo2 = findViewById(R.id.btngo2);
         btngo3 = findViewById(R.id.btngo3);
         btngo4 = findViewById(R.id.btngo4);
         btngo5 = findViewById(R.id.btngo5);
@@ -35,9 +34,9 @@ public class MainActivitypostreg extends AppCompatActivity {
         startActivity(btngo1);
     }
 
-    public void postresg2(View view) {
-        Intent b2= new Intent(this, postresg2.class);
-        startActivity(b2);
+    public void postreg2(View view) {
+        Intent btngo2= new Intent(this, postreg2.class);
+        startActivity(btngo2);
     }
 
     public void postreg3(View view) {

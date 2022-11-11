@@ -46,8 +46,8 @@ public class MainActivitybebidasg extends AppCompatActivity {
     }
 
     public void bebidag4(View view) {
-        Intent btnig4= new Intent(this, bebidag4.class);
-        startActivity(btnig4);
+        Intent btngb4= new Intent(this, bebidag4.class);
+        startActivity(btngb4);
     }
 
     public void bebidag5(View view) {
