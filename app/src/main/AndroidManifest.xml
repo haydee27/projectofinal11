@@ -13,6 +13,27 @@
         android:theme="@style/Theme.Recetaappfinal"
         tools:targetApi="31">
         <activity
+            android:name=".ui.panama.MainActivityplatofp"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.panama.MainActivitybebidap"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.panama.MainActivitypostrep"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".ui.guatemala.MainActivitypostreg"
             android:exported="false">
             <meta-data
@@ -120,7 +141,7 @@
         </activity>
         <activity
             android:name=".ui.panama.bebidap2"
-            android:exported="false"></activity>
+            android:exported="false" />
         <activity
             android:name=".ui.panama.bebidap1"
             android:exported="false">

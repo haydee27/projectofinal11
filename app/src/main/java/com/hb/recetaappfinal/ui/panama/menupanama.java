@@ -1,5 +1,6 @@
 package com.hb.recetaappfinal.ui.panama;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -7,8 +8,12 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 
 import com.hb.recetaappfinal.R;
+import com.hb.recetaappfinal.ui.nicaragua.MainActivitybebidasn;
+import com.hb.recetaappfinal.ui.nicaragua.MainActivityplatofn;
+import com.hb.recetaappfinal.ui.nicaragua.MainActivitypostresn;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -60,7 +65,36 @@ public class menupanama extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_menupanama, container, false);
+
+        View view = inflater.inflate(R.layout.fragment_menupanama, container, false);
+        Button btnp1Activit = (Button) view.findViewById(R.id.btnp1);
+        Button btnp2Activit = (Button) view.findViewById(R.id.btnp2);
+        Button btnp3Activit = (Button) view.findViewById(R.id.btnp3);
+
+        btnp1Activit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivitypostrep.class);
+                startActivity(intent);
+            }
+        });
+
+        btnp2Activit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivitybebidap.class);
+                startActivity(intent);
+            }
+        });
+
+        btnp3Activit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivityplatofp.class);
+                startActivity(intent);
+            }
+        });
+
+        return view;
     }
 }

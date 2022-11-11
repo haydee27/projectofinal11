@@ -8,7 +8,7 @@
     android:background="@drawable/fondoplap"
     android:layout_margin="0dp"
     android:gravity="center"
-    tools:context=".ui.sv.plato1"
+    tools:context=".ui.panama.platop1"
     tools:ignore="MissingClass">
 
     <Space
