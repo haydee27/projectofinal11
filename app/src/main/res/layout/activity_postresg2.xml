@@ -5,10 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/guatemala"
+    android:background="@drawable/fondopanama"
     android:layout_margin="0dp"
     android:gravity="center"
-    tools:context=".ui.sv.plato1"
+    tools:context=".ui.guatemala.postresg2"
     tools:ignore="MissingClass">
 
     <Space
@@ -19,7 +19,7 @@
         android:id="@+id/txtm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="BOJ"
+        android:text="PESADA DE NANCE"
         android:textSize="35dp"
         android:textColor="#9C27B0"
         android:textAlignment="center"
@@ -44,7 +44,7 @@
             android:id="@+id/imageView7"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/bebidabojguate"/>
+            android:src="@drawable/pesadadenancepanama" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -57,6 +57,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="horizontal">
+
         <ScrollView
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
@@ -66,7 +67,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
-                android:text="@string/boj" />
+                android:text="@string/pesadadenance" />
         </ScrollView>
 
     </androidx.appcompat.widget.LinearLayoutCompat>

@@ -192,14 +192,14 @@ En las tiendas donde venden productos de Latinoamérica encontraran la Semilla d
     </string>
     <string name="receta_bebida4I">bebida4i</string>
 
-    1 litro de agua
-    1 rajita de canela
-    5 pimientas gordas
-    5 clavos de olor
-    1/4 taza de harina de pan o de arroz
-    2 cucharadas de esencia de vainilla
-    2 o 3 cucharadas de esencia de fresa
-    * Azúcar al gusto
+  \n  1 litro de agua \n
+    \n 1 rajita de canela \n
+    \n 5 pimientas gordas\n
+    \n 5 clavos de olor \n
+    \n 1/4 taza de harina de pan o de arroz \n
+    \n 2 cucharadas de esencia de vainilla \n
+    \n 2 o 3 cucharadas de esencia de fresa \n
+    \n * Azúcar al gusto \n
 
     <string name="pupusas">
         \n * 1 1/2 taza(s) Harina de maíz para tortillas \n
@@ -208,7 +208,7 @@ En las tiendas donde venden productos de Latinoamérica encontraran la Semilla d
 \n*	1/2 cucharadita(s) Sal \n
 \n * 1  Lata de frijoles (16 oz) o frijoles de olla \n
 \n * 2 taza(s) Agua (para la masa) \n
-\n * 1/3 taza(s) Aceite \n
+\n * 1/3 taza(s) Aceite \n \n \n \n \n
 
      \n    PROCEDIMIENTO \n
        \n 1) En un contendor colocar la harina de maíz para tortillas y la harina de arroz. Integrar el agua y revolver bien. \n
@@ -249,7 +249,7 @@ En las tiendas donde venden productos de Latinoamérica encontraran la Semilla d
         \n 1) En una olla con agua de tal manera que cubra  la gallina y sólo se le agrega sal, y se deja cocinar hasta que ablande. \n
 \n 2) Cuando empieza a ablandar que por lo general es a la hora y cuarenta y cinco minutos aproximadamente. \n
      \n   3) se le agregan  los tomates, chile, cebolla, los ajos y la verdura junto con el arroz. \n
-\n 4) Cuando las verduras y el arroz estén listos ya la sopa esta lista para servir. \n
+\n 4) Cuando las verduras y el arroz estén listos ya la sopa esta lista para servir. \n \n \n \n \n
 
     </string>
     <string name="sopapata">
