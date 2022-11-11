@@ -19,7 +19,7 @@
         android:id="@+id/txtm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="BOJ"
+        android:text="CHANCLETAS"
         android:textSize="35dp"
         android:textColor="#9C27B0"
         android:textAlignment="center"
@@ -44,7 +44,7 @@
             android:id="@+id/imageView7"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/bebidabojguate"/>
+            android:src="@drawable/chancletasguate"/>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -66,7 +66,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
-                android:text="@string/boj" />
+                android:text="@string/chancleta" />
         </ScrollView>
 
     </androidx.appcompat.widget.LinearLayoutCompat>

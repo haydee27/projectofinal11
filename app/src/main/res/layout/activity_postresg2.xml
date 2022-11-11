@@ -19,7 +19,7 @@
         android:id="@+id/txtm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="PESADA DE NANCE"
+        android:text="TAMALITOS DE CAMBRAY"
         android:textSize="35dp"
         android:textColor="#9C27B0"
         android:textAlignment="center"
@@ -44,7 +44,7 @@
             android:id="@+id/imageView7"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/pesadadenancepanama" />
+            android:src="@drawable/temalitosdecambrayguate" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -67,7 +67,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
-                android:text="@string/pesadadenance" />
+                android:text="@string/cambray" />
         </ScrollView>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
