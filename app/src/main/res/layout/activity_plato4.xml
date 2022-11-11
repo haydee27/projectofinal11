@@ -71,7 +71,9 @@
             android:layout_height="wrap_content"
             android:textAlignment="center"
             android:text="@string/panrelleno" />
+
     </ScrollView>
+
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 

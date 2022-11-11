@@ -71,8 +71,8 @@
             android:layout_height="wrap_content"
             android:textAlignment="center"
             android:text="@string/tamarindo" />
-
         </ScrollView>
+
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 

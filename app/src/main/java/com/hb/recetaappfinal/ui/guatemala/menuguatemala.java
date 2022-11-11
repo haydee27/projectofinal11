@@ -73,7 +73,7 @@ public class menuguatemala extends Fragment {
         btng1Activit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), MainActivitypostresn.class);
+                Intent intent = new Intent(getActivity(), MainActivitypostreg.class);
                 startActivity(intent);
             }
         });
@@ -81,7 +81,7 @@ public class menuguatemala extends Fragment {
         btng2Activit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), MainActivitybebidasn.class);
+                Intent intent = new Intent(getActivity(), MainActivitybebidasg.class);
                 startActivity(intent);
             }
         });
@@ -89,7 +89,7 @@ public class menuguatemala extends Fragment {
         btng3Activit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), MainActivityplatofn.class);
+                Intent intent = new Intent(getActivity(), MainActivityplatofg.class);
                 startActivity(intent);
             }
         });

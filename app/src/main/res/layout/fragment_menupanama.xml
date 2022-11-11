@@ -42,8 +42,12 @@
             android:src="@drawable/postres"
 
             />
+
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btn1"
+
+
+            android:id="@+id/btnp1"
+
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
@@ -72,8 +76,9 @@
             android:layout_marginLeft="60dp"
             android:src="@drawable/bebida" />
 
+
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btn2"
+            android:id="@+id/btnp2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
@@ -102,7 +107,7 @@
             android:layout_marginLeft="60dp"/>
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btn3"
+            android:id="@+id/btnp3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"

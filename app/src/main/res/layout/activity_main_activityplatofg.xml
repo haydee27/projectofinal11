@@ -96,7 +96,7 @@
             android:id="@+id/btngp3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Button"
+            android:text="plato3"
             android:onClick="platog3"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
@@ -107,7 +107,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="platog4"
-            android:text="Button" />
+            android:text="plato4" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -137,7 +137,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="platog5"
-            android:text="Button" />
+            android:text="plato5" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 </androidx.appcompat.widget.LinearLayoutCompat>

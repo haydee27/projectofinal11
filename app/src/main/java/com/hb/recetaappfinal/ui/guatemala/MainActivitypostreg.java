@@ -8,54 +8,52 @@ import android.view.View;
 import android.widget.Button;
 
 import com.hb.recetaappfinal.R;
-import com.hb.recetaappfinal.ui.guatemala.postreg1;
-import com.hb.recetaappfinal.ui.guatemala.postreg2;
-import com.hb.recetaappfinal.ui.guatemala.postreg3;
-import com.hb.recetaappfinal.ui.guatemala.postreg4;
-import com.hb.recetaappfinal.ui.guatemala.postreg5;
-
+import com.hb.recetaappfinal.ui.nicaragua.postren1;
+import com.hb.recetaappfinal.ui.nicaragua.postren2;
+import com.hb.recetaappfinal.ui.nicaragua.postren3;
+import com.hb.recetaappfinal.ui.nicaragua.postren4;
+import com.hb.recetaappfinal.ui.nicaragua.postren5;
 
 public class MainActivitypostreg extends AppCompatActivity {
 
+    Button btnio1, btnio2, btnio3, btnio4, btnio5;
 
-        Button btngo1, btngo2, btngo3, btngo4, btngo5;
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main_activitypostresn);
 
-        @Override
-        protected void onCreate(Bundle savedInstanceState) {
-            super.onCreate(savedInstanceState);
-            setContentView(R.layout.activity_main_activitypostreg);
+        btnio1 = findViewById(R.id.btnio1);
+        btnio2 = findViewById(R.id.btnio2);
+        btnio3 = findViewById(R.id.btnio3);
+        btnio4 = findViewById(R.id.btnio4);
+        btnio5 = findViewById(R.id.btnio5);
+    }
 
-            btngo1 = findViewById(R.id.btngo1);
-            btngo2 = findViewById(R.id.btngo2);
-            btngo3 = findViewById(R.id.btngo3);
-            btngo4 = findViewById(R.id.btngo4);
-            btngo5 = findViewById(R.id.btngo5);
-        }
+    public void postren1(View view) {
+        Intent btnio1= new Intent(this, postren1.class);
+        startActivity(btnio1);
+    }
 
-        public void postreg1(View view) {
-            Intent btngo1= new Intent(this, postreg1.class);
-            startActivity(btngo1);
-        }
+    public void postren2(View view) {
+        Intent btnio2= new Intent(this, postren2.class);
+        startActivity(btnio2);
+    }
 
-        public void postreg2(View view) {
-            Intent btngo2= new Intent(this, postreg2.class);
-            startActivity(btngo2);
-        }
+    public void postren3(View view) {
+        Intent btnio3= new Intent(this, postren3.class);
+        startActivity(btnio3);
+    }
 
-        public void postreg3(View view) {
-            Intent btngo3= new Intent(this, postreg3.class);
-            startActivity(btngo3);
-        }
+    public void postren4(View view) {
+        Intent btnio4= new Intent(this, postren4.class);
+        startActivity(btnio4);
+    }
 
-        public void postreg4(View view) {
-            Intent btngo4= new Intent(this, postreg4.class);
-            startActivity(btngo4);
-        }
-
-        public void postreg5(View view) {
-            Intent btngo5= new Intent(this, postreg5.class);
-            startActivity(btngo5);
-        }
+    public void postren5(View view) {
+        Intent btnio5= new Intent(this, postren5.class);
+        startActivity(btnio5);
+    }
 
 
-    };
+};

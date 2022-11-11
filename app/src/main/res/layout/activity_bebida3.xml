@@ -60,6 +60,9 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="horizontal">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
 
         <ScrollView
             android:layout_width="wrap_content"
@@ -76,7 +79,10 @@
             android:layout_height="wrap_content"
             android:textAlignment="center"
             android:text="@string/chocolate" />
+
             </ScrollView>
+
+        </ScrollView>
 
         </ScrollView>
     </androidx.appcompat.widget.LinearLayoutCompat>
