@@ -8,11 +8,6 @@ import android.view.View;
 import android.widget.Button;
 
 import com.hb.recetaappfinal.R;
-import com.hb.recetaappfinal.ui.nicaragua.postren1;
-import com.hb.recetaappfinal.ui.nicaragua.postren2;
-import com.hb.recetaappfinal.ui.nicaragua.postren3;
-import com.hb.recetaappfinal.ui.nicaragua.postren4;
-import com.hb.recetaappfinal.ui.nicaragua.postren5;
 
 public class MainActivitypostrep extends AppCompatActivity {
 

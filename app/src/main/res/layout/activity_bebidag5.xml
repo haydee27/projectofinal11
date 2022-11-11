@@ -4,12 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:background="@drawable/guatemala"
-    android:layout_margin="0dp"
-    android:gravity="center"
-    tools:context=".ui.sv.plato1"
-    tools:ignore="MissingClass">
+    tools:context=".ui.guatemala.bebidag5">
+
 
     <Space
         android:layout_width="match_parent"
@@ -51,6 +47,12 @@
         android:layout_width="match_parent"
         android:layout_height="25dp"
         />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:textColor="@color/purple_500"
+        android:textStyle="bold"
+        android:text="INGREDIENTES Y PROCEDIMIENTO:"/>
 
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
@@ -65,6 +67,7 @@
                 android:id="@+id/textView2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textColor="@color/black"
                 android:textAlignment="center"
                 android:text="@string/boj" />
         </ScrollView>
@@ -74,3 +77,4 @@
 
 
 </androidx.appcompat.widget.LinearLayoutCompat>
+

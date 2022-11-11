@@ -8,8 +8,8 @@
     android:background="@drawable/guatemala"
     android:layout_margin="0dp"
     android:gravity="center"
-    tools:context=".ui.sv.plato1"
-    tools:ignore="MissingClass">
+    tools:ignore="MissingClass"
+    tools:context=".postreg4">
 
     <Space
         android:layout_width="match_parent"

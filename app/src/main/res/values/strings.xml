@@ -192,7 +192,7 @@ En las tiendas donde venden productos de Latinoamérica encontraran la Semilla d
     </string>
     <string name="receta_bebida4I">bebida4i</string>
 
-  \n  1 litro de agua \n
+    \n 1 litro de agua \n
     \n 1 rajita de canela \n
     \n 5 pimientas gordas\n
     \n 5 clavos de olor \n
@@ -532,6 +532,28 @@ Procedimieto
 
 
     </string>
+    <string name="vigoroon">
+        *Ingredientes: \n
+*1 ½ kg de chicharrón \n
+*2 dientes ajo \n
+*2 naranja agria \n
+*Manteca de cerdo \n
+*Sal a gusto \n
+*1 kg de repollo  \n
+*300 gr de tomate \n
+*Sal, pimienta negra molida y vinagre a gusto \n
+*1 ½ de yuca \n
+
+        *Preparación: \n
+*1.	En una olla colocamos la yuca ya pelada y en pequeños trozos con suficiente agua hasta que este blanda. \n
+*2.	Aparte hacemos la ensalada, cortamos el repollo en trozos finos, con el tomate en cuadritos un toque de sal, vinagre y pimienta negra molida al gusto. \n
+*3.	Para preparar el chicharron marinaremos la carne picada en trozos pequeños con el jugo de las dos naranjas, los ajos y sal al gusto durante hora y media, una vez pasado este tiempo la freimos con suficiente manteca de cerdo. \n
+*4.	Luego podemos servir encima de unas hojas de chiguere o platano la yuca, con el chicharron y encima la ensalada. \n
+        \n
+        \n
+        \n
+        \n
+    </string>
 
     <string name="chichademaiz">INGREDIENTES
     2 kg de maíz
@@ -728,196 +750,305 @@ En una sartén calentar el aceite y saltear los vegetales junto con el ajo picad
 Sirva con patacones o papas. ¡Buen provecho!
     </string>
     <string name="receta_bebida4">bebida4</string>
-    <string name="receta_bebida5">bebida5</string>
-    =======
-    <string name="vigoron">Vigorón
-        Ingredientes:
-1 ½ kg de chicharrón
-2 dientes ajo
-2 naranja agria
-Manteca de cerdo
-Sal a gusto
-1 kg de repollo
-300 gr de tomate
-Sal, pimienta negra molida y vinagre a gusto
-1 ½ de yuca
+    <string name="vigoron">
 
-        Preparación:
-1.	En una olla colocamos la yuca ya pelada y en pequeños trozos con suficiente agua hasta que este blanda.
-2.	Aparte hacemos la ensalada, cortamos el repollo en trozos finos, con el tomate en cuadritos un toque de sal, vinagre y pimienta negra molida al gusto.
-3.	Para preparar el chicharron marinaremos la carne picada en trozos pequeños con el jugo de las dos naranjas, los ajos y sal al gusto durante hora y media, una vez pasado este tiempo la freimos con suficiente manteca de cerdo.
-4.	Luego podemos servir encima de unas hojas de chiguere o platano la yuca, con el chicharron y encima la ensalada.
+\n * 1 ½ kg de chicharrón \n
+\n * 2 dientes ajo \n
+\n * 2 naranja agria \n
+\n * Manteca de cerdo \n
+\n * Sal a gusto \n
+\n * 1 kg de repollo \n
+\n * 300 gr de tomate \n
+\n * Sal, pimienta negra molida y vinagre a gusto \n
+\n * 1 ½ de yuca \n
+
+    \n   PREPARACION: \n
+\n 1.	En una olla colocamos la yuca ya pelada y en pequeños trozos con suficiente agua hasta que este blanda. \n
+\n 2.	Aparte hacemos la ensalada, cortamos el repollo en trozos finos, con el tomate en cuadritos un toque de sal, vinagre y pimienta negra molida al gusto. \n
+\n 3.	Para preparar el chicharron marinaremos la carne picada en trozos pequeños con el jugo de las dos naranjas, los ajos y sal al gusto durante hora y media, una vez pasado este tiempo la freimos con suficiente manteca de cerdo. \n
+\n 4.	Luego podemos servir encima de unas hojas de chiguere o platano la yuca, con el chicharron y encima la ensalada.  \n \n \n \n \n
+>>>>>>> ecb66c324ee7aec879969a1ea0c347e94c6d8c9b
     </string>
     <string name="nacatamal">Nacatamal
-        Ingredientes
-2 ½ Kg maíz
-450 gr costilla de cerdo
-450 gr lomo de cerdo con gordura
-200 gr manteca de cerdo
-2 cebollas
-2 cabezas ajo
-3 tomates
-3 chiltomas
-3 chiles congos
-¼ Kg arroz
-3 papas grandes
-30 gr achiote
-2 naranjas agrias en zumo
-hierba buena
-sal
-Hojas plátano
-mecate
-aceitunas, pasas de uva y alcaparras
+        *Ingredientes\n
+*2 ½ Kg maíz\n
+*450 gr costilla de cerdo\n
+*450 gr lomo de cerdo con gordura\n
+*200 gr manteca de cerdo\n
+*2 cebollas\n
+*2 cabezas ajo\n
+*3 tomates\n
+*3 chiltomas\n
+*3 chiles congos\n
+*¼ Kg arroz\n
+*3 papas grandes\n
+*30 gr achiote\n
+*2 naranjas agrias en zumo\n
+*hierba buena\n
+*sal\n
+*Hojas plátano\n
+*mecate\n
+*aceitunas, pasas de uva y alcaparras\n
 
-        Preparación:
-Paso 1: Primero hay que nezquizar el maíz, es decir cocer en cal con algo de sal para que suelten la piel o hervir hasta que revienten los granos. Incorporar la manteca derretida poco a poco, las cebollas en rodajas, los ajos cortados y salar. También se puede comprar la masa industrial que es más fácil de preparar.
-Paso 2: Cortar la carne de cerdo en trozos pequeños y adobar con la mezcla del achiote, la naranja agria, la cebolla rayada, el ajo machacado y sal a gusto. Lavar las hojas de plátano, desvenar y secar al sol o sobre una plancha para que se suavicen y sea más fácil usarla; lavar también el arroz y escurrir
-Armado de tamales: Colocar dos trozos de hojas de plátanos cruzadas entre sí en forma de cruz, colocar un sobrante en la diagonal; poner una cucharada abundante de masa, unos trozos de carne de cerdo, un puñado de arroz, la chiltoma, trozos de cebolla, papa y tomate en rodajas. Adornar con trozos de chile congos y hierba buena.
+        *Preparación:\n
+*Paso 1: Primero hay que nezquizar el maíz, es decir cocer en cal con algo de sal para que suelten la piel o hervir hasta que revienten los granos. Incorporar la manteca derretida poco a poco, las cebollas en rodajas, los ajos cortados y salar. También se puede comprar la masa industrial que es más fácil de preparar.\n
+*Paso 2: Cortar la carne de cerdo en trozos pequeños y adobar con la mezcla del achiote, la naranja agria, la cebolla rayada, el ajo machacado y sal a gusto. Lavar las hojas de plátano, desvenar y secar al sol o sobre una plancha para que se suavicen y sea más fácil usarla; lavar también el arroz y escurrir\n
+*Armado de tamales: Colocar dos trozos de hojas de plátanos cruzadas entre sí en forma de cruz, colocar un sobrante en la diagonal; poner una cucharada abundante de masa, unos trozos de carne de cerdo, un puñado de arroz, la chiltoma, trozos de cebolla, papa y tomate en rodajas. Adornar con trozos de chile congos y hierba buena.
 Doblar en cuatro y amarrar con el mecate
+        \n
+        \n
+        \n
+        \n
+    </string>
+    
+    <string name="guirilas">Güirilas
+        *Ingredientes\n
+*12 elotes o maíz tierno\n
+*1 pizca de sal\n
+*2 cucharadas de mantequilla derretida\n
+*Hojas de banano o plátano.\n
+
+        *Preparación:\n
+*1.	Se desgrana el elote, se muele y se hace una masa con una pizca de sal y la mantequilla para elaborar las tortillas\n
+*2.	Por ser de maíz tierno, estas deben colocarse en el comal sobre una hoja de plátano ya que de no hacerlo por ser un maíz tierno se pegaría en el comal o sartén\n
+*3.	Se sirven con cuajada, frijoles carne etc.
+        \n
+        \n
+        \n
+        \n
     </string>
 
-    <string name="guirilas">Gúirilas
-        Ingredientes
-12 elotes o maíz tierno
-1 pizca de sal
-2 cucharadas de mantequilla derretida
-Hojas de banano o plátano.
+    <string name="picadillopapa">Picadillo de Papa
+        *Ingredientes \n
+*6 papas \n
+*4 salchichas \n
+*½ chile dulce \n
+*Hojas de culantro \n
+*½ cucharada de paprika \n
+*½ cucharada de comino \n
+*1 cucharada de culantro picadito \n
+*1 taza de caldo de vegetales \n
+*Aceite de achiote \n
+*Sal y pimienta \n
 
-        Preparación:
-1.	Se desgrana el elote, se muele y se hace una masa con una pizca de sal y la mantequilla para elaborar las tortillas
-2.	Por ser de maíz tierno, estas deben colocarse en el comal sobre una hoja de de plátano ya que de no hacerlo por ser un maíz tierno se pegaría en el comal o sartén
-3.	Se sirven con cuajada, frijoles carne etc
-    </string>
-
-    <string name="picadillopapa">Piacdillo de Papa
-        Ingredientes
-6 papas
-4 salchichas
-½ chile dulce
-Hojas de culantro
-½ cucharada de paprika
-½ cucharada de comino
-1 cucharada de culantro picadito
-1 taza de caldo de vegetales
-Aceite de achiote
-Sal y pimienta
-
-        Preparación
-1.	Cortar las papas y las salchichas en trozos.
-2.	En una sartén, agregue un poco de aceite y proceda a freír las salchichas. Reservar.
-3.	En la misma sartén, sofría el chile y agregue las papas cortadas en cuadros. Condimente con sal, pimienta, paprika y comino.
-4.	Cuando las papas se han ablandado un poco, se añaden las salchichas y se coloca un poco de caldo para terminar de cocinar.
-5.	Servir en un plato y decore con hojitas de culantro.
+        *Preparación
+*1.	Cortar las papas y las salchichas en trozos.
+*2.	En una sartén, agregue un poco de aceite y proceda a freír las salchichas. Reservar.
+*3.	En la misma sartén, sofría el chile y agregue las papas cortadas en cuadros. Condimente con sal, pimienta, paprika y comino.
+*4.	Cuando las papas se han ablandado un poco, se añaden las salchichas y se coloca un poco de caldo para terminar de cocinar.
+*5.	Servir en un plato y decore con hojitas de culantro.
+        \n
+        \n
+        \n
+        \n
     </string>
 
     <string name="indioviejo">Indio Viejo
-        Ingredientes:
-•	1 cabeza de ajo picada
-•	1 cebolla picada
-•	1/2 taza de manteca de chancho
-•	2 chiltomas en cuadros
-•	4 tomates pelados y picados
-•	1 moño de hierba buena
-•	8 hojas de cilantro en trozos
-•	1 1/2 taza de maza de maíz, diluida en una taza de agua
-•	1 libra de trasera de cecina desmenuzada
-•	Achiote diluido en agua
-•	Jugo de naranja agria
-•	2 tazas de caldo de carne
-•	Sal
+        *Ingredientes:  \n
+	*1 cabeza de ajo picada \n
+	*1 cebolla picada\n
+	*1/2 taza de manteca de chancho\n
+	*2 chiltomas en cuadros\n
+	*4 tomates pelados y picados\n
+	*1 moño de hierba buena \n
+	*8 hojas de cilantro en trozos \n
+	*1 1/2 taza de maza de maíz, diluida en una taza de agua \n
+	*1 libra de trasera de cecina desmenuzada \n
+	*Achiote diluido en agua \n
+	*Jugo de naranja agria \n
+	*2 tazas de caldo de carne \n
+	*Sal \n
 
-        Preparación:
-•	En una cazuela, vamos a poner 1/2 taza de manteca de cerdo, también le agregamos una cebolla picada, 1 cabeza de ajo picada o majada le damos 2 minutos de cocción.
-•	Y le agregamos las chiltomas cortadas en cuadros, agregamos los tomates picados, la hierba buena y el cilantro.
-•	Ahora le integramos la carne trasera de cecina, ya sancochada y obviamente desmenuzada. Una vez integrado, mezclamos todos los elementos en la cazuela.
-1.	Procedemos a agregar la taza de maíz, diluida en agua y removemos un poco y la vamos vertiendo. A su vez le integramos las tazas de caldo de la carne.
-2.	Ahora como colorante, le agregamos un poco de achiote diluido y un poco de juego de naranja agria y sal.
-3.	Ahora agregamos un poco de más de hierba buena para que el aroma y color del Indio Viejo se mantenga característico.
-4.	Ahora dejamos que la masa se cocine con los demás elementos, por al menos 10 a 15 minutos, es importante probar y tantear la consistencia, ya que a ciencia cierta no hay un tiempo específico.
+        Preparación: \n
+*1	En una cazuela, vamos a poner 1/2 taza de manteca de cerdo, también le agregamos una cebolla picada, 1 cabeza de ajo picada o majada le damos 2 minutos de cocción. \n
+*2	Y le agregamos las chiltomas cortadas en cuadros, agregamos los tomates picados, la hierba buena y el cilantro. \n
+*3	Ahora le integramos la carne trasera de cecina, ya sancochada y obviamente desmenuzada. Una vez integrado, mezclamos todos los elementos en la cazuela. \n
+*4	Procedemos a agregar la taza de maíz, diluida en agua y removemos un poco y la vamos vertiendo. A su vez le integramos las tazas de caldo de la carne. \n
+*5	Ahora como colorante, le agregamos un poco de achiote diluido y un poco de juego de naranja agria y sal. \n
+*6	Ahora agregamos un poco de más de hierba buena para que el aroma y color del Indio Viejo se mantenga característico. \n
+*7	Ahora dejamos que la masa se cocine con los demás elementos, por al menos 10 a 15 minutos, es importante probar y tantear la consistencia, ya que a ciencia cierta no hay un tiempo específico. \n
+
+        \n
+        \n
+        \n
+        \n
+    </string>
+    <string name="pinolillo">Pinolillo
+        *Ingredientes: \n
+	*2 Libras de maíz blanco tostado \n
+    *40 gramos de pimienta de chiapa \n
+	*30 clavos de olor \n
+	*Canela en rajas \n
+	*Leche o agua \n
+	*Azúcar \n
+
+        *Preparación: \n
+	*En un comalito, ponemos a tostar el maíz blanco. Moverlo sin que se requeme. \n
+	*En una casuela, ponemos a tostar el cacao. Este se tuesta más rápido por lo que hay que echarle un ojo siempre para que no se queme. \n
+	*Una vez ambos elementos estén tostados, dejamos reposar por unos 20 minutos. \n
+	*Luego ponemos a pelar el cacao, para hacerlo solo debemos ejercer presión en las semillas, para que se les caiga la cascara. \n
+	*Ahora en una pana ponemos nuestro maíz y procedemos a agregarle: pimienta de chiapa, el clavo de olor, canela al gusto y nuestro cacao tostado ya pelado. \n
+	*Una vez hagamos esta integración procedemos a revolver y mandamos a molerlo fino. \n
+	*Una vez molido quedará en polvo y procedemos a servirlo con agua o leche y un poco de hielo. \n
+        \n
+        \n
+        \n
+        \n
+    </string>
+    
+    <string name="semillajicaro"> Fresco de semilla de Jícaro
+        *Ingredientes: \n
+	*4 oz de arroz lavado \n
+	*Agua \n
+	*½ lb de semilla de jícaro, limpia y lavada \n
+	*Canela en rajas al gusto \n
+	*6 l de leche \n
+
+        *Preparación: \n
+	*Pones el arroz previamente lavado en una fuente y lo cubres con agua. Lo dejas remojando. \n
+	*Por otro lado, la semilla de Jícaro previamente lavada  y escurrida,  la vas a tostar ligeramente en un sartén,  removiendo continuamente para evitar que se queme. Luego de 5 min las retiras del fuego y las pones en un recipiente para que enfrié. \n
+	*Quitas el excedente de agua del arroz y pones el arroz sobre la semilla de Jícaro, mezclas bien y le añades la canela en ramas picada en trozos y mezclas nuevamente. \n
+        \n
+        \n
+        \n
+        \n
+    </string>
+    
+    <string name="tistee">
+        *Ingredientes: \n
+	*8 tortillas \n
+	*4 onzas de cacao en grano \n
+	*2 lbs. de pinol blanco \n
+	*1 litro de leche \n
+	*Canela al gusto \n
+	*Azúcar al gusto \n
+
+        *Preparación: \n
+	*Se pone en remojo las tortillas por lo menos media hora y se ponen a escurrir; luego se muelen junto al cacao y el pinol blanco \n
+	*La mezcla resultante se adiciona agua, 1 litro de leche y azúcar al gusto, se hierve unos 5 minutos ,se deja reposar y se introduce en el refrigerador y se sirve bien frio. \n
+        \n
+        \n
+        \n
+        \n
+    </string>
+    
+    <string name="tibio">
+        *Ingredientes \n
+*½ lb de pinol \n
+*½ lb de azúcar \n
+*2 lts de agua \n
+
+        *Preparación \n
+*Se pone a hervir el agua, luego se adiciona el pinol previamente disuelto en un poquito de agua. \n
+*Posteriormente se adiciona el azúcar y se bate constantemente por aproximadamente 20 minutos. \n
+*Se deja a fuego lento un rato más. \n
+        \n
+        \n
+        \n
+        \n
+    </string>
+    
+    <string name="grama">
+        Ingredientes: \n
+
+*5 moños de grama \n
+*1 ½ l de agua\n
+*Azúcar al gusto\n
+*½ tza de jugo de limón\n
+*Sal al gusto\
+
+        *Preparación:\n
+
+*En una paila viertes el agua junto con la grama y la dejas en el fuego por unos 12 min para que así suelte color y sabor. \n
+*Cuando ya está listo lo dejas enfriar y lo cuelas; le agregas sal, azúcar y jugo de limón, revuelves bien y estará listo. \n
+*Al servirlo le agregas hielo al gusto. \n
+        \n
+        \n
+        \n
+        \n
+
     </string>
 
+    <string name="rompope">
+\n * 1 lt. de leche \n
+\n * 250 gr azúcar \n
+\n * 4 yemas de huevo \n
+\n * Pizca de nuez moscada \n
+\n * 20 ml alcohol \n
+\n * Canela al gusto \n
 
-    <string name="rompope">INGREDIENTES
-    1 lt. de leche
-250 gr azúcar
-4 yemas de huevo
-Pizca de nuez moscada
-20 ml alcohol
-Canela al gusto
+      \n  PROCEDIMIENTO \n
 
-        PROCEDIMIENTO
-
-        Pon en una olla la leche a hervir
-Licua las yemas y reserva
-Cuando la leche entre en hervor agrega las yemas, el azúcar y las especies
-Deja enfriar la mezcla y cuela. Después de 24 horas añade el ron y está listo para servir
+      \n 1)  Pon en una olla la leche a hervir \n
+\n 2) Licua las yemas y reserva \n
+\n 3) Cuando la leche entre en hervor agrega las yemas, el azúcar y las especies \n
+\n 4) Deja enfriar la mezcla y cuela. Después de 24 horas añade el ron y está listo para servir \n
     </string>
-    <string name="ponchedefrutas">INGREDIENTES
-    2 litros de agua
-½ papaya
-1 piña pequeña
-2 plátanos o bananas
-4 litros de agua
-4 manzanas
-4 onzas de ciruela pasa
-4 onzas coco
-4 onzas de pasas
-4 rajas de canela
-1 taza de azúcar
+    <string name="ponchedefrutas">
+   \n * 2 litros de agua \n
+\n * ½ papaya \n
+\n * 1 piña pequeña \n
+\n * 2 plátanos o bananas \n
+\n * 4 litros de agua \n
+\n * 4 manzanas \n
+\n * 4 onzas de ciruela pasa \n
+\n * 4 onzas coco \n
+\n * 4 onzas de pasas \n
+\n * 4 rajas de canela \n
+\n * 1 taza de azúcar \n
 
-        PROCEDIMIENTO
+     \n    PROCEDIMIENTO \n
 
-        Colocar el agua, el azúcar y la canela en una olla.
-Pelar las manzanas, la piña y la papaya, corarlas en cuadritos pequeños. En cuanto el agua empiece a hervir, añadir todos los ingredientes
-Cocinar a fuego lento por 20 minutos.
-Cuando esté frío puede entonces pelar los plátanos y cortarlos en rodajas, finalmente guardarlo en el refrigerador.
-Después de 24 horas el sabor será mucho más concentrado, también se puede servir caliente
+      1) Colocar el agua, el azúcar y la canela en una olla. \n
+\n 2) Pelar las manzanas, la piña y la papaya, corarlas en cuadritos pequeños. En cuanto el agua empiece a hervir, añadir todos los ingredientes \n
+\n 3) Cocinar a fuego lento por 20 minutos. \n
+\n 4) Cuando esté frío puede entonces pelar los plátanos y cortarlos en rodajas, finalmente guardarlo en el refrigerador. \n
+\n 5) Después de 24 horas el sabor será mucho más concentrado, también se puede servir caliente \n
     </string>
-    <string name="arrozconchocolate">INGREDIENTES
-    100 gramos de arroz
-1/2 litro de leche
-1 vaina de vainilla
-75 gramos de azúcar
-100 gramos de chocolate negro
-1 c/c de la piel rallada de un limón
-1 c/c de mantequilla.
+    <string name="arrozconchocolate">
+ \n* 100 gramos de arroz \n
+\n * 1/2 litro de leche \n
+\n * 1 vaina de vainilla \n
+\n * 75 gramos de azúcar \n
+\n * 100 gramos de chocolate negro \n
+\n * 1 c/c de la piel rallada de un limón  \n
+\n * 1 c/c de mantequilla. \n
 
-        PROCEDIMIENTO
+   \n     PROCEDIMIENTO \n
 
-        Abrir la vaina de vainilla a lo largo, raspar con la punta de un cuchillo para extraer las semillas y añadirlas, junto con la leche, la piel del limón y el azúcar en una olla, y poner a cocer.
+       \n 1)  Abrir la vaina de vainilla a lo largo, raspar con la punta de un cuchillo para extraer las semillas y añadirlas, junto con la leche, la piel del limón y el azúcar en una olla, y poner a cocer. \n
 
-Añadir el arroz y cocer a fuego bajo durante unos 20 minutos. Mover de vez en cuando con una cuchara de madera.
+\n 2) Añadir el arroz y cocer a fuego bajo durante unos 20 minutos. Mover de vez en cuando con una cuchara de madera. \n
 
-Rallar el chocolate y añadir junto con la mantequilla al arroz con leche. Mezclar todo bien y dejar que se funda y se integre en el arroz con leche.
-        Servir arroz con chocolate con leche aún caliente
+\n 3) Rallar el chocolate y añadir junto con la mantequilla al arroz con leche. Mezclar todo bien y dejar que se funda y se integre en el arroz con leche. \n
+    \n 4) Servir arroz con chocolate con leche aún caliente \n \n \n \n \n
     </string>
-    <string name="tiste">INGEDIENTES
-        Media lb de semillas de cacao molida
-Media lb de maíz molido
-1 taza de azúcar
-Media taza de canela
-1 achiote
-1 litro de agua o leche
+    <string name="tiste">
+    \n * Media lb de semillas de cacao molida \n
+\n * Media lb de maíz molido \n
+\n * 1 taza de azúcar \n
+\n * Media taza de canela \n
+\n * 1 achiote \n
+\n * 1 litro de agua o leche \n
 
-        PROCEDIMIENTO
+     \n    PROCEDIMIENTO \n
 
-        Colocas el cacao, el maíz, la canela en polvo, azúcar, achiote y agua o leche.
-Licuas todos los ingredientes
-Añádele hielo y está listo para degustar
+    \n    1) Colocas el cacao, el maíz, la canela en polvo, azúcar, achiote y agua o leche. \n
+\n 2) Licuas todos los ingredientes \n
+\n 3) Añádele hielo y está listo para degustar \n \n \n \n \n
 
     </string>
-    <string name="boj">INGREDIENTES
-    \n 1 libra de maíz. \n
-\n 2 a 3 cañas de azúcar. \n
-\n 1 1/2 cucharada de cal. \n
 
-        PROCDIMIENTO
-
+    <string name="boj">
+ \n   * 1 libra de maíz. \n
+\n * 2 a 3 cañas de azúcar. \n
+\n * 1 1/2 cucharada de cal. \n
+      \n  PROCEDIMIENTO \n
        \n Muela el maíz en una piedra y luego, séquelo sobre una sartén en el fuego. \n
 \n Muela la caña de azúcar en un trapiche, para extraer el juego. \n
 \n Agregueal maíz seco, el jugo de la caña de azúcar y un poco de cal (1 1/2 cucharada aproximadamente). \n
 \n Mezcle los ingredientes y deje fermentar pr ocho días aproximadamente. \n
-    </string>}
+    </string>
     <string name="chancleta">INGREDIENTES
 
   *4 güisquiles verdes \n
@@ -1027,8 +1158,4 @@ Se hacen entonces unas bolitas del tamaño de un durazno y se colocan sobre una 
         4
 Se aplastan un poco con la palma de la mano, se espolvorean con azúcar y se meten al horno precalentado a 180ºC durante 30 minutos o hasta que al pegarles por la parte de abajo, se escuche un sonido hueco." \n
     </string>
-
-
-
-
 </resources>

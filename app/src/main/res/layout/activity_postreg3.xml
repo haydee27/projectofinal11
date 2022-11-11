@@ -11,6 +11,7 @@
     tools:context=".ui.sv.plato1"
     tools:ignore="MissingClass">
 
+
     <Space
         android:layout_width="match_parent"
         android:layout_height="15dp"/>

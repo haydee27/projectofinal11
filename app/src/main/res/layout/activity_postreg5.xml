@@ -4,12 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+
     android:orientation="vertical"
     android:background="@drawable/guatemala"
     android:layout_margin="0dp"
     android:gravity="center"
     tools:context=".ui.sv.plato1"
     tools:ignore="MissingClass">
+
+
 
     <Space
         android:layout_width="match_parent"

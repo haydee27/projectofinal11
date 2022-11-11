@@ -15,9 +15,10 @@
       android:id="@+id/txtm"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="platog"
+      android:text="PEOPIAN"
       android:textSize="35dp"
-      android:textColor="#FFBB86FC"
+      android:textStyle="bold"
+      android:textColor="#673AB7"
       android:textAlignment="center"
       android:layout_marginLeft="10dp"
       tools:layout_editor_absoluteX="50dp"
@@ -28,6 +29,7 @@
       android:layout_width="match_parent"
       android:layout_height="25dp"
       />
+
 
   <androidx.appcompat.widget.LinearLayoutCompat
       android:layout_width="match_parent"
@@ -40,7 +42,7 @@
         android:id="@+id/imageView7"
         android:layout_width="160dp"
         android:layout_height="160dp"
-        android:src="@drawable/nvigoron" />
+        android:src="@drawable/peoianguate" />
 
   </androidx.appcompat.widget.LinearLayoutCompat>
   <Space
@@ -48,20 +50,32 @@
       android:layout_height="25dp"
       />
 
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="50dp"
+      android:textColor="@color/purple_500"
+      android:textStyle="bold"
+      android:text="INGREDIENTES Y PROCEDIMIENTO:"/>
+
   <androidx.appcompat.widget.LinearLayoutCompat
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       android:gravity="center"
       android:orientation="horizontal">
 
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
         android:textAlignment="center"
         android:layout_marginLeft="10dp"
+        android:textColor="@color/black"
         android:text="@string/vigoron" />
 
+    </ScrollView>
   </androidx.appcompat.widget.LinearLayoutCompat>
 
 
