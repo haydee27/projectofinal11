@@ -219,10 +219,6 @@
             android:name=".ui.guatemala.postreg3"
             android:exported="false" />
         <activity
-            android:name=".ui.guatemala.postreg2"
-            android:exported="false"
-            android:theme="@style/Theme.Recetaappfinal.NoActionBar" />
-        <activity
             android:name=".ui.guatemala.postreg1"
             android:exported="false" />
         <activity
@@ -340,13 +336,11 @@
         <activity
             android:name=".ui.sv.MainActivityplatof"
             android:exported="false"
-            android:label="MENU PLATOS"
-             />
+            android:label="MENU PLATOS" />
         <activity
             android:name=".ui.sv.MainActivitybebidas"
             android:exported="false"
-            android:label="MENU BEBIDAS"
-             />
+            android:label="MENU BEBIDAS" />
         <activity
             android:name=".ui.sv.postre5"
             android:exported="false"
@@ -375,8 +369,7 @@
         <activity
             android:name=".ui.sv.MainActivitypostres"
             android:exported="false"
-            android:label="MENU POSTRES"
-            />
+            android:label="MENU POSTRES" />
         <activity
             android:name=".MainActivity"
             android:exported="true"

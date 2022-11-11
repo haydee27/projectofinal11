@@ -47,17 +47,17 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Button"
-            android:onClick="postren1"
+            android:onClick="postreg1"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
 
         <Button
-            android:id="@+id/btngo2"
+            android:id="@+id/btngso2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postren2"
-            android:text="Button" />
+            android:onClick="postresg2"
+            android:text="Button2" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -97,7 +97,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Button"
-            android:onClick="postren3"
+            android:onClick="postreg3"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
@@ -106,7 +106,7 @@
             android:id="@+id/btngo4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postren4"
+            android:onClick="postreg4"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -136,7 +136,7 @@
             android:id="@+id/btngo5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postren5"
+            android:onClick="postreg5"
             android:text="Button" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
