@@ -48,7 +48,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".platop5"
+            android:name=".ui.panama.platop5"
             android:exported="false"
             tools:ignore="WrongManifestParent">
             <meta-data
@@ -70,94 +70,94 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".platop4"
+            android:name=".ui.panama.platop4"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".platop3"
+            android:name=".ui.panama.platop3"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".platop2"
+            android:name=".ui.panama.platop2"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".platop1"
+            android:name=".ui.panama.platop1"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".bebidap5"
+            android:name=".ui.panama.bebidap5"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".bebidap4"
+            android:name=".ui.panama.bebidap4"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".bebidap3"
+            android:name=".ui.panama.bebidap3"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".bebidap2"
+            android:name=".ui.panama.bebidap2"
             android:exported="false"></activity>
         <activity
-            android:name=".bebidap1"
+            android:name=".ui.panama.bebidap1"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".postrep5"
+            android:name=".ui.panama.postrep5"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".postrep4"
+            android:name=".ui.panama.postrep4"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".postrep3"
+            android:name=".ui.panama.postrep3"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".postrep2"
+            android:name=".ui.panama.postrep2"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".postrep1"
+            android:name=".ui.panama.postrep1"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
