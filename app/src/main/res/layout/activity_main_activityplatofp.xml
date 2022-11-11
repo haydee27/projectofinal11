@@ -4,10 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:background="@drawable/fondooooo"
+    android:orientation="vertical"
     android:layout_margin="0dp"
-    tools:context=".ui.guatemala.MainActivitypostreg"
+    tools:context=".ui.panama.MainActivityplatofp"
     tools:ignore="MissingClass">
 
     <Space
@@ -43,20 +43,20 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btngo1"
+            android:id="@+id/btnpp1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Button"
-            android:onClick="postren1"
+            android:text="plato1"
+            android:onClick="platop1"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
 
         <Button
-            android:id="@+id/btngo2"
+            android:id="@+id/btnpp2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postren2"
+            android:onClick="platop2"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -93,21 +93,21 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btngo3"
+            android:id="@+id/btnpp3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Button"
-            android:onClick="postren3"
+            android:text="plato3"
+            android:onClick="platop3"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
 
         <Button
-            android:id="@+id/btngo4"
+            android:id="@+id/btnpp4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postren4"
-            android:text="Button" />
+            android:onClick="platop4"
+            android:text="plato4" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -133,11 +133,11 @@
         android:gravity="center"
         android:orientation="horizontal">
         <Button
-            android:id="@+id/btngo5"
+            android:id="@+id/btnpp5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postren5"
-            android:text="Button" />
+            android:onClick="platop5"
+            android:text="plato5" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 </androidx.appcompat.widget.LinearLayoutCompat>

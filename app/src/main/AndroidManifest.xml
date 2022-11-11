@@ -13,21 +13,69 @@
         android:theme="@style/Theme.Recetaappfinal"
         tools:targetApi="31">
         <activity
-            android:name=".bebidag4"
+
+            android:name=".ui.panama.MainActivityplatofp"
+
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".bebida3"
+
+            android:name=".ui.panama.MainActivitybebidap"
+
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".platop5"
+
+            android:name=".ui.panama.MainActivitypostrep"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.guatemala.MainActivitypostreg"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.guatemala.platog5"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.guatemala.platog4"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.guatemala.platog2"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.guatemala.platog1"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.panama.platop5"
+
             android:exported="false"
             tools:ignore="WrongManifestParent">
             <meta-data
@@ -35,94 +83,112 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".platop4"
+            android:name=".ui.costarica.MainActivityplatofc"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".platop3"
+            android:name=".ui.costarica.MainActivitypostresc"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".platop2"
+            android:name=".ui.panama.platop4"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".platop1"
+            android:name=".ui.panama.platop3"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".bebidap5"
+            android:name=".ui.panama.platop2"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".bebidap4"
+            android:name=".ui.panama.platop1"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".bebidap3"
+            android:name=".ui.panama.bebidap5"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
+
             android:name=".bebidap2"
             android:exported="false" />
         <activity
-            android:name=".bebidap1"
+            android:name=".ui.panama.bebidap4"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".postrep5"
+            android:name=".ui.panama.bebidap3"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".postrep4"
+            android:name=".ui.panama.bebidap2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.panama.bebidap1"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".postrep3"
+            android:name=".ui.panama.postrep5"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".postrep2"
+            android:name=".ui.panama.postrep4"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".postrep1"
+            android:name=".ui.panama.postrep3"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.panama.postrep2"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.panama.postrep1"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"

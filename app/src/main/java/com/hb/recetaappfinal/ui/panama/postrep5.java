@@ -1,8 +1,10 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.panama;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.hb.recetaappfinal.R;
 
 public class postrep5 extends AppCompatActivity {
 

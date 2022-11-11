@@ -5,9 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
-    tools:context=".ui.guatemala.MainActivitypostreg"
+    android:background="@drawable/fondooooo"
+    tools:context=".ui.guatemala.MainActivitybebidasg"
     tools:ignore="MissingClass">
 
     <Space
@@ -43,20 +43,20 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btngo1"
+            android:id="@+id/btnpb1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Button"
-            android:onClick="postren1"
+            android:text="bebida1"
+            android:onClick="bebidap1"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
 
         <Button
-            android:id="@+id/btngo2"
+            android:id="@+id/btnpb2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postren2"
+            android:onClick="bebidap2"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -93,20 +93,20 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btngo3"
+            android:id="@+id/btnpb3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Button"
-            android:onClick="postren3"
+            android:onClick="bebidap3"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
 
         <Button
-            android:id="@+id/btngo4"
+            android:id="@+id/btnpb4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postren4"
+            android:onClick="bebidap4"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -133,10 +133,10 @@
         android:gravity="center"
         android:orientation="horizontal">
         <Button
-            android:id="@+id/btngo5"
+            android:id="@+id/btnpb5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postren5"
+            android:onClick="bebidap5"
             android:text="Button" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 

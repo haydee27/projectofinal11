@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
-    tools:context=".ui.guatemala.MainActivitypostreg"
+    tools:context=".ui.panama.MainActivitypostrep"
     tools:ignore="MissingClass">
 
     <Space
@@ -43,20 +43,20 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btngo1"
+            android:id="@+id/btnpo1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Button"
-            android:onClick="postren1"
+            android:onClick="postrep1"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
 
         <Button
-            android:id="@+id/btngo2"
+            android:id="@+id/btnpo2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postren2"
+            android:onClick="postrep2"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -93,20 +93,20 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btngo3"
+            android:id="@+id/btnpo3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Button"
-            android:onClick="postren3"
+            android:onClick="postrep3"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
 
         <Button
-            android:id="@+id/btngo4"
+            android:id="@+id/btnpo4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postren4"
+            android:onClick="postrep4"
             android:text="Button" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -133,10 +133,10 @@
         android:gravity="center"
         android:orientation="horizontal">
         <Button
-            android:id="@+id/btngo5"
+            android:id="@+id/btnpo5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="postren5"
+            android:onClick="postrep5"
             android:text="Button" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
