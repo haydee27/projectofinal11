@@ -16,7 +16,7 @@ import com.hb.recetaappfinal.ui.nicaragua.postren5;
 
 public class MainActivitypostreg extends AppCompatActivity {
 
-    Button btngo1, btngso2, btngo3, btngo4, btngo5;
+    Button btngo1, b2, btngo3, btngo4, btngo5;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,7 +24,7 @@ public class MainActivitypostreg extends AppCompatActivity {
         setContentView(R.layout.activity_main_activitypostreg);
 
         btngo1 = findViewById(R.id.btngo1);
-        btngso2 = findViewById(R.id.btngso2);
+         b2 = findViewById(R.id.b2);
         btngo3 = findViewById(R.id.btngo3);
         btngo4 = findViewById(R.id.btngo4);
         btngo5 = findViewById(R.id.btngo5);
@@ -36,8 +36,8 @@ public class MainActivitypostreg extends AppCompatActivity {
     }
 
     public void postresg2(View view) {
-        Intent btngso2= new Intent(this, postresg2.class);
-        startActivity(btngso2);
+        Intent b2= new Intent(this, postresg2.class);
+        startActivity(b2);
     }
 
     public void postreg3(View view) {
