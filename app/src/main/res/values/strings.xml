@@ -730,23 +730,23 @@ Sirva con patacones o papas. ¡Buen provecho!
     <string name="receta_bebida4">bebida4</string>
     <string name="receta_bebida5">bebida5</string>
     =======
-    <string name="vigoron">Vigorón
-        Ingredientes:
-1 ½ kg de chicharrón
-2 dientes ajo
-2 naranja agria
-Manteca de cerdo
-Sal a gusto
-1 kg de repollo
-300 gr de tomate
-Sal, pimienta negra molida y vinagre a gusto
-1 ½ de yuca
+    <string name="vigoron">
 
-        Preparación:
-1.	En una olla colocamos la yuca ya pelada y en pequeños trozos con suficiente agua hasta que este blanda.
-2.	Aparte hacemos la ensalada, cortamos el repollo en trozos finos, con el tomate en cuadritos un toque de sal, vinagre y pimienta negra molida al gusto.
-3.	Para preparar el chicharron marinaremos la carne picada en trozos pequeños con el jugo de las dos naranjas, los ajos y sal al gusto durante hora y media, una vez pasado este tiempo la freimos con suficiente manteca de cerdo.
-4.	Luego podemos servir encima de unas hojas de chiguere o platano la yuca, con el chicharron y encima la ensalada.
+\n * 1 ½ kg de chicharrón \n
+\n * 2 dientes ajo \n
+\n * 2 naranja agria \n
+\n * Manteca de cerdo \n
+\n * Sal a gusto \n
+\n * 1 kg de repollo \n
+\n * 300 gr de tomate \n
+\n * Sal, pimienta negra molida y vinagre a gusto \n
+\n * 1 ½ de yuca \n
+
+    \n   PREPARACION: \n
+\n 1.	En una olla colocamos la yuca ya pelada y en pequeños trozos con suficiente agua hasta que este blanda. \n
+\n 2.	Aparte hacemos la ensalada, cortamos el repollo en trozos finos, con el tomate en cuadritos un toque de sal, vinagre y pimienta negra molida al gusto. \n
+\n 3.	Para preparar el chicharron marinaremos la carne picada en trozos pequeños con el jugo de las dos naranjas, los ajos y sal al gusto durante hora y media, una vez pasado este tiempo la freimos con suficiente manteca de cerdo. \n
+\n 4.	Luego podemos servir encima de unas hojas de chiguere o platano la yuca, con el chicharron y encima la ensalada.  \n \n \n \n \n
     </string>
     <string name="nacatamal">Nacatamal
         Ingredientes
@@ -837,86 +837,86 @@ Sal y pimienta
     </string>
 
 
-    <string name="rompope">INGREDIENTES
-    1 lt. de leche
-250 gr azúcar
-4 yemas de huevo
-Pizca de nuez moscada
-20 ml alcohol
-Canela al gusto
+    <string name="rompope">
+\n * 1 lt. de leche \n
+\n * 250 gr azúcar \n
+\n * 4 yemas de huevo \n
+\n * Pizca de nuez moscada \n
+\n * 20 ml alcohol \n
+\n * Canela al gusto \n
 
-        PROCEDIMIENTO
+      \n  PROCEDIMIENTO \n
 
-        Pon en una olla la leche a hervir
-Licua las yemas y reserva
-Cuando la leche entre en hervor agrega las yemas, el azúcar y las especies
-Deja enfriar la mezcla y cuela. Después de 24 horas añade el ron y está listo para servir
+      \n 1)  Pon en una olla la leche a hervir \n
+\n 2) Licua las yemas y reserva \n
+\n 3) Cuando la leche entre en hervor agrega las yemas, el azúcar y las especies \n
+\n 4) Deja enfriar la mezcla y cuela. Después de 24 horas añade el ron y está listo para servir \n
     </string>
-    <string name="ponchedefrutas">INGREDIENTES
-    2 litros de agua
-½ papaya
-1 piña pequeña
-2 plátanos o bananas
-4 litros de agua
-4 manzanas
-4 onzas de ciruela pasa
-4 onzas coco
-4 onzas de pasas
-4 rajas de canela
-1 taza de azúcar
+    <string name="ponchedefrutas">
+   \n * 2 litros de agua \n
+\n * ½ papaya \n
+\n * 1 piña pequeña \n
+\n * 2 plátanos o bananas \n
+\n * 4 litros de agua \n
+\n * 4 manzanas \n
+\n * 4 onzas de ciruela pasa \n
+\n * 4 onzas coco \n
+\n * 4 onzas de pasas \n
+\n * 4 rajas de canela \n
+\n * 1 taza de azúcar \n
 
-        PROCEDIMIENTO
+     \n    PROCEDIMIENTO \n
 
-        Colocar el agua, el azúcar y la canela en una olla.
-Pelar las manzanas, la piña y la papaya, corarlas en cuadritos pequeños. En cuanto el agua empiece a hervir, añadir todos los ingredientes
-Cocinar a fuego lento por 20 minutos.
-Cuando esté frío puede entonces pelar los plátanos y cortarlos en rodajas, finalmente guardarlo en el refrigerador.
-Después de 24 horas el sabor será mucho más concentrado, también se puede servir caliente
+      1) Colocar el agua, el azúcar y la canela en una olla. \n
+\n 2) Pelar las manzanas, la piña y la papaya, corarlas en cuadritos pequeños. En cuanto el agua empiece a hervir, añadir todos los ingredientes \n
+\n 3) Cocinar a fuego lento por 20 minutos. \n
+\n 4) Cuando esté frío puede entonces pelar los plátanos y cortarlos en rodajas, finalmente guardarlo en el refrigerador. \n
+\n 5) Después de 24 horas el sabor será mucho más concentrado, también se puede servir caliente \n
     </string>
-    <string name="arrozconchocolate">INGREDIENTES
-    100 gramos de arroz
-1/2 litro de leche
-1 vaina de vainilla
-75 gramos de azúcar
-100 gramos de chocolate negro
-1 c/c de la piel rallada de un limón
-1 c/c de mantequilla.
+    <string name="arrozconchocolate">
+ \n* 100 gramos de arroz \n
+\n * 1/2 litro de leche \n
+\n * 1 vaina de vainilla \n
+\n * 75 gramos de azúcar \n
+\n * 100 gramos de chocolate negro \n
+\n * 1 c/c de la piel rallada de un limón  \n
+\n * 1 c/c de mantequilla. \n
 
-        PROCEDIMIENTO
+   \n     PROCEDIMIENTO \n
 
-        Abrir la vaina de vainilla a lo largo, raspar con la punta de un cuchillo para extraer las semillas y añadirlas, junto con la leche, la piel del limón y el azúcar en una olla, y poner a cocer.
+       \n 1)  Abrir la vaina de vainilla a lo largo, raspar con la punta de un cuchillo para extraer las semillas y añadirlas, junto con la leche, la piel del limón y el azúcar en una olla, y poner a cocer. \n
 
-Añadir el arroz y cocer a fuego bajo durante unos 20 minutos. Mover de vez en cuando con una cuchara de madera.
+\n 2) Añadir el arroz y cocer a fuego bajo durante unos 20 minutos. Mover de vez en cuando con una cuchara de madera. \n
 
-Rallar el chocolate y añadir junto con la mantequilla al arroz con leche. Mezclar todo bien y dejar que se funda y se integre en el arroz con leche.
-        Servir arroz con chocolate con leche aún caliente
+\n 3) Rallar el chocolate y añadir junto con la mantequilla al arroz con leche. Mezclar todo bien y dejar que se funda y se integre en el arroz con leche. \n
+    \n 4) Servir arroz con chocolate con leche aún caliente \n \n \n \n \n
     </string>
-    <string name="tiste">INGEDIENTES
-        Media lb de semillas de cacao molida
-Media lb de maíz molido
-1 taza de azúcar
-Media taza de canela
-1 achiote
-1 litro de agua o leche
+    <string name="tiste">
+    \n * Media lb de semillas de cacao molida \n
+\n * Media lb de maíz molido \n
+\n * 1 taza de azúcar \n
+\n * Media taza de canela \n
+\n * 1 achiote \n
+\n * 1 litro de agua o leche \n
 
-        PROCEDIMIENTO
+     \n    PROCEDIMIENTO \n
 
-        Colocas el cacao, el maíz, la canela en polvo, azúcar, achiote y agua o leche.
-Licuas todos los ingredientes
-Añádele hielo y está listo para degustar
+    \n    1) Colocas el cacao, el maíz, la canela en polvo, azúcar, achiote y agua o leche. \n
+\n 2) Licuas todos los ingredientes \n
+\n 3) Añádele hielo y está listo para degustar \n \n \n \n \n
 
     </string>
-    <string name="boj">INGREDIENTES
-    1 libra de maíz.
-2 a 3 cañas de azúcar.
-1 1/2 cucharada de cal.
+    <string name="boj">
+ \n   * 1 libra de maíz. \n
+\n * 2 a 3 cañas de azúcar. \n
+\n * 1 1/2 cucharada de cal. \n
 
-        PROCDIMIENTO
+      \n  PROCEDIMIENTO \n
 
-        Muela el maíz en una piedra y luego, séquelo sobre una sartén en el fuego.
-Muela la caña de azúcar en un trapiche, para extraer el juego.
-Agregueal maíz seco, el jugo de la caña de azúcar y un poco de cal (1 1/2 cucharada aproximadamente).
-Mezcle los ingredientes y deje fermentar pr ocho días aproximadamente.
+       \n 1) Muela el maíz en una piedra y luego, séquelo sobre una sartén en el fuego. \n
+\n 2) Muela la caña de azúcar en un trapiche, para extraer el juego. \n
+\n 3) Agregueal maíz seco, el jugo de la caña de azúcar y un poco de cal (1 1/2 cucharada aproximadamente). \n
+\n 4) Mezcle los ingredientes y deje fermentar pr ocho días aproximadamente. \n
     </string>
 
 </resources>
