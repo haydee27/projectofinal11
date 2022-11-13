@@ -4,17 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-<<<<<<< HEAD
-    tools:context=".ui.guatemala.postreg4">
-=======
+    tools:context=".ui.guatemala.postreg4"
     android:orientation="vertical"
     android:background="@drawable/guatemala"
     android:layout_margin="0dp"
     android:gravity="center"
-    tools:ignore="MissingClass"
-    tools:context=".postreg4">
->>>>>>> 09789afac35900d2df995d082c12accbcee8bdc4
-
+    tools:ignore="MissingClass">
     <Space
         android:layout_width="match_parent"
         android:layout_height="15dp"/>

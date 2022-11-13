@@ -4,16 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-<<<<<<< HEAD
-    tools:context=".ui.guatemala.postreg1">
-=======
+    tools:context=".ui.guatemala.postreg1"
     android:orientation="vertical"
     android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
     android:gravity="center"
-    tools:context=".ui.sv.postre1"
     tools:ignore="MissingClass">
->>>>>>> 09789afac35900d2df995d082c12accbcee8bdc4
 
     <Space
         android:layout_width="match_parent"
