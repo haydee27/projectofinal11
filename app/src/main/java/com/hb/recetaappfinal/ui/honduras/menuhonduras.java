@@ -1,5 +1,6 @@
 package com.hb.recetaappfinal.ui.honduras;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -7,8 +8,12 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 
 import com.hb.recetaappfinal.R;
+import com.hb.recetaappfinal.ui.sv.MainActivitybebidas;
+import com.hb.recetaappfinal.ui.sv.MainActivityplatof;
+import com.hb.recetaappfinal.ui.sv.MainActivitypostres;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -60,7 +65,36 @@ public class menuhonduras extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_menuhonduras, container, false);
+
+        View view =  inflater.inflate(R.layout.fragment_menuhonduras, container, false);
+        Button btn1hActivity = (Button) view.findViewById(R.id.btnh1);
+        Button btn2hActivity = (Button) view.findViewById(R.id.btnh2);
+        Button btn3hActivity = (Button) view.findViewById(R.id.btnh3);
+
+        btn1hActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivitypostreh.class);
+                startActivity(intent);
+            }
+        });
+
+        btn2hActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivitybebidah.class);
+                startActivity(intent);
+            }
+        });
+
+        btn3hActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivityplatofh.class);
+                startActivity(intent);
+            }
+        });
+
+        return view;
     }
 }
