@@ -14,6 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="55dp"
         />
+
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -24,7 +25,7 @@
             android:id="@+id/imageView5"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/chancletasguate"
+            android:src="@drawable/torrejas"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"/>
 
@@ -32,10 +33,9 @@
             android:id="@+id/imageView1"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/temalitosdecambrayguate"
+            android:src="@drawable/empanadas"
             android:layout_marginRight="60dp"/>
     </androidx.appcompat.widget.LinearLayoutCompat>
-
 
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
@@ -44,32 +44,35 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btno1"
+            android:id="@+id/btnpo1"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:text="TORREJAS"
-            android:onClick="postreg1"
+            android:text="refresco de cebada"
+            android:onClick="postrep1"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp"
             android:textColor="@color/black"
             android:textSize="10dp" />
 
 
-
-
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btno2"
+            android:id="@+id/btnpo2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:onClick="postresg2"
-            android:text="EMPANADAS"
+            android:onClick="postrep2"
+            android:text="Horchata"
             android:layout_marginLeft="110dp"
             android:textColor="@color/black"
             android:textSize="10dp" />
 
-        
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"/>
+
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -92,59 +95,72 @@
             android:layout_marginRight="60dp"/>
     </androidx.appcompat.widget.LinearLayoutCompat>
 
-
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="horizontal">
 
-        <Button
-            android:id="@+id/btngo3"
-            android:layout_width="wrap_content"
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btno1"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:text="Button"
-            android:onClick="postreg3"
-            android:layout_marginRight="60dp"
-            android:layout_marginLeft="0dp"/>
+            android:background="@drawable/button_color"
+            android:text="TORREJAS"
+            android:onClick="postreg1"
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
 
-
-        <Button
-            android:id="@+id/btngo4"
-            android:layout_width="wrap_content"
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btno2"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:onClick="postreg4"
-            android:text="Button" />
+            android:background="@drawable/button_color"
+            android:onClick="postresg2"
+            android:text="EMPANADAS"
+            android:layout_marginLeft="110dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
 
+        
     </androidx.appcompat.widget.LinearLayoutCompat>
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="55dp"
-        />
+
+
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="horizontal">
+
         <ImageView
-            android:id="@+id/imageView13"
+            android:id="@+id/imageView5782"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/pandeyemaguate"
-            android:layout_marginRight="60dp"/>
-
+            android:src="@drawable/concervadecocoguate"
+            android:layout_marginRight="60dp"
+            android:layout_marginLeft="60dp"/>
     </androidx.appcompat.widget.LinearLayoutCompat>
+
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="horizontal">
-        <Button
-            android:id="@+id/btngo5"
-            android:layout_width="wrap_content"
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btng5"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:onClick="postreg5"
-            android:text="Button" />
+            android:background="@drawable/button_color"
+            android:text="refresco de cebada"
+            android:onClick="postrep1"
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
+
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 </androidx.appcompat.widget.LinearLayoutCompat>
