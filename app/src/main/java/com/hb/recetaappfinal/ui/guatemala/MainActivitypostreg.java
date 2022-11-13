@@ -1,4 +1,4 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.guatemala;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,11 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.hb.recetaappfinal.ui.panama.postrep1;
-import com.hb.recetaappfinal.ui.panama.postrep2;
-import com.hb.recetaappfinal.ui.panama.postrep3;
-import com.hb.recetaappfinal.ui.panama.postrep4;
-import com.hb.recetaappfinal.ui.panama.postrep5;
+import com.hb.recetaappfinal.R;
 
 public class MainActivitypostreg extends AppCompatActivity {
 

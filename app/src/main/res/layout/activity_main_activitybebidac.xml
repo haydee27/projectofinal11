@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
-    tools:context=".ui.costarica.MainActivityplatofc"
+    tools:context=".ui.costarica.MainActivitybebidac"
     tools:ignore="MissingClass">
 
     <Space
@@ -24,17 +24,16 @@
             android:id="@+id/imageView5"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/pupusas_salvadorenas"
+            android:src="@drawable/cebada"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"/>
 
         <ImageView
-            android:id="@+id/imageView6"
+            android:id="@+id/imageView1"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/sopagallina"
-            android:layout_marginRight="60dp"
-            android:layout_marginLeft="10dp"/>
+            android:src="@drawable/horchata"
+            android:layout_marginRight="60dp"/>
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 
@@ -45,12 +44,12 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btncp1"
+            android:id="@+id/btncb1"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:text="pupusas"
-            android:onClick="platoc1"
+            android:text="refresco de cebada"
+            android:onClick="bebidac1"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp"
             android:textColor="@color/black"
@@ -58,12 +57,12 @@
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btncp2"
+            android:id="@+id/btncb2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:onClick="platoc2"
-            android:text="sopa de gallina"
+            android:onClick="bebidac2"
+            android:text="Horchata"
             android:layout_marginLeft="110dp"
             android:textColor="@color/black"
             android:textSize="10dp" />
@@ -80,20 +79,19 @@
         android:orientation="horizontal">
 
         <ImageView
-            android:id="@+id/imageView9"
+            android:id="@+id/imageView53"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/sopadepata"
+            android:src="@drawable/chocolate"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"/>
 
         <ImageView
-            android:id="@+id/imageView58"
+            android:id="@+id/imageView12"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/panrelleno"
-            android:layout_marginRight="60dp"
-            android:layout_marginLeft="60dp"/>
+            android:src="@drawable/tamarindo"
+            android:layout_marginRight="60dp"/>
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 
@@ -104,12 +102,12 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btncp3"
+            android:id="@+id/btncb3"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:text="sopa de pata"
-            android:onClick="platoc3"
+            android:text="Chocolate caliente"
+            android:onClick="bebidac3"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp"
             android:textColor="@color/black"
@@ -117,12 +115,12 @@
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btncp4"
+            android:id="@+id/btncb4"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:onClick="platoc4"
-            android:text="pan con pollo"
+            android:onClick="bebidac4"
+            android:text="refresco de tamarindo"
             android:layout_marginLeft="110dp"
             android:textColor="@color/black"
             android:textSize="10dp" />
@@ -139,12 +137,11 @@
         android:orientation="horizontal">
 
         <ImageView
-            android:id="@+id/imageView55"
+            android:id="@+id/imageView13"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/tamalesdegallina"
-            android:layout_marginRight="60dp"
-            android:layout_marginLeft="60dp"/>
+            android:src="@drawable/refrescoensalada"
+            android:layout_marginRight="60dp"/>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <androidx.appcompat.widget.LinearLayoutCompat
@@ -152,20 +149,17 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="horizontal">
+
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btncp5"
+            android:id="@+id/btncb5"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:text="Tamales de pollo"
-            android:onClick="platoc5"
-            android:layout_marginRight="0dp"
-            android:layout_marginLeft="0dp"
+            android:onClick="bebidac5"
+            android:text="Refresco de ensalada"
+            android:layout_marginLeft="1dp"
             android:textColor="@color/black"
             android:textSize="10dp" />
-
-
-
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 </androidx.appcompat.widget.LinearLayoutCompat>

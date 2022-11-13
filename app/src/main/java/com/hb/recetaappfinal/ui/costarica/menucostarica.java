@@ -1,5 +1,6 @@
 package com.hb.recetaappfinal.ui.costarica;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -7,8 +8,12 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 
 import com.hb.recetaappfinal.R;
+import com.hb.recetaappfinal.ui.panama.MainActivitybebidap;
+import com.hb.recetaappfinal.ui.panama.MainActivityplatofp;
+import com.hb.recetaappfinal.ui.panama.MainActivitypostrep;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -60,7 +65,40 @@ public class menucostarica extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_menucostarica, container, false);
+
+
+        View view = inflater.inflate(R.layout.fragment_menucostarica, container, false);
+        Button btnc1Activit = (Button) view.findViewById(R.id.btnc1);
+        Button btnc2Activit = (Button) view.findViewById(R.id.btnc2);
+        Button btnc3Activit = (Button) view.findViewById(R.id.btnc3);
+
+        btnc1Activit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivitypostresc.class);
+                startActivity(intent);
+            }
+        });
+
+        btnc2Activit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivitybebidac.class);
+                startActivity(intent);
+            }
+        });
+
+
+
+
+        btnc3Activit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivityplatofc.class);
+                startActivity(intent);
+            }
+        });
+
+        return view;
     }
 }
