@@ -1258,14 +1258,14 @@ Listo. \n
 Mover constantemente la mezcla. \n
 Retirar la mezcla del fuego, colocarla en otro recipiente, emparejarla y dejarla enfriar. \n
 Realizar cortes del tamaño que se desea y degustar. ¡Buen provecho! \n
-        /n
-        /n
-        /n
-        /n
+        \n
+        \n
+        \n
+        \n
 
 
     </string>
-    <string name="jocote">INGREDIENTES /n
+    <string name="jocote">INGREDIENTES \n
     *25 jocotes \n
 *2 litros de agua \n
 *1 dulce de atado (panela) ó 1 lb de azúcar \n
@@ -1278,13 +1278,13 @@ Realizar cortes del tamaño que se desea y degustar. ¡Buen provecho! \n
 Cuando los jocotes estén agrietados se sacan del agua y se les quita la cascara con la mano y se cortan en cruz sin quitar la semilla y se guardan. \n
 En otra olla se pone a fuego lento el agua con el dulce de atado y la canela, se le agregan los jocotes ya pelados. \n
 Se dejan cocinar por una hora y se verifica si la miel ya está lista para servir. \n
-        /n
-        /n
-        /n
-        /n
+        \n
+        \n
+        \n
+        \n
     </string>
 
-    <string name="pan">INGREDIENTES /n
+    <string name="pan">INGREDIENTES \n
     * 1 cucharada sopera de Manteca \n
  *13 unidades de Huevos \n
  *½ taza de Leche (120 mililitros) \n
@@ -1307,9 +1307,33 @@ Se hacen entonces unas bolitas del tamaño de un durazno y se colocan sobre una 
 
         4
 Se aplastan un poco con la palma de la mano, se espolvorean con azúcar y se meten al horno precalentado a 180ºC durante 30 minutos o hasta que al pegarles por la parte de abajo, se escuche un sonido hueco." \n
-        /n
-        /n
-        /n
-        /n
+        \n
+        \n
+        \n
+        \n
+    </string>
+
+    <string name="cajetaleche">
+
+    Ingredientes \n
+    	*2 litros de leche \n *1 lb de azúcar \n *2 rajitas de canela \n *1 pizca de bicarbonato \n
+
+    Preparación: \n
+    1.	Primeramente se pone a hervir la leche con el azúcar y la canela, se va removiendo constantemente a fuego lento para evitar que se pegue, luego de una hora agregar el bicarbonato diluido en agua y remover hasta que ponga en forma espesa. \n
+    2.	Para crear las formas agregue la mezcla en una bandeja y deje enfriar, luego corte de la forma que usted guste. /n
+    \n
+    \n
+    \n
+    </string>
+
+
+    <string name="cusnaca">
+ Ingredientes
+    	*30 jocotes \n *½ taza de arroz. *1½ taza de leche. \n *1 cebolla pequeña. \n *2 cucharadas de aceite. \n *1 taza de dulce atado. \n *½ taza de azúcar. \n *Canela y pimienta al gusto. \n
+
+    Preparación:
+    1.	Primeramente pones a cocinar los jocotes y se remoja el arroz por 1 hora, se muelen junto a la pimienta y canela y se cuela conjuntamente con la ayuda de la leche. \n
+    2.	Se fríe la cebolla y se le agregan los jocotes, el dulce y el azúcar, añádele el arroz y se hierve hasta que se vea una consistencia de cajeta suave. \n
+    3.	Se sirve frio en platillos pequeños como merienda. \n
     </string>
 </resources>
