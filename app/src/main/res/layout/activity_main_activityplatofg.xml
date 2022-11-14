@@ -24,7 +24,7 @@
             android:id="@+id/imageView5"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/torrejas"
+            android:src="@drawable/kakikguate"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"/>
 
@@ -32,7 +32,7 @@
             android:id="@+id/imageView1"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/empanadas"
+            android:src="@drawable/fuertefiambreguate"
             android:layout_marginRight="60dp"/>
     </androidx.appcompat.widget.LinearLayoutCompat>
 
@@ -43,22 +43,29 @@
         android:gravity="center"
         android:orientation="horizontal">
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btngp1"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:text="plato1"
+            android:background="@drawable/button_color"
+            android:text="Kak ik"
             android:onClick="platog1"
-            android:layout_marginRight="60dp"
-            android:layout_marginLeft="0dp"/>
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="15dp" />
 
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btngp2"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
             android:onClick="platog2"
-            android:text="Button" />
+            android:text="FIAMBRE"
+            android:layout_marginLeft="110dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -72,18 +79,19 @@
         android:orientation="horizontal">
 
         <ImageView
-            android:id="@+id/imageView21"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            tools:srcCompat="@tools:sample/avatars"
+            android:id="@+id/imageView53"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:src="@drawable/shucosguate"
             android:layout_marginRight="60dp"
-            android:layout_marginLeft="0dp"/>
+            android:layout_marginLeft="60dp"/>
 
         <ImageView
-            android:id="@+id/imageView63"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            tools:srcCompat="@tools:sample/avatars" />
+            android:id="@+id/imageView14"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:src="@drawable/peoianguate"
+            android:layout_marginRight="60dp"/>
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 
@@ -93,28 +101,33 @@
         android:gravity="center"
         android:orientation="horizontal">
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btngp3"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:text="plato3"
+            android:background="@drawable/button_color"
+            android:text="Shucos"
             android:onClick="platog3"
-            android:layout_marginRight="60dp"
-            android:layout_marginLeft="0dp"/>
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="15dp" />
 
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btngp4"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
             android:onClick="platog4"
-            android:text="plato4" />
+            android:text="PEPIAN"
+            android:layout_marginLeft="110dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
+
 
     </androidx.appcompat.widget.LinearLayoutCompat>
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="55dp"
-        />
+
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -122,10 +135,13 @@
         android:orientation="horizontal">
 
         <ImageView
-            android:id="@+id/imageView10"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            tools:srcCompat="@tools:sample/avatars" />
+            android:id="@+id/imageView55"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:src="@drawable/caldoderesguate"
+            android:layout_marginRight="60dp"
+            android:layout_marginLeft="60dp"/>
+
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <androidx.appcompat.widget.LinearLayoutCompat
@@ -133,12 +149,19 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="horizontal">
-        <Button
+
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btngp5"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
+            android:text="Caldo de res"
             android:onClick="platog5"
-            android:text="plato5" />
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="12dp" />
+
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 </androidx.appcompat.widget.LinearLayoutCompat>
