@@ -17,14 +17,16 @@
         android:id="@+id/txtm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Busca por categorias"
+        android:layout_marginLeft="40dp"
         android:layout_marginRight="0dp"
-        android:layout_marginLeft="30dp"
+        android:fontFamily="@font/architects_daughter"
+        android:foregroundTint="#101010"
+        android:text="Busca por categorias"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
         android:textColor="#000000"
         android:textSize="35dp"
         tools:layout_editor_absoluteX="50dp"
-        tools:layout_editor_absoluteY="48dp"
-        />
+        tools:layout_editor_absoluteY="48dp" />
 
 
     <Space
@@ -53,6 +55,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
+            android:fontFamily="sans-serif-smallcaps"
             android:text="Postre"
             android:textColor="@color/black"
             android:textSize="25dp" />
@@ -84,6 +87,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
+            android:fontFamily="sans-serif-smallcaps"
             android:text="bebida"
             android:textColor="@color/black"
             android:textSize="25dp" />
@@ -113,6 +117,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
+            android:fontFamily="sans-serif-smallcaps"
             android:text="Platos"
             android:textColor="@color/black"
             android:textSize="25dp" />
