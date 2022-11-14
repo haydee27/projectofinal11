@@ -11,6 +11,6 @@ public class postreg2 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_postreg2);
+        setContentView(R.layout.activity_postresg2);
     }
 }

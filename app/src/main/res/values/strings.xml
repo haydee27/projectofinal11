@@ -232,7 +232,7 @@ En las tiendas donde venden productos de Latinoamérica encontraran la Semilla d
      2 o 3 cucharadas de esencia de fresa \n
      * Azúcar al gusto \n
 
-    <string name="pupusas"> INGREDIENTES /n
+    <string name="pupusas"> INGREDIENTES  /n
         * 1 1/2 taza(s) Harina de maíz para tortillas \n
 *	1/2 taza(s) Harina de arroz \n
 *	2 taza(s) queso Mozarela o de quesillo \n
@@ -1335,5 +1335,27 @@ Se aplastan un poco con la palma de la mano, se espolvorean con azúcar y se met
     1.	Primeramente pones a cocinar los jocotes y se remoja el arroz por 1 hora, se muelen junto a la pimienta y canela y se cuela conjuntamente con la ayuda de la leche. \n
     2.	Se fríe la cebolla y se le agregan los jocotes, el dulce y el azúcar, añádele el arroz y se hierve hasta que se vea una consistencia de cajeta suave. \n
     3.	Se sirve frio en platillos pequeños como merienda. \n
+    </string>
+    <string name="chucos">INGREDIENTES /n
+    10 panes para hot dog /n
+½ repollo /n
+10 salchichas /n
+4 aguacates /n
+½ limón /n
+Salsa de tomate, mayonesa y mostaza al gusto /n
+Sal y Pimienta al gusto /n
+
+        PROCEDIMIENTO /n
+
+        Primero ponemos dos tazas de agua en una olla y cocinamos al vapor el repollo previamente cortado por aproximadamente 10 a 15 minutos. /n
+Luego podemos añadir las salchichas y cocinarlas hasta que estén listas aproximadamente 3 a 4 minutos. /n
+Enseguida tocará hacer el guacamole, el cual será hecho deshaciendo con un tenedor. /n
+Se le añadirá el jugo de limón un poco de sal y pimienta a tu gusto personal, revuelve para que el sabor se unifique y el guacamole quede delicioso. /n
+Por otro lado Llegará el turno de tostar el pan en la parrilla y una vez esté listo podrás adicionar el guacamole. También podrás añadir la salchicha con la mayonesa, mostaza, salsa de tomate y el repollo. /n
+Listo, eso es todo lo que tienes que hacer para finalizar esta receta Recuerda que puedes también adicionar todo tipo de carnes como longaniza chorizo y muchas más Recuerda que un buen chico está hecho con mucho cariño y sobre todo con tus ingredientes favoritos, que lo disfrutes. /n
+        /n
+        /n
+        /n
+        /n
     </string>
 </resources>

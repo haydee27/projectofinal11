@@ -32,8 +32,8 @@ public class MainActivitypostreg extends AppCompatActivity {
         startActivity(btngo1);
     }
 
-    public void postreg2(View view) {
-        Intent btngo2= new Intent(this, postreg2.class);
+    public void postresg2(View view) {
+        Intent btngo2= new Intent(this, postresg2.class);
         startActivity(btngo2);
     }
 
