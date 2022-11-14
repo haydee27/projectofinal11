@@ -24,7 +24,7 @@
             android:id="@+id/imageView5"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/torrejas"
+            android:src="@drawable/empanadas"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"/>
 

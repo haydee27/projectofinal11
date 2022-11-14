@@ -2,6 +2,7 @@ package com.hb.recetaappfinal.ui.guatemala;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -13,6 +14,7 @@ public class MainActivitypostreg extends AppCompatActivity {
 
     Button btngo1, btngo2, btngo3, btngo4, btngo5;
 
+    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
