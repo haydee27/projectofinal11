@@ -10,10 +10,7 @@
     tools:context=".ui.sv.MainActivityplatof"
     tools:ignore="MissingClass">
 
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="55dp"
-        />
+
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -141,7 +138,7 @@
         <ImageView
             android:id="@+id/imageView55"
             android:layout_width="160dp"
-            android:layout_height="160dp"
+            android:layout_height="130dp"
             android:src="@drawable/tamalesdegallina"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"/>
