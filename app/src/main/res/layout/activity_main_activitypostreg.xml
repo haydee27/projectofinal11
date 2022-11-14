@@ -44,7 +44,7 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnpo1"
+            android:id="@+id/btngo1"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
@@ -57,7 +57,7 @@
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnpo2"
+            android:id="@+id/btngo2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
@@ -97,7 +97,7 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btngo1"
+            android:id="@+id/btngo3"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
@@ -109,7 +109,7 @@
             android:textSize="10dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btngo2"
+            android:id="@+id/btngo4"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
@@ -147,7 +147,7 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btng5"
+            android:id="@+id/btngo5"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
