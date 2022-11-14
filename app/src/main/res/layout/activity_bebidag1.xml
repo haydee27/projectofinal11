@@ -19,7 +19,7 @@
         android:id="@+id/txtm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ROMPOPE"
+        android:text="ROMPOPE."
         android:textSize="35dp"
         android:textColor="#673AB7"
         android:textAlignment="center"
