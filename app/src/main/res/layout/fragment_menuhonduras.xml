@@ -45,11 +45,11 @@
 
             />
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btn1"
+            android:id="@+id/btnh1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:text="Postre"
+            android:text="Postre1"
             android:textColor="@color/black"
             android:textSize="13dp" />
 
@@ -75,11 +75,11 @@
             android:src="@drawable/bebida" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btn2"
+            android:id="@+id/btnh2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:text="bebida"
+            android:text="bebida2"
             android:textColor="@color/black"
             android:textSize="13dp" />
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -104,7 +104,7 @@
             android:layout_marginLeft="60dp"/>
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btn3"
+            android:id="@+id/btnh3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
