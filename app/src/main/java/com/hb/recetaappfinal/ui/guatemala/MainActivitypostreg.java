@@ -22,8 +22,8 @@ public class MainActivitypostreg extends AppCompatActivity {
 
         btngo1 = findViewById(R.id.btngo1);
         btngo2 = findViewById(R.id.btngo2);
-       btngo3 = findViewById(R.id.btngo3);
-       btngo4 = findViewById(R.id.btngo4);
+        btngo3 = findViewById(R.id.btngo3);
+        btngo4 = findViewById(R.id.btngo4);
         btngo5 = findViewById(R.id.btngo5);
     }
 
