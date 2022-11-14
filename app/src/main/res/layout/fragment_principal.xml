@@ -20,7 +20,7 @@
         android:text="Busca por categorias"
         android:layout_marginRight="0dp"
         android:layout_marginLeft="30dp"
-        android:textColor="#9C27B0"
+        android:textColor="#000000"
         android:textSize="35dp"
         tools:layout_editor_absoluteX="50dp"
         tools:layout_editor_absoluteY="48dp"
@@ -39,26 +39,23 @@
         android:orientation="horizontal">
 
         <ImageView
-            android:id="@+id/imageView3"
+            android:id="@+id/imageView"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:layout_marginRight="60dp"
-            android:layout_marginLeft="60dp"
-            android:src="@drawable/postres"
+            android:layout_marginRight="40dp"
+            android:layout_marginLeft="0dp"
+            android:src="@drawable/postrec"
 
             />
 
         <androidx.appcompat.widget.AppCompatButton
-
-
             android:id="@+id/b1"
-
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/button_color"
+            android:backgroundTint="#E5DFE6"
             android:text="Postre"
             android:textColor="@color/black"
-            android:textSize="13dp" />
+            android:textSize="25dp" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 
@@ -77,19 +74,19 @@
             android:id="@+id/imageView4"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:layout_marginRight="60dp"
-            android:layout_marginLeft="60dp"
-            android:src="@drawable/bebida" />
+            android:layout_marginRight="40dp"
+            android:layout_marginLeft="0dp"
+            android:src="@drawable/bebidac" />
 
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/b2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/button_color"
+            android:backgroundTint="#E5DFE6"
             android:text="bebida"
             android:textColor="@color/black"
-            android:textSize="13dp" />
+            android:textSize="25dp" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
     <Space
@@ -107,18 +104,18 @@
             android:id="@+id/imageView5"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/platofuerte"
-            android:layout_marginRight="60dp"
-            android:layout_marginLeft="60dp"/>
+            android:src="@drawable/platoc"
+            android:layout_marginRight="40dp"
+            android:layout_marginLeft="0dp"/>
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/b3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/button_color"
-            android:text="Plato fuerte"
+            android:backgroundTint="#E5DFE6"
+            android:text="Platos"
             android:textColor="@color/black"
-            android:textSize="11dp" />
+            android:textSize="25dp" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 </androidx.appcompat.widget.LinearLayoutCompat>
