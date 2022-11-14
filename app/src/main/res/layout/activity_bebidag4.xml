@@ -6,10 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@drawable/guatemala"
-    android:layout_margin="0dp"
     android:gravity="center"
-    tools:context=".ui.sv.plato1"
-    tools:ignore="MissingClass">
+    tools:context=".ui.guatemala.bebidag4">
 
     <Space
         android:layout_width="match_parent"
@@ -79,6 +77,5 @@
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 
-
-
 </androidx.appcompat.widget.LinearLayoutCompat>
+

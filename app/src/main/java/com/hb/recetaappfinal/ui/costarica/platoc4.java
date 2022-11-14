@@ -1,14 +1,16 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.costarica;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class bebida3 extends AppCompatActivity {
+import com.hb.recetaappfinal.R;
+
+public class platoc4 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_bebida6);
+        setContentView(R.layout.activity_platoc4);
     }
 }

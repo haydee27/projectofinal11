@@ -8,6 +8,7 @@
     android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
     tools:context=".ui.costarica.menucostarica">
+
     <androidx.appcompat.widget.AppCompatCheckedTextView
         android:id="@+id/txtm"
         android:layout_width="wrap_content"
@@ -43,7 +44,7 @@
 
             />
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btn1"
+            android:id="@+id/btnc1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
@@ -73,7 +74,7 @@
             android:src="@drawable/bebida" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btn2"
+            android:id="@+id/btnc2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
@@ -102,7 +103,7 @@
             android:layout_marginLeft="60dp"/>
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btn3"
+            android:id="@+id/btnc3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"

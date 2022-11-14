@@ -11,9 +11,6 @@ import android.view.ViewGroup;
 import android.widget.Button;
 
 import com.hb.recetaappfinal.R;
-import com.hb.recetaappfinal.ui.nicaragua.MainActivitybebidasn;
-import com.hb.recetaappfinal.ui.nicaragua.MainActivityplatofn;
-import com.hb.recetaappfinal.ui.nicaragua.MainActivitypostresn;
 
 /**
  * A simple {@link Fragment} subclass.

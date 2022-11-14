@@ -4,33 +4,28 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    tools:context=".ui.guatemala.postreg1"
     android:orientation="vertical"
-    android:background="@drawable/guatemala"
+    android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
     android:gravity="center"
-    tools:context=".ui.sv.plato1"
     tools:ignore="MissingClass">
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="15dp"/>
-
+        android:layout_height="55dp"
+        />
     <androidx.appcompat.widget.AppCompatCheckedTextView
         android:id="@+id/txtm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="BOJ"
-        android:textSize="35dp"
+        android:text="CHANCLETAS"
         android:textColor="#9C27B0"
+        android:textSize="35dp"
         android:textAlignment="center"
         android:layout_marginLeft="10dp"
         tools:layout_editor_absoluteX="50dp"
         tools:layout_editor_absoluteY="48dp"
-        />
-
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="25dp"
         />
 
     <androidx.appcompat.widget.LinearLayoutCompat
@@ -44,29 +39,39 @@
             android:id="@+id/imageView7"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/bebidabojguate"/>
+            android:src="@drawable/chancletasguate" />
+
+
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
         android:layout_width="match_parent"
-        android:layout_height="25dp"
+        android:layout_height="55dp"
         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:textColor="@color/purple_500"
+        android:textStyle="bold"
+        android:text="INGREDIENTES Y PROCEDIMIENTO:"/>
 
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="horizontal">
-        <ScrollView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
 
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
             <TextView
                 android:id="@+id/textView2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textColor="@color/black"
                 android:textAlignment="center"
-                android:text="@string/boj" />
+                android:text="@string/chancleta" />
         </ScrollView>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
