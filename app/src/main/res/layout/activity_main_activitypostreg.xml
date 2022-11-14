@@ -44,7 +44,7 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btno1"
+            android:id="@+id/btngo1"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
@@ -57,7 +57,7 @@
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btno2"
+            android:id="@+id/btngo2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"

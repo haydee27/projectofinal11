@@ -2,6 +2,7 @@ package com.hb.recetaappfinal.ui.guatemala;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -18,13 +19,14 @@ public class MainActivitypostreg extends AppCompatActivity {
 
     Button btngo1, b2, btngo3, btngo4, btngo5;
 
+    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_activitypostreg);
 
         btngo1 = findViewById(R.id.btngo1);
-         b2 = findViewById(R.id.b2);
+         b2 = findViewById(R.id.btngo2);
         btngo3 = findViewById(R.id.btngo3);
         btngo4 = findViewById(R.id.btngo4);
         btngo5 = findViewById(R.id.btngo5);
