@@ -1,5 +1,6 @@
-package com.hb.recetaappfinal;
+package com.hb.recetaappfinal.ui.categorias;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -7,6 +8,12 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+
+import com.hb.recetaappfinal.R;
+import com.hb.recetaappfinal.ui.sv.MainActivitybebidas;
+import com.hb.recetaappfinal.ui.sv.MainActivityplatof;
+import com.hb.recetaappfinal.ui.sv.MainActivitypostres;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -58,7 +65,36 @@ public class principal extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_principal, container, false);
+
+        View view =  inflater.inflate(R.layout.fragment_principal, container, false);
+        Button btn1Activit = (Button) view.findViewById(R.id.b1);
+        Button btn2Activit = (Button) view.findViewById(R.id.b2);
+        Button btn3Activit = (Button) view.findViewById(R.id.b3);
+
+        btn1Activit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivitymcategorias.class);
+                startActivity(intent);
+            }
+        });
+
+        btn2Activit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivitymcategorias2.class);
+                startActivity(intent);
+            }
+        });
+
+        btn3Activit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MainActivitymcategorias3.class);
+                startActivity(intent);
+            }
+        });
+
+        return view;
     }
 }
