@@ -17,7 +17,7 @@
         android:id="@+id/txtm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="40dp"
+        android:layout_marginLeft="20dp"
         android:layout_marginRight="0dp"
         android:fontFamily="@font/architects_daughter"
         android:foregroundTint="#101010"
@@ -31,7 +31,7 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="40dp"
+        android:layout_height="30dp"
         />
 
     <androidx.appcompat.widget.LinearLayoutCompat
