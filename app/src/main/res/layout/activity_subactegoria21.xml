@@ -54,7 +54,7 @@
             android:id="@+id/imageView53"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/atoledeavenaypiloncillo"
+            android:src="@drawable/rompopeguate"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
@@ -94,13 +94,13 @@
             android:textSize="15dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btncb2"
+            android:id="@+id/btngb1"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="bebidac2"
-            android:text="atole de avena y piloncillo"
+            android:text="rompone"
+            android:onClick="bebidag1"
             android:textSize="12dp"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="40dp"
@@ -125,7 +125,7 @@
             android:id="@+id/imageView12"
             android:layout_width="110dp"
             android:layout_height="160dp"
-            android:src="@drawable/batidopina"
+            android:src="@drawable/caldodefrutasguate"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp" />
 
@@ -133,7 +133,7 @@
             android:id="@+id/imageView13"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/batidodeuchuva"
+            android:src="@drawable/arrozchoco"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="40dp" />
 
@@ -141,7 +141,7 @@
             android:id="@+id/imageView2"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/cafefrioconmora"
+            android:src="@drawable/bebidabojguate"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="10dp"/>
 
@@ -156,38 +156,38 @@
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btncb3"
+            android:id="@+id/btngb2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="batido de piña"
-            android:onClick="bebidac3"
+            android:onClick="bebidag2"
+            android:text="PONCHE DE FRUTAS"
             android:layout_marginLeft="0dp"
             android:textColor="@color/black"
             android:textSize="12dp"/>
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btncb4"
+            android:id="@+id/btngb3"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="bebidac4"
-            android:text="batido de uchuva"
+            android:text="Arroz con chocolate"
+            android:onClick="bebidag3"
             android:layout_marginLeft="40dp"
             android:layout_marginRight="40dp"
             android:textColor="@color/black"
             android:textSize="12dp"/>
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btncb5"
+            android:id="@+id/btngb5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="bebidac5"
-            android:text="cafe frio con mora"
+            android:text="BOJ"
+            android:onClick="bebidag5"
             android:textColor="@color/black"
             android:textSize="12dp"
             android:layout_marginRight="0dp"
@@ -289,14 +289,14 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/bm2"
+            android:id="@+id/bm3"
             android:layout_width="180dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#AC88CA"
             android:background="#020202"
             android:textColor="@color/black"
             android:text="Más bebidas"
-            android:onClick="subactegoria21"/>
+            android:onClick="subactegoria22"/>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 

@@ -1734,6 +1734,105 @@ Preparación: \n
         \n
         \n
 </string>
+    <string name="pasteldegaillina">INGREDIENTES \n
+        *2 ½ tazas harina de trigo \n
+*½ de manteca \n
+*1 lb de pechuga de pollo deshuesada \n
+*1 consomé de pollo \n
+*Sal y pimienta al gusto \n
+*2 cucharaditas de soda \n
+*90 ml agua tibia \n
+*50 g. aceite \n
+*1 pizca sal \n
+
+        PROCEDIMIENTO \n
+
+        Para preparar el pollo, se corta en pedazos pequeños para que su tiempo de cocción sea mínimo, se condimenta con sal, pimienta y consomé, agregamos agua y dejamos cocinar por 20 mimutos. \n
+En un recipiente colocamos el pollo que hemos cocinado previamente y procedemos a desmenuzarlo. \n
+Para preparar la masa, en un bol agregar parte de la harina de trigo, colocar manteca, soda y sal. Amasar mientras se vierte agua tibia. \n
+Continuar amasando y agregando harina hasta lograr una consistencia flexible. \n
+Elaborar con la masa pequeñas pelotitas, y dejarlos reposar por 5 minutos cubriendolos con una manta. \n
+En un plato previamente aceitado colocar la  bolita de harina y proceder a elaborar la tortilla, una vez esté hecha agregar el pollo, cerrarlo cuidando que no se desborde la mezcla. \n
+Freir en un sartén previamente calentado. \n
+Servir con salsa o chismol. \n
+        \n
+        \n
+        \n
+        \n
+
+
+    </string>
+    <string name="alcitrones">INGREDIENTES \n
+    *2 ¼ lb de chilacayote \n
+*2 ¼ lb de azúcar (o al gusto) \n
+*4 tazas de agua \n
+
+        PROCEDIMIENTO \n
+
+        Hervir el chicalayote durante 30 minutoso hasta que se encuentre suave. \n
+Cocinar el azúcar hasta que se caramelice. \n
+Agregar el chicalayote, dejando cocinar hasta que el álmibar esté espeso. \n
+Apagar el fuego y dejar reposar durante 48 horas. \n
+Llevar al fuego nuevamente, sacar los alcitrones y espolvorear azúcar sobre los mismos. \n
+    </string>
+    <string name="ciruelaenmiel">INGREDIENTES \n
+        *12 ciruelas \n
+*1 panela, partida \n
+*2 tza de agua \n
+*3 ramas de canela \n
+*Clavos de olor \n
+
+        PROCEDIMIENTO \n
+
+        En una olla pones los trozos de panela, el agua y las especies \n
+Cocinas a fuego lento hasta que se disuelva la panela. Pones a fuego alto y dejas que hierva \n
+Cocinas a fuego bajo, revuelves constantemente hasta que tome una consistencia espesa \n
+Lavas las ciruelas y les realizas un corte de cruz y eliminas los huesos \n
+Cocinas las ciruelas en agua \n
+Viertes las ciruelas en la miel. Dejas reposar \n
+Sirves y disfrutas \n
+
+
+    </string>
+
+    <string name="macheteadas"> INGREDIENTES \n
+    4 tazas de harina de trigo \n
+1 huevo \n
+4 cucharadas de azúcar \n
+4 cucharadas de aceite \n
+1 cucharadita de sal \n
+½Taza de agua tibia \n
+2 ½ cucharaditas de polvo para hornear \n
+
+        PROCEDIMIENTO \n
+
+        En un envase agregue la harina, el huevo, el azúcar, la sal. \n
+El polvo para hornear y por último se debe amasar hasta obtener una masa forme un rollo largo en bolitas y se corta al tamaño de una tortilla. \n
+Luego que la masa este suave se corta porciones de la masa y se hacen unas bolitas del tamaño deseado y luego se dejan reposar las bolitas por 1 hora. \n
+Pasada la hora de reposo y con la ayuda de un rodillo estirar las bolitas y se le hacen 3 cortes en el medio y luego se fríen en aceite bien caliente hasta que doren por ambos lados, luego se colocar en papel absorbente para retirar el exceso de aceite y listo. \n
+Se puede acompañar con café, miel o dulce de papaya. \n
+        \n
+        \n
+        \n
+        \n
+    </string>
+
+    <string name="mazapanrelleno"> INGREDIENTES \n
+    250 gramos de azúcar glas. \n
+1 huevo. \n
+250 gramos de almendras crudas peladas. \n
+
+        PROCEDIMIENTO    \n
+
+        Podrás moler la almendra en cualquier batidora o robot y tan solo necesitarás 7 segundos para que esté molida por completo.  \n
+Ahora coge un recipiente profundo y mezcla la almendra molida con el azúcar glass. En otros dos recipientes más pequeños pon la clara del huevo en uno y la yema en el otro y luego la clara añádela a la mezcla de la almendra y azúcar.  \n
+A continuación ve removiendo toda la mezcla hasta que veas que va teniendo un aspecto de pasta.  \n
+Cuando la masa esté compacta cógela y amásala con las manos hasta que tenga un aspecto homogéneo y después dale forma de bola.  \n
+Envuelve la masa en papel film y después déjala reposar durante media hora aproximadamente.  \n
+Una vez pasado el tiempo coge cualquier molde para las figuritas y ve haciéndolas.  \n
+Ahora pon el horno a 200 grados para que se vaya calentando y mientras tanto pinta las figuritas con la yema del huevo.  \n
+Por último mételas al horno durante unos 3-6 minutos y en cuanto veas que están dorándose sácalas.  \n
+    </string>
 
     <string name="baleadas">
         Ingredientes:
@@ -1866,8 +1965,90 @@ Preparación: \n
         \n
         \n
         \n
-
     </string>
+    
+    <string name="ponchedeleche">
+        Ingredientes: \n
+*½ litro de leche \n
+*Azúcar al gusto \n
+*Sal al gusto \n
+*1 canela en rajas \n
+*½ taza de ron (opcional) \n
+        *1 yema de huevo \n
+        \n
+
+Preparación: \n
+1.	En una olla hervir leche con canela y sal y dejar reposar. \n
+2.	En un plato, batir la yema de huevo agregando gradualmente el azúcar y la leche. \n
+3.	Colocar nuevamente en la olla y dejar hervir nuevamente. \n
+4.	Se puede servir frío o caliente. \n
+        \n
+        \n
+        \n
+    </string>
+
+    <string name="pinol">
+        Ingredientes: \n
+*3 kg de maiz \n
+*1 litro de leche \n
+        \n
+
+Preparación: \n
+1.	Es importante tomar en cuenta que el maíz debe estar seco, una vez lo tengamos procedemos a tostarlo en un sartén. \n
+2.	Luego molerlo hasta que torne en una consistencia arenosa. \n
+3.	Hervir la leche y agregar pequeñas porciones de pinol. mezclando bien. \n
+4.	Servir caliente. \n
+        \n
+        \n
+        \n
+    </string>
+
+    <string name="cafedemaiz">
+        Ingredientes: \n
+*1 kg de maíz negro \n
+*800 gr de café en grano \n
+    *Canela al gusto (opcional) \n
+\n
+Preparación: \n
+1.	Primer paso hay que salcochar el maíz durante media hora, luego lave y escurra, cuándo el maíz ya este seco póngalo a tostar a un término medio en el fogón o en el comal, también puede tostarlo en una plancha, un sartén o una olla dependiendo de sus posibilidades. \n
+        \n
+        \n
+        \n
+    </string>
+    
+    <string name="jugodecañadeazucar">
+        Ingredientes: \n
+*4 ramas o tallos de caña \n
+*8 limones \n
+        \n
+
+        Preparación: \n
+1.	Se lava bien los tallos o ramas de la caña se colocan en un trapiche y se extrae todo el jugo de la caña. \n
+2.	En un vaso se le agrega jugo de limón y luego se vierte el jugo de caña y listo Sírvase bien frio. \n
+        \n
+        \n
+        \n
+    </string>
+
+    <string name="aguadehorchata">
+        Ingredientes: \n
+*1 lb de arroz \n
+*3 lb de semilla de morro \n
+*½ taza de cáscara de limón \n
+*18 taza de agua \n
+*4 palitos de canela \n
+*2 ½ Tazas de azúcar \n
+*Hielo.\n
+        \n
+Preparación: \n
+1.	En un envase agregue el arroz y remoje por 2 horas. Luego lavar las semillas de morro secarlas y en un sartén asarlas junto a los palitos de canela. \n
+2.	Luego se escurre el arroz y se le agrega a una licuadora el arroz, el morro asado y la canela, el azúcar, y el agua se licua hasta que los ingredientes estén bien mezclados. \n
+3.	Luego se cuela en un colador fino, sirva con hielo y cascara de limón. \n
+    </string>
+
+
+
+
 
 
 </resources>
