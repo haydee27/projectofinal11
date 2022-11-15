@@ -62,7 +62,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
             android:onClick="postreg2"
-            android:text="tamalitos de cambray"
+            android:text="Horchata"
             android:layout_marginLeft="110dp"
             android:textColor="@color/black"
             android:textSize="10dp" />
@@ -102,7 +102,7 @@
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:text="CONSERVA DE COCO"
+            android:text="CHANCLETAS"
             android:onClick="postreg3"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp"
@@ -120,7 +120,7 @@
             android:textColor="@color/black"
             android:textSize="10dp" />
 
-        
+
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 

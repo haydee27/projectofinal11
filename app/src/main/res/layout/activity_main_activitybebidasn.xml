@@ -22,17 +22,17 @@
 
         <ImageView
             android:id="@+id/imageView2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            tools:srcCompat="@tools:sample/avatars"
-            android:layout_marginRight="60dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/pinolillo"
+            android:layout_marginRight="20dp"
             android:layout_marginLeft="0dp"/>
 
         <ImageView
             android:id="@+id/imageView6"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            tools:srcCompat="@tools:sample/avatars" />
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/fsemillajicaro" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 
@@ -46,9 +46,9 @@
             android:id="@+id/btnib1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="bebida1"
+            android:text="Pinolillo"
             android:onClick="bebidan1"
-            android:layout_marginRight="60dp"
+            android:layout_marginRight="20dp"
             android:layout_marginLeft="0dp"/>
 
 
@@ -57,7 +57,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="bebidan2"
-            android:text="Button" />
+            android:text="Semilla de Jicaro" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -72,17 +72,17 @@
 
         <ImageView
             android:id="@+id/imageView21"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            tools:srcCompat="@tools:sample/avatars"
+            android:layout_width="150dp"
+            android:layout_height="120dp"
+            android:src="@drawable/tiste"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
         <ImageView
             android:id="@+id/imageView63"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            tools:srcCompat="@tools:sample/avatars" />
+            android:layout_width="150dp"
+            android:layout_height="120dp"
+            android:src="@drawable/tibio"/>
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 
@@ -96,9 +96,9 @@
             android:id="@+id/btnib3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Button"
+            android:text="Tiste"
             android:onClick="bebidan3"
-            android:layout_marginRight="60dp"
+            android:layout_marginRight="100dp"
             android:layout_marginLeft="0dp"/>
 
 
@@ -107,7 +107,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="bebidan4"
-            android:text="Button" />
+            android:text="Tibio" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -122,9 +122,9 @@
 
         <ImageView
             android:id="@+id/imageView10"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            tools:srcCompat="@tools:sample/avatars" />
+            android:layout_width="160dp"
+            android:layout_height="120dp"
+            android:src="@drawable/grama" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <androidx.appcompat.widget.LinearLayoutCompat
@@ -137,7 +137,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="bebidan5"
-            android:text="Button" />
+            android:text="Grama" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 </androidx.appcompat.widget.LinearLayoutCompat>
