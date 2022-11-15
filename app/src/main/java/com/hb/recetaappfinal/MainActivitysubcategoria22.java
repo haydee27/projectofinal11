@@ -1,7 +1,6 @@
 package com.hb.recetaappfinal;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class MainActivitysubcategoria22 extends AppCompatActivity {
