@@ -8,11 +8,6 @@ import android.view.View;
 import android.widget.Button;
 
 import com.hb.recetaappfinal.R;
-import com.hb.recetaappfinal.ui.nicaragua.platon1;
-import com.hb.recetaappfinal.ui.nicaragua.platon2;
-import com.hb.recetaappfinal.ui.nicaragua.platon3;
-import com.hb.recetaappfinal.ui.nicaragua.platon4;
-import com.hb.recetaappfinal.ui.nicaragua.platon5;
 
 public class MainActivityplatofp extends AppCompatActivity {
 
@@ -35,8 +30,8 @@ public class MainActivityplatofp extends AppCompatActivity {
         startActivity(btnpp1);
     }
 
-    public void platop2(View view) {
-        Intent btnpp2= new Intent(this, platop2.class);
+    public void platopana2(View view) {
+        Intent btnpp2= new Intent(this, platopana2.class);
         startActivity(btnpp2);
     }
 

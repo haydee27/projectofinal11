@@ -61,7 +61,7 @@
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:onClick="platop2"
+            android:onClick="platopana2"
             android:text="ceviche"
             android:layout_marginLeft="110dp"
             android:textColor="@color/black"
