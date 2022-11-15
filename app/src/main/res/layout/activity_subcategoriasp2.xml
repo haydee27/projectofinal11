@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
-    tools:context=".ui.categorias.subcategorias">
+    tools:context=".ui.categorias.subcategoriasp2">
 
     <Space
         android:layout_width="match_parent"
@@ -38,7 +39,7 @@
             android:id="@+id/imageView5"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/pandeyemaguate"
+            android:src="@drawable/hojaldras"
             android:layout_marginRight="40dp"
             android:layout_marginLeft="60dp"/>
 
@@ -46,14 +47,14 @@
             android:id="@+id/imageView1"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/dulcedepapayamadurapanama"
+            android:src="@drawable/tamazo"
             android:layout_marginRight="40dp"/>
 
         <ImageView
             android:id="@+id/imageView53"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/hojaldrapanama"
+            android:src="@drawable/churchil"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
@@ -67,39 +68,39 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btngo5"
+            android:id="@+id/btnio4"
             android:layout_width="100dp"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
             android:layout_height="wrap_content"
-            android:text="pan de yema"
-            android:onClick="postreg5"
+            android:text="hojaldras somoteñas"
+            android:onClick="postren4"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="15dp"
             android:textColor="@color/black"
-            android:textSize="15dp"/>
+            android:textSize="13dp"/>
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnpo1"
+            android:id="@+id/btnio5"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="postrep1"
-            android:text="dulce de papaya"
+            android:onClick="postren5"
+            android:text="tamazo"
             android:layout_marginLeft="30dp"
             android:textColor="@color/black"
             android:textSize="15dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnpo2"
+            android:id="@+id/btnco1"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="hojaldra de panameña"
-            android:onClick="postrep2"
+            android:text="churchill"
+            android:onClick="postrec1"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="40dp"
             android:textColor="@color/black"
@@ -118,7 +119,7 @@
             android:id="@+id/imageView12"
             android:layout_width="110dp"
             android:layout_height="160dp"
-            android:src="@drawable/cocadapanama"
+            android:src="@drawable/empanadachimerre"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp" />
 
@@ -126,7 +127,7 @@
             android:id="@+id/imageView13"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/mazamorrapanama"
+            android:src="@drawable/cajetadecoco"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="40dp" />
 
@@ -134,7 +135,7 @@
             android:id="@+id/imageView2"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/pesadadenancepanama"
+            android:src="@drawable/arrolladodedulcedeleche"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="10dp"/>
 
@@ -149,38 +150,38 @@
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnpo3"
+            android:id="@+id/btnco2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="postrep3"
-            android:text="dulce de papaya"
+            android:onClick="postrec2"
+            android:text="empanada de chiverre"
             android:layout_marginLeft="0dp"
             android:textColor="@color/black"
             android:textSize="10dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnpo4"
+            android:id="@+id/btnco3"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="postrep4"
-            android:text="mazamorra"
+            android:onClick="postrec3"
+            android:text="cajeta de coco"
             android:layout_marginLeft="40dp"
             android:layout_marginRight="40dp"
             android:textColor="@color/black"
             android:textSize="13dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnpo5"
+            android:id="@+id/btnco4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="pesada de nance"
-            android:onClick="postrep5"
+            android:text="arrollado de dulce de leche"
+            android:onClick="postrec4"
             android:textColor="@color/black"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp"/>
@@ -199,7 +200,7 @@
             android:layout_height="160dp"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="40dp"
-            android:src="@drawable/cajetaleche" />
+            android:src="@drawable/chorreadas" />
         <ImageView
             android:id="@+id/imageView21"
             android:layout_width="90dp"
@@ -225,16 +226,17 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnioo1"
+            android:id="@+id/btnco5"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="postren1"
+            android:onClick="postrec5"
             android:textColor="@color/black"
             android:layout_marginRight="10dp"
             android:layout_marginLeft="20dp"
-            android:text="cajeta de leche" />
+            android:text="chorreadas azucaradas"
+            android:textSize="13dp"/>
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnioo2"
@@ -270,13 +272,14 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/button1"
-        android:layout_width="180dp"
-        android:layout_height="wrap_content"
-        android:backgroundTint="#AC88CA"
-        android:onClick="btnmass"
-        android:background="#020202"
-        android:textColor="@color/black"
-        android:text="Más postres" />
+            android:id="@+id/button1"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#AC88CA"
+            android:onClick="btnmass"
+            android:background="#020202"
+            android:textColor="@color/black"
+            android:text="Más postres" />
     </androidx.appcompat.widget.LinearLayoutCompat>
+
 </androidx.appcompat.widget.LinearLayoutCompat>

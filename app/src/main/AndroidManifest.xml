@@ -13,13 +13,19 @@
         android:theme="@style/Theme.Recetaappfinal"
         tools:targetApi="31">
         <activity
+            android:name=".ui.categorias.subcategoriasp2"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".ui.categorias.subcategorias"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
-
         <activity
             android:name=".ui.categorias.subactegoria21"
             android:exported="false">
@@ -29,8 +35,7 @@
         </activity>
         <activity
             android:name=".ui.categorias.subcategoria2"
-            android:exported="false"/>
-
+            android:exported="false" />
         <activity
             android:name=".ui.guatemala.MainActivityplatoguate3"
             android:exported="false">
@@ -704,7 +709,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-</application>
+    </application>
 
 </manifest>
