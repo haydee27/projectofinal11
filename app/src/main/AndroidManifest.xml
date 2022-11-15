@@ -13,6 +13,13 @@
         android:theme="@style/Theme.Recetaappfinal"
         tools:targetApi="31">
         <activity
+            android:name=".MainActivitysubcategoria22"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".ui.categorias.subactegoria21"
             android:exported="false">
             <meta-data

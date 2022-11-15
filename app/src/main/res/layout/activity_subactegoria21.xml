@@ -296,7 +296,7 @@
             android:background="#020202"
             android:textColor="@color/black"
             android:text="Más bebidas"
-            android:onClick="subactegoria21"/>
+            android:onClick="subactegoria22"/>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 
