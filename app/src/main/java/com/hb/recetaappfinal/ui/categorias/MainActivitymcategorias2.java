@@ -8,6 +8,10 @@ import android.view.View;
 import android.widget.Button;
 
 import com.hb.recetaappfinal.R;
+import com.hb.recetaappfinal.ui.nicaragua.bebidan1;
+import com.hb.recetaappfinal.ui.nicaragua.bebidan2;
+import com.hb.recetaappfinal.ui.nicaragua.bebidan3;
+import com.hb.recetaappfinal.ui.nicaragua.bebidan4;
 import com.hb.recetaappfinal.ui.sv.bebida1;
 import com.hb.recetaappfinal.ui.sv.bebida2;
 import com.hb.recetaappfinal.ui.sv.bebida3;
@@ -16,7 +20,7 @@ import com.hb.recetaappfinal.ui.sv.bebida5;
 
 public class MainActivitymcategorias2 extends AppCompatActivity {
 
-    Button btnb1, btnb2, btnb3, btnb4, btnb5;
+    Button btnb1, btnb2, btnb3, btnb4, btnb5, btnib1, btnib2, btnib3, btnib4, bm1 ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +32,11 @@ public class MainActivitymcategorias2 extends AppCompatActivity {
         btnb3 = findViewById(R.id.btnb3);
         btnb4 = findViewById(R.id.btnb4);
         btnb5 = findViewById(R.id.btnb5);
+        btnib1 = findViewById(R.id.btnib1);
+        btnib2 = findViewById(R.id.btnib2);
+        btnib3 = findViewById(R.id.btnib3);
+        btnib4 = findViewById(R.id.btnib4);
+        bm1 = findViewById(R.id.bm1);
     }
 
     public void bebida1(View view) {
@@ -53,6 +62,26 @@ public class MainActivitymcategorias2 extends AppCompatActivity {
     public void bebida5(View view) {
         Intent btnb5= new Intent(this, bebida5.class);
         startActivity(btnb5);
+    }
+
+    public void bebidan1(View view) {
+        Intent btnib1= new Intent(this, bebidan1.class);
+        startActivity(btnib1);
+    }
+
+    public void bebidan2(View view) {
+        Intent btnib2= new Intent(this, bebidan2.class);
+        startActivity(btnib2);
+    }
+
+    public void bebidan3(View view) {
+        Intent btnib3= new Intent(this, bebidan3.class);
+        startActivity(btnib3);
+    }
+
+    public void subcategoria2 (View view) {
+        Intent bm1= new Intent(this, subcategoria2.class);
+        startActivity(bm1);
     }
 
 
