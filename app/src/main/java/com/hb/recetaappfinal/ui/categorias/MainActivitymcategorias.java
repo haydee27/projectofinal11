@@ -23,6 +23,7 @@ public class MainActivitymcategorias extends AppCompatActivity {
 
     Button btngo1, btnguate2, btngo3, btngo4, btno1, btno2, btno3, btno4, btno5, btn;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -89,5 +90,7 @@ public class MainActivitymcategorias extends AppCompatActivity {
     public void btnmas(View view) {
         Intent btn= new Intent(this, subcategorias.class);
         startActivity(btn);
-    }
-}
+
+
+
+};

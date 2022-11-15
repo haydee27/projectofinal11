@@ -19,6 +19,18 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+
+        <activity
+            android:name=".ui.categorias.subactegoria21"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.categorias.subcategoria2"
+            android:exported="false"/>
+
         <activity
             android:name=".ui.guatemala.MainActivityplatoguate3"
             android:exported="false">
@@ -692,6 +704,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-    </application>
+
+</application>
 
 </manifest>
