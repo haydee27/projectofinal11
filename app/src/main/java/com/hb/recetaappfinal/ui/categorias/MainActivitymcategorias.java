@@ -88,9 +88,7 @@ public class MainActivitymcategorias extends AppCompatActivity {
     }
 
     public void btnmas(View view) {
-        Intent btn= new Intent(this, subcategorias.class);
+        Intent btn = new Intent(this, subcategorias.class);
         startActivity(btn);
-
-
-
+    }
 };
