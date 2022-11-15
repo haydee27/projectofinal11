@@ -7,8 +7,7 @@
     android:orientation="vertical"
     android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
-    tools:context=".ui.categorias.MainActivitymcategorias2">
-
+    tools:context=".ui.categorias.subcategoria2">
 
     <Space
         android:layout_width="match_parent"
@@ -40,7 +39,7 @@
             android:id="@+id/imageView5"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/cebada"
+            android:src="@drawable/grama"
             android:layout_marginRight="40dp"
             android:layout_marginLeft="60dp"/>
 
@@ -48,14 +47,14 @@
             android:id="@+id/imageView1"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/horchata"
+            android:src="@drawable/aguadesapo"
             android:layout_marginRight="40dp"/>
 
         <ImageView
             android:id="@+id/imageView53"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/chocolate"
+            android:src="@drawable/atoledeavenaypiloncillo"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
@@ -69,13 +68,13 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnb1"
+            android:id="@+id/btnib5"
             android:layout_width="100dp"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
             android:layout_height="wrap_content"
-            android:text="refresco de cebada"
-            android:onClick="bebida1"
+            android:onClick="bebidan5"
+            android:text="Grama"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="15dp"
             android:textColor="@color/black"
@@ -83,30 +82,30 @@
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnb2"
+            android:id="@+id/btncb1"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="bebida2"
-            android:text="Horchata"
+            android:text="agua de sapo"
+            android:onClick="bebidac1"
             android:layout_marginLeft="30dp"
             android:textColor="@color/black"
             android:textSize="15dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnb3"
+            android:id="@+id/btncb2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="Chocolate caliente"
-            android:onClick="bebida3"
+            android:onClick="bebidac2"
+            android:text="atole de avena y piloncillo"
             android:textSize="12dp"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="40dp"
             android:textColor="@color/black"
-         />
+            />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 
@@ -126,7 +125,7 @@
             android:id="@+id/imageView12"
             android:layout_width="110dp"
             android:layout_height="160dp"
-            android:src="@drawable/tamarindo"
+            android:src="@drawable/batidopina"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp" />
 
@@ -134,7 +133,7 @@
             android:id="@+id/imageView13"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/refrescoensalada"
+            android:src="@drawable/batidodeuchuva"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="40dp" />
 
@@ -142,7 +141,7 @@
             android:id="@+id/imageView2"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/pinolillo"
+            android:src="@drawable/cafefrioconmora"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="10dp"/>
 
@@ -157,39 +156,40 @@
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnb4"
+            android:id="@+id/btncb3"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="bebida4"
-            android:text="refresco de tamarindo"
+            android:text="batido de piña"
+            android:onClick="bebidac3"
             android:layout_marginLeft="0dp"
             android:textColor="@color/black"
             android:textSize="12dp"/>
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnb5"
+            android:id="@+id/btncb4"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="bebida5"
-            android:text="Refresco de ensalada"
+            android:onClick="bebidac4"
+            android:text="batido de uchuva"
             android:layout_marginLeft="40dp"
             android:layout_marginRight="40dp"
             android:textColor="@color/black"
             android:textSize="12dp"/>
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnib1"
+            android:id="@+id/btncb5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="Pinolillo"
-            android:onClick="bebidan1"
+            android:onClick="bebidac5"
+            android:text="cafe frio con mora"
             android:textColor="@color/black"
+            android:textSize="12dp"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp"/>
 
@@ -211,12 +211,13 @@
             android:layout_height="160dp"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="40dp"
-            android:src="@drawable/fsemillajicaro" />
+            android:src="@drawable/chichemepanamenopanama"/>
+
         <ImageView
             android:id="@+id/imageView21"
             android:layout_width="90dp"
             android:layout_height="100dp"
-            android:src="@drawable/tiste"
+            android:src="@drawable/chichademaizpanama"
             android:layout_marginRight="40dp"
             android:layout_marginLeft="40dp"/>
 
@@ -225,7 +226,7 @@
             android:layout_width="110dp"
             android:layout_height="90dp"
             android:layout_marginRight="40dp"
-            android:src="@drawable/tibio"/>
+            android:src="@drawable/chcichadesarilpanama"/>
 
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -237,40 +238,40 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnib2"
+            android:id="@+id/btnpb1"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="bebidan2"
+            android:text="CHICHEME"
+            android:onClick="bebidap1"
             android:textColor="@color/black"
             android:layout_marginRight="10dp"
             android:layout_marginLeft="20dp"
-            android:textSize="12dp"
-            android:text="Semilla de Jicaro" />
+            android:textSize="12dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnib3"
+            android:id="@+id/btnpb2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="Tiste"
             android:textColor="@color/black"
-            android:onClick="bebidan3"
+            android:onClick="bebidap2"
+            android:text="CHICHA DE MAIZ"
             android:layout_marginRight="40dp"
             android:layout_marginLeft="40dp"/>
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnib4"
+            android:id="@+id/btnpb3"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="bebidan4"
+            android:text="CHICHA DE SARIL"
+            android:onClick="bebidap3"
             android:textColor="@color/black"
-            android:text="Tibio"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="0dp"/>
 
@@ -288,14 +289,14 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/bm1"
+            android:id="@+id/bm2"
             android:layout_width="180dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#AC88CA"
             android:background="#020202"
             android:textColor="@color/black"
             android:text="Más bebidas"
-            android:onClick="subcategoria2"/>
+            android:onClick="subactegoria21"/>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 
