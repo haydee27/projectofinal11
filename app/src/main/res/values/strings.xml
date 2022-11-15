@@ -1358,4 +1358,84 @@ Listo, eso es todo lo que tienes que hacer para finalizar esta receta Recuerda q
         /n
         /n
     </string>
+    
+    <string name="aguadesapo">
+        Ingredientes:
+        \n 1 galón de agua. \n 1 tapa dulce. \n 1 ½ taza de jugo de limón. \n 225 gr de jengibre. \n
+        \n
+
+Preparación: \n
+1. Pones a hervir el litro de agua con la tapa de dulce en trozos y el jengibre. \n
+2. Dejas cocinar hasta que el dulce se haya disuelto. \n
+3. Dejas enfriar y cuelas, añades el limón y el resto del agua. \n
+4. Sirve con abundante hielo. \n
+        \n
+        \n
+        \n
+        \n
+    </string>
+    
+    <string name="atoleavenapilon">
+        Ingredientes: \n
+*¼ taza de avena instantánea. \n *4 ½ tazas de leche entera. \n *1 raja de canela. \n *½ pieza de piloncillo. \n
+        \n
+
+Preparación: \n
+1. Licúa la avena por unos segundos hasta obtener un polvo fino. En este paso puedes agregar otros ingredientes como nueces, almendras o amaranto. \n
+2. El molido de la avena es únicamente para que se distribuya mejor el cereal, si te agrada la textura de la avena entera, sáltate este paso. \n
+3. Coloca en una olla la leche, la avena, la canela y el azúcar; calienta a fuego alto. \n
+4. Baja la temperatura en cuanto suelte el hervor. No dejes de remover para que no se pegue. \n
+5. Hierve a fuego bajo por 5 minutos o hasta que espese ligeramente. \n
+6. Sirve y decora al gusto. \n
+        \n
+        \n
+        \n
+        \n
+    </string>
+
+    <string name="batidopiña">
+        Ingredientes: \n
+*2 tazas de piña pelada y cortada en cubos. \n *125 gr yogur natural. \n *1 lata de leche evaporada. \n *½ taza de agua. \n *2 cucharadas de azúcar o al gusto. \n Hielo. \n
+        \n
+
+
+Preparación: \n
+1. Colocar en la licuadora la piña, el agua, el azúcar, la leche evaporada y el yogur. \n
+2. Licuar a velocidad fuerte por unos minutos. \n
+3. Coloque hielo en los vasos y sirva el batido. \n
+4. Decore con un trocito de piña el borde del vaso. \n
+        \n
+        \n
+        \n
+        \n
+    </string>
+    
+    <string name="batidouchuva">
+        Ingredientes: \n
+*100 gr de uchuva. \n *1 cucharada de miel. \n *Hojas de menta. \n *Hielo. \n
+        \n
+
+Preparación: \n
+1. Batir en la licuadora, la fruta con un poco de agua. \n
+2. Licuar el jugo. \n
+3 Endulzar con la miel. \n
+4. Servir en un vaso, con pedazos de uchuva, hojas de menta y hielo. \n
+        \n
+        \n
+        \n
+        \n
+    </string>
+    
+    <string name="cafefconmora">
+        Ingredientes: \n *¼ taza de leche evaporada. \n *1 expreso. \n *¼ taza de jugo de mora. \n *2 bolas de helado. \n *Crema chantillí. \n
+
+Preparación:
+1. Licuas la leche evaporada, el expreso y las dos bolas de helado. \n
+2. Decora con crema chantillí, el jugo de mora y una mora. \n
+        \n
+        \n
+        \n
+        \n
+
+    </string>
 </resources>
