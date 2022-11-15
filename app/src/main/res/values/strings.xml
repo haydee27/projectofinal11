@@ -1866,8 +1866,94 @@ Preparación: \n
         \n
         \n
         \n
+    </string>
+    
+    <string name="ponchedeleche">
+        Ingredientes: \n
+*½ litro de leche \n
+*Azúcar al gusto \n
+*Sal al gusto \n
+*1 canela en rajas \n
+*½ taza de ron (opcional) \n
+        *1 yema de huevo \n
+        \n
+
+Preparación: \n
+1.	En una olla hervir leche con canela y sal y dejar reposar. \n
+2.	En un plato, batir la yema de huevo agregando gradualmente el azúcar y la leche. \n
+3.	Colocar nuevamente en la olla y dejar hervir nuevamente. \n
+4.	Se puede servir frío o caliente. \n
+        \n
+        \n
+        \n
+    </string>
+
+    <string name="pinol">
+        Ingredientes: \n
+*3 kg de maiz \n
+*1 litro de leche \n
+        \n
+
+Preparación: \n
+1.	Es importante tomar en cuenta que el maíz debe estar seco, una vez lo tengamos procedemos a tostarlo en un sartén. \n
+2.	Luego molerlo hasta que torne en una consistencia arenosa. \n
+3.	Hervir la leche y agregar pequeñas porciones de pinol. mezclando bien. \n
+4.	Servir caliente. \n
+        \n
+        \n
+        \n
+    </string>
+
+    <string name="cafedemaiz">
+        Ingredientes: \n
+*1 kg de maíz negro \n
+*800 gr de café en grano \n
+    *Canela al gusto (opcional) \n
+\n
+Preparación: \n
+1.	Primer paso hay que salcochar el maíz durante media hora, luego lave y escurra, cuándo el maíz ya este seco póngalo a tostar a un término medio en el fogón o en el comal, también puede tostarlo en una plancha, un sartén o una olla dependiendo de sus posibilidades. \n
+        \n
+        \n
+        \n
+    </string>
+    
+    <string name="jugodecañadeazucar">
+        Ingredientes: \n
+*4 ramas o tallos de caña \n
+*8 limones \n
+        \n
+
+        Preparación: \n
+1.	Se lava bien los tallos o ramas de la caña se colocan en un trapiche y se extrae todo el jugo de la caña. \n
+2.	En un vaso se le agrega jugo de limón y luego se vierte el jugo de caña y listo Sírvase bien frio. \n
+        \n
+        \n
+        \n
+    </string>
+
+    <string name="aguadehorchata">
+        Ingredientes: \n
+*1 lb de arroz \n
+*3 lb de semilla de morro \n
+*½ taza de cáscara de limón \n
+*18 taza de agua \n
+*4 palitos de canela \n
+*2 ½ Tazas de azúcar \n
+*Hielo.\n
+        \n
+Preparación: \n
+1.	En un envase agregue el arroz y remoje por 2 horas. Luego lavar las semillas de morro secarlas y en un sartén asarlas junto a los palitos de canela. \n
+2.	Luego se escurre el arroz y se le agrega a una licuadora el arroz, el morro asado y la canela, el azúcar, y el agua se licua hasta que los ingredientes estén bien mezclados. \n
+3.	Luego se cuela en un colador fino, sirva con hielo y cascara de limón. \n
+        \n
+        \n
+        \n
 
     </string>
+
+
+
+
 
 
 </resources>
