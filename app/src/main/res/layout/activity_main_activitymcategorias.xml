@@ -72,7 +72,7 @@
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
             android:layout_height="wrap_content"
-            android:text="TORREJAS"
+            android:text="torrejas"
             android:onClick="postre1"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="15dp"
@@ -87,7 +87,7 @@
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
             android:onClick="postre2"
-            android:text="EMPANADAS"
+            android:text="empanadas"
             android:layout_marginLeft="30dp"
             android:textColor="@color/black"
             android:textSize="15dp" />
@@ -98,8 +98,8 @@
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="Chocolate caliente"
-            android:onClick="bebida3"
+            android:text="sorvete de coco"
+            android:onClick="postre3"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="40dp"
             android:textColor="@color/black"
@@ -139,7 +139,7 @@
             android:id="@+id/imageView2"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/pinolillo"
+            android:src="@drawable/chancletasguate"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="10dp"/>
 
@@ -160,7 +160,7 @@
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
             android:onClick="postre4"
-            android:text="Atol de elote"
+            android:text="atole de elote"
             android:layout_marginLeft="0dp"
             android:textColor="@color/black"
             android:textSize="10dp" />
@@ -172,19 +172,19 @@
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
             android:onClick="postre5"
-            android:text="Mango en miel"
+            android:text="mango en miel"
             android:layout_marginLeft="40dp"
             android:layout_marginRight="40dp"
             android:textColor="@color/black"
             android:textSize="10dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnn1"
+            android:id="@+id/btngo1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="Pinolillo"
+            android:text="chancleta"
             android:onClick="bebidan1"
             android:textColor="@color/black"
             android:layout_marginRight="0dp"
@@ -208,12 +208,12 @@
             android:layout_height="160dp"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="40dp"
-            android:src="@drawable/fsemillajicaro" />
+            android:src="@drawable/temalitosdecambrayguate" />
         <ImageView
             android:id="@+id/imageView21"
             android:layout_width="90dp"
             android:layout_height="100dp"
-            android:src="@drawable/tiste"
+            android:src="@drawable/concervadecocoguate"
             android:layout_marginRight="40dp"
             android:layout_marginLeft="40dp"/>
 
@@ -222,7 +222,7 @@
             android:layout_width="110dp"
             android:layout_height="90dp"
             android:layout_marginRight="40dp"
-            android:src="@drawable/tibio"/>
+            android:src="@drawable/jocotenemielguate"/>
 
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -234,39 +234,39 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnib2"
+            android:id="@+id/btnguate2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="bebidan2"
+            android:onClick="postreguate2"
             android:textColor="@color/black"
             android:layout_marginRight="10dp"
             android:layout_marginLeft="20dp"
-            android:text="Semilla de Jicaro" />
+            android:text="tamalitos de cambray" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnib3"
+            android:id="@+id/btngo3"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="Tiste"
+            android:text="Concerva de coco"
             android:textColor="@color/black"
-            android:onClick="bebidan3"
+            android:onClick="postreg3"
             android:layout_marginRight="40dp"
             android:layout_marginLeft="40dp"/>
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnib4"
+            android:id="@+id/btngo4"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="bebidan4"
+            android:onClick="postreg4"
             android:textColor="@color/black"
-            android:text="Tibio"
+            android:text="jocote en miel"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="0dp"/>
 
@@ -288,6 +288,7 @@
             android:layout_width="180dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#AC88CA"
+            android:onClick="btnmas"
             android:background="#020202"
             android:textColor="@color/black"
             android:text="Más postres" />
