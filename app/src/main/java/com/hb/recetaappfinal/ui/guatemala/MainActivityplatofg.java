@@ -16,7 +16,7 @@ import com.hb.recetaappfinal.ui.nicaragua.platon5;
 
 public class MainActivityplatofg extends AppCompatActivity {
 
-    Button btngp1, btngp2, btngp3, btngp4, btngp5;
+    Button btngp1, btngp2, btnplatoguate3, btngp4, btngp5;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,7 +25,7 @@ public class MainActivityplatofg extends AppCompatActivity {
 
         btngp1 = findViewById(R.id.btngp1);
         btngp2 = findViewById(R.id.btngp2);
-        btngp3 = findViewById(R.id.btngp3);
+        btnplatoguate3 = findViewById(R.id.btnplatoguate3);
         btngp4 = findViewById(R.id.btngp4);
         btngp5 = findViewById(R.id.btngp5);
     }
@@ -40,9 +40,9 @@ public class MainActivityplatofg extends AppCompatActivity {
         startActivity(btngp2);
     }
 
-    public void platog3(View view) {
-        Intent btngp3= new Intent(this, platog3.class);
-        startActivity(btngp3);
+    public void MainActivityplatoguate3(View view) {
+        Intent btnplatoguate3= new Intent(this, MainActivityplatoguate3.class);
+        startActivity(btnplatoguate3);
     }
 
     public void platog4(View view) {

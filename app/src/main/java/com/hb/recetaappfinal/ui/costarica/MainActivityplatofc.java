@@ -8,11 +8,6 @@ import android.view.View;
 import android.widget.Button;
 
 import com.hb.recetaappfinal.R;
-import com.hb.recetaappfinal.ui.panama.platop1;
-import com.hb.recetaappfinal.ui.panama.platop2;
-import com.hb.recetaappfinal.ui.panama.platop3;
-import com.hb.recetaappfinal.ui.panama.platop4;
-import com.hb.recetaappfinal.ui.panama.platop5;
 
 public class MainActivityplatofc extends AppCompatActivity {
 
