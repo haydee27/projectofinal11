@@ -97,7 +97,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="plato3"
-            android:onClick="platohp3"
+            android:onClick="platoh3"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
