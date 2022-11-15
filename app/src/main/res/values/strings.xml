@@ -23,7 +23,7 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
 
-    <string name="receta_postre1">INGREDIENTES /n
+    <string name="receta_postre1">INGREDIENTES \n
 
 •	1 torta de yema \n
 •	2 cucharadas de Harina de Pan \n
@@ -50,7 +50,7 @@
 
     </string>
 
-    <string name="postre2">INGREDIENTES /n
+    <string name="postre2">INGREDIENTES \n
  * 3 plátanos maduros \n
  * ¼ de cartón de leche \n
  * ½ taza de maicena \n
@@ -78,7 +78,7 @@
 
 
     </string>
-    <string name="postre3">INGREDIENTES /n
+    <string name="postre3">INGREDIENTES \n
          *	1/2 vaso de leche de coco. \n
  *	1 yogur de coco \n
  *	Azúcar (a gustos) \n
@@ -100,7 +100,7 @@
 
 
     </string>
-    <string name="postre4">INGREDIENTES /n
+    <string name="postre4">INGREDIENTES \n
         * (258 g.) 1 ¾ taza de maíz/elote dulce recién desgranado \n
   * (187 ml.) ¾ taza de agua \n
   * (95 g.) ½ taza de azúcar blanca \n
@@ -123,7 +123,7 @@
 
     </string>
 
-    <string name="postre5">INGREDIENTES /n
+    <string name="postre5">INGREDIENTES \n
        * 20 mangos sazones \n
          * 1 ½ litro de agua \n
        * 1 dulce de panela \n
@@ -143,7 +143,7 @@
 
     </string>
 
-    <string name="receta_bebida1"> INGREDIETES /n
+    <string name="receta_bebida1"> INGREDIETES \n
  *1 litro de agua \n
   * 1 rajita de canela \n
   * 5 pimientas gordas \n
@@ -167,7 +167,7 @@
         \n
 
     </string>
-    <string name="receta_bebida2"> INGREDIENTES /n
+    <string name="receta_bebida2"> INGREDIENTES \n
 
  * ½ lb de arroz \n
  * ½ lb de ajonjolí \n
@@ -202,7 +202,7 @@ En las tiendas donde venden productos de Latinoamérica encontraran la Semilla d
 
     </string>
     <string name="receta_bebida3">
-        Ingredientes: /n
+        Ingredientes: \n
  * 1 galón de leche \n
  * Canela en rama (a su gusto) \n
  * Azúcar al gusto \n
@@ -221,18 +221,21 @@ En las tiendas donde venden productos de Latinoamérica encontraran la Semilla d
 
 
     </string>
-    <string name="receta_bebida4I">bebida4i</string> INGREDIENTES /n
+    
+    <string name="receta_bebida4I">bebida4i</string>
+    INGREDIENTES /n
 
-     1 litro de agua \n
-     1 rajita de canela \n
-     5 pimientas gordas\n
-     5 clavos de olor \n
-     1/4 taza de harina de pan o de arroz \n
-     2 cucharadas de esencia de vainilla \n
-     2 o 3 cucharadas de esencia de fresa \n
-     * Azúcar al gusto \n
 
-    <string name="pupusas"> INGREDIENTES  /n
+    1 litro de agua \n
+    1 rajita de canela \n
+    5 pimientas gordas\n
+    5 clavos de olor \n
+    1/4 taza de harina de pan o de arroz \n
+    2 cucharadas de esencia de vainilla \n
+    2 o 3 cucharadas de esencia de fresa \n
+    * Azúcar al gusto \n
+
+    <string name="pupusas"> INGREDIENTES  \n
         * 1 1/2 taza(s) Harina de maíz para tortillas \n
 *	1/2 taza(s) Harina de arroz \n
 *	2 taza(s) queso Mozarela o de quesillo \n
@@ -267,7 +270,7 @@ En las tiendas donde venden productos de Latinoamérica encontraran la Semilla d
 
 
     </string>
-    <string name="sopagallina"> INGREDIENTES /n
+    <string name="sopagallina"> INGREDIENTES \n
         * 1 gallina india entera o partida al gusto y previamente aliñada \n
  * 2 tomates medianos jugosos \n
  * 1 cebolla mediana \n
@@ -295,7 +298,7 @@ En las tiendas donde venden productos de Latinoamérica encontraran la Semilla d
         \n
 
     </string>
-    <string name="sopapata"> IGREDIENTES /n
+    <string name="sopapata"> IGREDIENTES \n
 
    * 1 par de patas de res \n
  * 2 lb de tripa de vaca \n
@@ -330,12 +333,12 @@ En las tiendas donde venden productos de Latinoamérica encontraran la Semilla d
 
 
     </string>
-    <string name="panrelleno"> INGREDIENTES /n
+    <string name="panrelleno"> INGREDIENTES \n
        * 1 pechuga grade de pollo \n
  * Salsa inglesa \n
  * Sazonador en polvo \n
  * Sal y pimienta al gusto \n
- * 1 cucharada de mantequilla o de aceite /n
+ * 1 cucharada de mantequilla o de aceite \n
 * 2 panes grandes /n
 
          PARA LA SALSA \n
@@ -432,7 +435,7 @@ PROCEDIMEINTO PARA LA SALSA \n
         \n
 
     </string>
-    <string name="ensalada"> INGREDIENES /n
+    <string name="ensalada"> INGREDIENES \n
 
        * El jugo de 10 naranjas cerca de 4 ½ tazas de jugo\n
  * papaya grande y madura pelada y picada en cubitos pequeños \n
@@ -454,166 +457,166 @@ PROCEDIMEINTO PARA LA SALSA \n
         \n
 
     </string>
-    <string name="dulcepapaya">INGREDIENTES /n
-    -500 gramos de papaya madura /n
--200 gramos de azúcar /n
--2 ramas de canela /n
--1 cucharadita de levadura en polvo /n
--1 trozo de queso vegano /n
--Agua /n
--Cáscara de un limón /n
--Extracto de vainilla /n
+    <string name="dulcepapaya">INGREDIENTES \n
+    -500 gramos de papaya madura \n
+-200 gramos de azúcar \n
+-2 ramas de canela \n
+-1 cucharadita de levadura en polvo \n
+-1 trozo de queso vegano \n
+-Agua \n
+-Cáscara de un limón \n
+-Extracto de vainilla \n
 
-        PROCEDIMIENTO /n
+        PROCEDIMIENTO \n
 
-        Comenzaremos pelando y limpiando muy bien la papaya. Luego, la cortaremos en trozos medianos en forma rectangular. /n
--Colocamos la papaya troceada en un bol, cubrimos de agua y agregamos la levadura en polvo. Removemos y dejamos reposar durante una hora. /n
--Al transcurso de este tiempo, retiramos la papaya, lavamos y la escurrimos. /n
--Ahora, colocaremos la papaya en una olla con agua./n
--Adicionamos el azúcar, la cáscara de limón, la canela y extracto de vainilla según tus gustos, te recomendamos incorporar solo una cucharadita. /n
--Llevamos a la cocina y dejamos hervir tapada durante aproximadamente una hora. /n
--Después de una hora de cocción, y verificamos que el líquido se haya reducido lo suficiente para formar una especie de caramelo. /n
--En este punto, retiramos del fuego y dejamos enfriar. /n
--Mientras tanto picamos en pequeños rectángulos el trozo de queso vegano y reservamos. /n
--Servimos el dulce de papaya madura cuando se encuentre frío y decoramos con unos trocitos de queso vegano para generar ese contraste de sabor dulce y salado. /n
-        /n
-        /n
-        /n
-        /n
+        Comenzaremos pelando y limpiando muy bien la papaya. Luego, la cortaremos en trozos medianos en forma rectangular. \n
+-Colocamos la papaya troceada en un bol, cubrimos de agua y agregamos la levadura en polvo. Removemos y dejamos reposar durante una hora. \n
+-Al transcurso de este tiempo, retiramos la papaya, lavamos y la escurrimos. \n
+-Ahora, colocaremos la papaya en una olla con agua.\n
+-Adicionamos el azúcar, la cáscara de limón, la canela y extracto de vainilla según tus gustos, te recomendamos incorporar solo una cucharadita. \n
+-Llevamos a la cocina y dejamos hervir tapada durante aproximadamente una hora. \n
+-Después de una hora de cocción, y verificamos que el líquido se haya reducido lo suficiente para formar una especie de caramelo. \n
+-En este punto, retiramos del fuego y dejamos enfriar. \n
+-Mientras tanto picamos en pequeños rectángulos el trozo de queso vegano y reservamos. \n
+-Servimos el dulce de papaya madura cuando se encuentre frío y decoramos con unos trocitos de queso vegano para generar ese contraste de sabor dulce y salado. \n
+        \n
+        \n
+        \n
+        \n
     </string>
 
-    <string name="hojaldrapanameña">INGRDIENTES /n
-       * 2 tazas de harina de trigo /n
-*1 ½ cucharadita de azúcar /n
-*2 cucharaditas de polvo de hornear /n
-*1 cucharadita sal /n
-*1cucharada de aceite /n
-*Aceite suficiente para freír las hojaldres /n
+    <string name="hojaldrapanameña">INGRDIENTES \n
+       * 2 tazas de harina de trigo \n
+*1 ½ cucharadita de azúcar \n
+*2 cucharaditas de polvo de hornear \n
+*1 cucharadita sal \n
+*1cucharada de aceite \n
+*Aceite suficiente para freír las hojaldres \n
 
-        PROCEDIMIENTO /n
+        PROCEDIMIENTO \n
 
-        En un bol coloque la harina, azúcar, sal, polvo de hornear. Remueve todo y añadir poco a poco agua o leche para ir formando la masa./n
-Lleve la masa sobre una superficie plana y amásela bien. Dejar tapada que repose unos 30 minutos. /n
-Cortar trocitos de masa y estirarlos de manera que queden bien delgadas. /n
-Freír en aceite bien caliente. ¡Buen porvecho! /n
-        /n
-        /n
-        /n
-        /n
-
-    </string>
-
-    <string name="cocada">INGREDIENTES /n
-*3 tazas de coco rallado /n
-*400 gr de raspadura o miel /n
-*½ taza de agua /n
-*1 rollito de canela /n
-*Corteza de naranja /n
-
-        PROCEDIMIENTO /n
-
-        En una cacerola colocar la raspadura con el agua y la canela, y cocinar por 5 minutos. /n
-Añadir el coco recién rallado, la corteza de naranja y cocinar a fuego bajo por unos 30 minutos, sin dejar de remover. /n
-La preparación estará lista cuando el caramelo ya no pegue del fondo de la cacerola y en la mezcla se formen surcos firmes. Retirar la canela y la corteza de naranja. /n
-Con la ayuda de dos cucharas, tomar parte de la preparación y formar pequeñas bolas que debe colocar sobre una bandeja. Dejar enfriar. /n
-Puede llevarlas al refrigerador para que la mezcla compacte más. /n
-Deguste frías o a temperatura ambiente. ¡Buen provecho! /n
-
-    </string>
-    <string name="mazamorra">INGREDIENTES /n
-        2 tazas de granos de maíz viejo. /n
-•	1 taza de granos de maíz nuevo. /n
-•	6 tazas de agua./n
-•	2 tazas de azúcar./n
-•	4 ramas de canela. /n
-•	8 clavos de olor. /n
-•	1 taza de chicha de nance. /n
-•	1 taza de leche evaporada. /n
-•	½ taza de leche de coco. /n
-•	Una pizca de sal. /n
-
-        PROCEDIMIENTO /n
-
-        1- Lavamos bien el maíz viejo, lo escurrimos y lo llevamos a tostar a una sartén por unos 10 minutos hasta que se ponga un poco oscuro, y lo dejamos reposar hasta que se enfríe. /n
-
-2- Cuando este frío comenzamos a molerlo y lo reservamos. /n
-
-4- Cuando el azúcar se haya disuelto completamente, vamos incorporando de a poco el maíz viejo molido mientras removemos para evitar que se creen grumos. /n
-
-5- Seguidamente agregamos el maíz nuevo, la leche evaporada y la leche de coco, dejamos cocinar por 15 minutos. /n
-
-6- Cuando veamos que ya está espesando nuestra mazamorra, añadimos la chicha de nance, la pizca de sal, removemos por 2 minutos y retiramos del fuego. /n
-
-7- Servimos caliente la mazamorra y degustamos a nuestro gusto. /n
-        /n
-        /n
-        /n
-        /n
+        En un bol coloque la harina, azúcar, sal, polvo de hornear. Remueve todo y añadir poco a poco agua o leche para ir formando la masa.\n
+Lleve la masa sobre una superficie plana y amásela bien. Dejar tapada que repose unos 30 minutos. \n
+Cortar trocitos de masa y estirarlos de manera que queden bien delgadas. \n
+Freír en aceite bien caliente. ¡Buen porvecho! \n
+        \n
+        \n
+        \n
+        \n
 
     </string>
 
-    <string name="pesadadenance">INGREDIENTES /n
-        1 botella de nance /n
-•	5 cucharadas de azúcar /n
-•	6 onzas de leche evaporada /n
-•	2 tazas de agua /n
-•	1 taza de harina /n
-•	pizca de sal /n
-•	queso fresco rallado a gusto /n
+    <string name="cocada">INGREDIENTES \n
+*3 tazas de coco rallado \n
+*400 gr de raspadura o miel \n
+*½ taza de agua \n
+*1 rollito de canela \n
+*Corteza de naranja \n
 
-        PROCEDIMIENTO /n
+        PROCEDIMIENTO \n
 
-        1: Colocamos los nances en una licuadora con la misma agua que tenía en la botella. Licuamos bien y colamos. /n
-        2: Mientras estamos colando agregamos las 2 tazas de agua para que facilite el proceso de colar./n
-
-3: Agregar la azúcar y la harina previamente disuelta en un poco de agua a nuestra mezcla. /n
-
-4: Seguimos mezclando e incorporamos la leche evaporada. Llevamos a cocinamos por 15 aprox. hasta que comience a espesar. /n
-
-5: Finalmente, ya solo queda servir y esparcir por encima un poco de queso picado que lo disfrutes. /n
-        /n
-        /n
-        /n
-        /n
+        En una cacerola colocar la raspadura con el agua y la canela, y cocinar por 5 minutos. \n
+Añadir el coco recién rallado, la corteza de naranja y cocinar a fuego bajo por unos 30 minutos, sin dejar de remover. \n
+La preparación estará lista cuando el caramelo ya no pegue del fondo de la cacerola y en la mezcla se formen surcos firmes. Retirar la canela y la corteza de naranja. \n
+Con la ayuda de dos cucharas, tomar parte de la preparación y formar pequeñas bolas que debe colocar sobre una bandeja. Dejar enfriar. \n
+Puede llevarlas al refrigerador para que la mezcla compacte más. \n
+Deguste frías o a temperatura ambiente. ¡Buen provecho! \n
 
     </string>
-    <string name="chicheme">INGREDIENTES /n
-   * 2 tazas de maíz pilado /n
-*1 lata de leche evaporada o leche de coco /n
-*1 litro de leche entera /n
-*1 ½ taza de azúcar morena /n
-*2 cucharaditas de vainilla /n
-*2 astillas de canela /n
-*1 ½ litro de agua /n
-*Pizca de sal /n
-*Pizca de nuez moscada /n
-*Hielo /n
+    <string name="mazamorra">INGREDIENTES \n
+        2 tazas de granos de maíz viejo. \n
+•	1 taza de granos de maíz nuevo. \n
+•	6 tazas de agua.\n
+•	2 tazas de azúcar.\n
+•	4 ramas de canela. \n
+•	8 clavos de olor. \n
+•	1 taza de chicha de nance. \n
+•	1 taza de leche evaporada. \n
+•	½ taza de leche de coco. \n
+•	Una pizca de sal. \n
 
-        PROCEDIMIENTO /n
+        PROCEDIMIENTO \n
 
-        Chicheme /n
-*2 tazas de maíz pilado /n
-*1 lata de leche evaporada o leche de coco /n
-*1 litro de leche entera /n
-*1 ½ taza de azúcar morena /n
-*2 cucharaditas de vainilla /n
-*2 astillas de canela /n
-*1 ½ litro de agua /n
-*Pizca de sal /n
-*Pizca de nuez moscada /n
-*Hielo /n
+        1- Lavamos bien el maíz viejo, lo escurrimos y lo llevamos a tostar a una sartén por unos 10 minutos hasta que se ponga un poco oscuro, y lo dejamos reposar hasta que se enfríe. \n
 
-Procedimieto /n
-1.	Poner en remojo el maíz con suficiente agua durante la noche anterior. /n
-2.	Lavar bien el maíz y colocar en una olla con el agua, la sal y la canela. Cocinar por aproximadamente 3 horas hasta que el maíz se ablande muy bien. /n
-3.	Se deja enfriar la preparación, y se vierte en una jarra o un bol. /n
-4.	Se le agrega la vainilla, la leche entera, la leche evaporada o de coco y el azúcar. Se remueve muy bien hasta disolver el azúcar. /n
-5.	Si gusta puede llevar la preparación a una licuadora, cuidando de retirar las astillas de canela y batir hasta que quede cremosa. /n
-6.	Se sirve con hielo. ¡Buen provecho! /n
-        /n
-        /n
-        /n
-        /n
+2- Cuando este frío comenzamos a molerlo y lo reservamos. \n
+
+4- Cuando el azúcar se haya disuelto completamente, vamos incorporando de a poco el maíz viejo molido mientras removemos para evitar que se creen grumos. \n
+
+5- Seguidamente agregamos el maíz nuevo, la leche evaporada y la leche de coco, dejamos cocinar por 15 minutos. \n
+
+6- Cuando veamos que ya está espesando nuestra mazamorra, añadimos la chicha de nance, la pizca de sal, removemos por 2 minutos y retiramos del fuego. \n
+
+7- Servimos caliente la mazamorra y degustamos a nuestro gusto. \n
+        \n
+        \n
+        \n
+        \n
+
+    </string>
+
+    <string name="pesadadenance">INGREDIENTES \n
+        1 botella de nance \n
+•	5 cucharadas de azúcar \n
+•	6 onzas de leche evaporada \n
+•	2 tazas de agua \n
+•	1 taza de harina \n
+•	pizca de sal \n
+•	queso fresco rallado a gusto \n
+
+        PROCEDIMIENTO \n
+
+        1: Colocamos los nances en una licuadora con la misma agua que tenía en la botella. Licuamos bien y colamos. \n
+        2: Mientras estamos colando agregamos las 2 tazas de agua para que facilite el proceso de colar.\n
+
+3: Agregar la azúcar y la harina previamente disuelta en un poco de agua a nuestra mezcla. \n
+
+4: Seguimos mezclando e incorporamos la leche evaporada. Llevamos a cocinamos por 15 aprox. hasta que comience a espesar. \n
+
+5: Finalmente, ya solo queda servir y esparcir por encima un poco de queso picado que lo disfrutes. \n
+        \n
+        \n
+        \n
+        \n
+
+    </string>
+    <string name="chicheme">INGREDIENTES \n
+   * 2 tazas de maíz pilado \n
+*1 lata de leche evaporada o leche de coco \n
+*1 litro de leche entera \n
+*1 ½ taza de azúcar morena \n
+*2 cucharaditas de vainilla \n
+*2 astillas de canela \n
+*1 ½ litro de agua \n
+*Pizca de sal \n
+*Pizca de nuez moscada \n
+*Hielo \n
+
+        PROCEDIMIENTO \n
+
+        Chicheme \n
+*2 tazas de maíz pilado \n
+*1 lata de leche evaporada o leche de coco \n
+*1 litro de leche entera \n
+*1 ½ taza de azúcar morena \n
+*2 cucharaditas de vainilla \n
+*2 astillas de canela \n
+*1 ½ litro de agua \n
+*Pizca de sal \n
+*Pizca de nuez moscada \n
+*Hielo \n
+
+Procedimieto \n
+1.	Poner en remojo el maíz con suficiente agua durante la noche anterior. \n
+2.	Lavar bien el maíz y colocar en una olla con el agua, la sal y la canela. Cocinar por aproximadamente 3 horas hasta que el maíz se ablande muy bien. \n
+3.	Se deja enfriar la preparación, y se vierte en una jarra o un bol. \n
+4.	Se le agrega la vainilla, la leche entera, la leche evaporada o de coco y el azúcar. Se remueve muy bien hasta disolver el azúcar. \n
+5.	Si gusta puede llevar la preparación a una licuadora, cuidando de retirar las astillas de canela y batir hasta que quede cremosa. \n
+6.	Se sirve con hielo. ¡Buen provecho! \n
+       \n
+        \n
+        \n
+        \n
 
 
 
@@ -641,237 +644,238 @@ Procedimieto /n
         \n
     </string>
 
-    <string name="chichademaiz">INGREDIENTES /n
- *   2 kg de maíz /n
-*4 tazas de raspadura /n
-*2 litros de agua /n
+    <string name="chichademaiz">INGREDIENTES \n
+ *   2 kg de maíz \n
+*4 tazas de raspadura \n
+*2 litros de agua \n
 
-        PROCEDIMIENTO /n
+        PROCEDIMIENTO \n
 
-        Limpiar el maíz, cuidando de extraer los granos que no germinarán. /n
-Lavar varias veces el maíz y se cuela. Se almacena en un saco o henequén bien cerrado donde germinará en aproximadamente 3 días. /n
-Una vez que el maíz germina, se lava muy bien para que no tenga mal sabor y se cuela sin sacarle los cogollos ni las raíces. /n
-Se muele el maíz en el molino y la mezcla obtenida se pasa por un colador. /n
-Se coloca el jugo de maíz en una cacerola y se cocinar a fuego moderado, sin dejar de remover para que no se pegue. El proceso de cocción puede durar varias horas hasta que la preparación espese y tome un color acaramelado. /n
-Diluir la raspadura en el agua. Reservar. /n
-Se tomar una porción de la crema espesa y se diluye en el agua previamente endulzada. /n
-Servir inmediatamente como una bebida fría. ¡Buen provecho! /n
-        /n
-        /n
-        /n
-        /n
+        Limpiar el maíz, cuidando de extraer los granos que no germinarán. \n
+Lavar varias veces el maíz y se cuela. Se almacena en un saco o henequén bien cerrado donde germinará en aproximadamente 3 días. \n
+Una vez que el maíz germina, se lava muy bien para que no tenga mal sabor y se cuela sin sacarle los cogollos ni las raíces. \n
+Se muele el maíz en el molino y la mezcla obtenida se pasa por un colador. \n
+Se coloca el jugo de maíz en una cacerola y se cocinar a fuego moderado, sin dejar de remover para que no se pegue. El proceso de cocción puede durar varias horas hasta que la preparación espese y tome un color acaramelado. \n
+Diluir la raspadura en el agua. Reservar. \n
+Se tomar una porción de la crema espesa y se diluye en el agua previamente endulzada. \n
+Servir inmediatamente como una bebida fría. ¡Buen provecho! \n
+        \n
+        \n
+       \n
+        \n
     </string>
-    <string name="chichasaril">INGREDIENTES /n
-    1 lb de Saril (rojo). /n
-1 litro agua. /n
-½ cucharada de jengibre rallado. /n
-½ cucharada de canela. /n
-4 clavitos de olor. /n
-Jugo de 2 limones. /n
-Azúcar al gusto. /n
+    <string name="chichasaril">INGREDIENTES \n
+    1 lb de Saril (rojo). \n
+1 litro agua. \n
+½ cucharada de jengibre rallado. \n
+½ cucharada de canela. \n
+4 clavitos de olor. \n
+Jugo de 2 limones. \n
+Azúcar al gusto. \n
 
-        PROCEDIMIENTO /n
+        PROCEDIMIENTO \n
 
-        1- Comenzamos retirando la semilla espinosa del fruto dejando solo los pétalos, luego los lavamos y los reservamos en un recipiente preferiblemente de vidrio. /n
+        1- Comenzamos retirando la semilla espinosa del fruto dejando solo los pétalos, luego los lavamos y los reservamos en un recipiente preferiblemente de vidrio. \n
 
-2- Colocamos el agua en una olla y le agregamos el jengibre, los clavitos, la canela, el jugo de limón y dejamos hervir por 15 minutos. /n
+2- Colocamos el agua en una olla y le agregamos el jengibre, los clavitos, la canela, el jugo de limón y dejamos hervir por 15 minutos. \n
 
-3- Pasado el tiempo agregamos el agua hervida al recipiente donde tenemos los pétalos de Saril y dejamos reposar hasta que toda el agua se tiña de rojo. /n
+3- Pasado el tiempo agregamos el agua hervida al recipiente donde tenemos los pétalos de Saril y dejamos reposar hasta que toda el agua se tiña de rojo. \n
 
-4- Posteriormente vaciamos el agua en una jarra mientras la colamos, le agregamos el azúcar que queramos y dejamos enfriar para tomar esta rica chicha de Saril al gusto. /n
-        /n
-        /n
-        /n
-        /n
-    </string>
-
-    <string name="resvaladera">INGREDIENTES /n
-    500 gr de arroz /n
-½ taza de cebada /n
-2 tazas de agua /n
-2 astillas de canela /n
-4 clavos de olor /n
-2 tazas de leche /n
-1 taza de crema de leche /n
-½ cucharadita de nuez moscada /n
-1 cucharadita de vainilla /n
-Azúcar al gusto /n
-Hielo /n
-
-        PROCEDIMIENTO /n
-
-        Lavar muy bien el arroz y la cebada y dejar remojando durante la noche. /n
-Cocinar el arroz con la cebada hasta que ablanden. Dejar enfríar. /n
-Una vez cocidos, colocar en la licuadora y procesar hasta que quede cremosa. /n
-Llevar al fuego una cacerola con 1 taza de agua, la canela, y los clavos de olor por aproximadamente 5 minutos. /n
-Cuando ha hervido, incorporar la mezcla de arroz y cebada, dejándola cocinar por unos minutos sin dejar de remover. /n
-Agregar la leche, la crema de leche, la vainilla, nuez moscada y endulzar con azúcar al gusto. /n
-Dejar enfriar y servir bien helada. ¡Buen provecho! /n
-        /n
-        /n
-        /n
-        /n
-    </string>
-    <string name="guarapo">INGREDIENTES /n
-    2 tallos de caña de azúcar /n
-2 limones /n
-Hielo /n
-
-        PROCEDIMIENTO /n
-
-        Lavar muy bien los tallos de caña de azúcar y procesarlos en un trapiche. /n
-Al jugo que se extrae en el trapiche se le agrega el jugo de 2 limones./n
-Mezclar bien y servir bien frío. ¡Buen provecho! /n
-        /n
-        /n
-        /n
-        /n
+4- Posteriormente vaciamos el agua en una jarra mientras la colamos, le agregamos el azúcar que queramos y dejamos enfriar para tomar esta rica chicha de Saril al gusto. \n
+        \n
+       \n
+        \n
+        \n
     </string>
 
-    <string name="sancocho">INGREDIENTES /n
-    1 gallina de patio troceada /n
-1 cebolla grande /n
-5 ajíes /n
-4 o 5 dientes de ajo /n
-4 hojas de culantro /n
-1 rama de cilantro /n
-1 cucharada de orégano /n
-1 lb de ñame /n
-2 cucharadas de aceite /n
-2 litros de agua /n
-Sal /n
+    <string name="resvaladera">INGREDIENTES \n
+    500 gr de arroz \n
+½ taza de cebada \n
+2 tazas de agua \n
+2 astillas de canela \n
+4 clavos de olor \n
+2 tazas de leche \n
+1 taza de crema de leche \n
+½ cucharadita de nuez moscada \n
+1 cucharadita de vainilla \n
+Azúcar al gusto \n
+Hielo \n
 
-        PROCEDIMIENTO /n
+        PROCEDIMIENTO \n
 
-        1.	Pelar, cortar y lavar el ñame. Reservar. /n
-2.	Colocar al fuego una cacerola con el aceite, la gallina, la cebolla, los ajíes, los ajos y el culantro picados. Sofreír por 2 minutos, luego añadir 4 tazas de agua y un poco de sal. Tapar y dejar cocinar por 40 minutos. /n
-3.	Incorporar el ñame y el resto del agua, cubriendo toda la preparación. Dejar cocinar hasta que el pollo y el ñame ablanden. /n
-4.	Rectificar la sal y agregar la rama de cilantro y más culantro si lo desea. Esperar que hierva unos 5 minutos más y retire del fuego. /n
-5.	Sirva bien caliente./n
-        /n
-        /n
-        /n
-        /n
+        Lavar muy bien el arroz y la cebada y dejar remojando durante la noche. \n
+Cocinar el arroz con la cebada hasta que ablanden. Dejar enfríar. \n
+Una vez cocidos, colocar en la licuadora y procesar hasta que quede cremosa. \n
+Llevar al fuego una cacerola con 1 taza de agua, la canela, y los clavos de olor por aproximadamente 5 minutos. \n
+Cuando ha hervido, incorporar la mezcla de arroz y cebada, dejándola cocinar por unos minutos sin dejar de remover. \n
+Agregar la leche, la crema de leche, la vainilla, nuez moscada y endulzar con azúcar al gusto. \n
+Dejar enfriar y servir bien helada. ¡Buen provecho! \n
+        \n
+        \n
+        \n
+        \n
     </string>
-    <string name="ceviche">INGREDIENTES /n
-        ½ kilogramo de Camarones /n
-•	 ½ kilogramo de Pescado blanco /n
-•	 ½ kilogramo de Almejas frescas en su jugo /n
-•	 2 Cebollas /n
-•	 1 hoja de Culantro /n
-•	 1 Ají chombo o habanero al gusto /n
-•	 1 cucharadita de Mostaza /n
-•	 7 Limones (jugo) /n
-•	 1 chorro de Vinagre /n
-•	 1 cucharadita de Paprika /n
-•	 1 pizca de Sal /n
+    <string name="guarapo">INGREDIENTES \n
+    2 tallos de caña de azúcar \n
+2 limones \n
+Hielo \n
 
-        PROCEDIMIENTO /n
+        PROCEDIMIENTO \n
 
-        1.	Con los pescados y mariscos bien lavados, los llevamos a una fuente donde aliñaremos con limón y vinagre. /n
-2.	Se añaden luego el culantro, la cebolla y la mostaza. /n
-3.	Incorporamos mientras removemos el resto de las especias y salpimentamos a gusto. /n
-4.	Esperamos hasta que los pescados y mariscos estén bien cocinados con el cítrico del limón y vinagre aprox. de media a 1 hora. /n
-5.	Puedes poner un poco de ají pero es opcional. /n
-        /n
-        /n
-        /n
-        /n
-
-
-    </string>
-    <string name="guachoderabitos">INGREDIENTES /n
-    Chicharrón picadito /n
-2 tazas de frijol /n
-½ kg de rabito de puerco cortado /n
-2 cebollas /n
-3 dientes de ajo picaditos /n
-1 ají /n
-1 pimentón rojo /n
-4 hojas de culantro /n
-1 poquito de cilantro picadito /n
-1 cubito de caldo de pollo /n
-1 taza de yuca cocida picadita /n
-1 taza de arroz /n
-Salsa de soja /n
-Salsa inglesa /n
-3 tomates picados /n
-Salsa de tomate /n
-Salsa china /n
-Apio /n
-Sal /n
-Orégano /n
-
-        PROCEDIMIENTO /n
-
-        El rabito cortado se pone en agua para secar la sal a esos rabitos. Se le cambian aguas y se ponen a cocinar en una olla aparte y se le siguen cambiando varias aguas para quitar la sal. Al estar suaves se retiran de la olla y se reservan./n
-Se colocan los frijoles en una olla con suficiente agua al fuego hasta que suavicen. Añadir los rabitos a la olla, con 1 cebolla picada, cilantro, ajo, caldo de pollo, salsa china, e inglesa. Revolver y seguir cocinando por 30 minutos./n
-Se agrega el arroz  y se revuelve para qué el arroz agarre todos éstos sabores./n
-Se agrega la yuca cocida, el orégano, salsa de soya, otro poco de cilantro y se deja a fuego lento./n
-Para hacer la salsa criolla se hace un sofrito: En un sartén se coloca aceite, la cebolla picadita, tomate, culantro, orégano y salsa de tomate. Dejamos cocinar a fuego lento por 10 minutos./n
-Cuando los frijoles, arroz y rabitos estén bien cocidos pero con líquido no seco. Listo./n
-Servir  el guache con el criollito por encima o refrito y un toque de chicharrón picadito./n
-        /n
-        /n
-        /n
-        /n
-    </string>
-    <string name="guachodemariscos">INGREDIENTES /n
-    1 lb de mariscos mixtos./n
-½ lb de camarones precocidos./n
-2 cucharadas de aceite./n
-2 dientes de ajo picados finamente./n
-1 cucharada de paprika./n
-¼ taza de tomates picados en cubos./n
-¼ de pimentón picado en cubos./n
-¼ taza de culantro picado./n
-¼ de cebolla./n
-1 cucharada de sal./n
-1 cucharada de pimienta negra molida./n
-1 taza de arroz./n
-4 tazas de agua./n
-1 cucharada de sazonador de mariscos./n
-1 cucharada de salsa inglesa./n
-
-        PROCEDIMIENTO /n
-
-        1- En una sartén grande, calentamos el aceite y sofreímos por 3 minutos los mariscos y los camarones junto con los ajos. /n
-
-2- Agregamos la paprika, removemos y seguidamente añadimos los tomates, el pimentón, el culantro, la cebolla, sal, pimienta, mezclamos muy bien y dejamos cocinando 10 minutos a fuego medio. /n
-
-3- Pasado el tiempo, incorporamos el arroz, dejamos sofreír por 2 minutos,  agregamos las 4 tazas de agua, el sazonador y dejamos cocinar por 5 minutos. /n
-
-4- Añadimos la salsa de soya, removemos, tapamos la sartén y dejamos cocinar a fuego bajo hasta que el arroz este totalmente cocido. /n
-
-5- Solo nos queda retirar del fuego y servir parar disfrutar de este rico guacho de mariscos. /n
-        /n
-        /n
-        /n
-    </string>
-    <string name="ropavieja">INGREDIENTES /n
-    1 kg de falda de res /n
-2 cebollas medianas /n
-Pasta de tomate al gusto /n
-Aceite /n
-2 ajíes pimiento /n
-2 tomates /n
-4 hojas de culantro /n
-4 dientes de ajo /n
- Sal /n
-
-        PROCEDIMIENTO /n
-
-        Limpiar y lavar la carne, y llevar al fuego en una olla con suficiente agua hasta que ablande. Retire la carne y espere que enfríe para deshilacharla. Reserve el caldo./n
-Cortar en julianas las cebollas y los ajíes, y los tomates en cubos./n
-En una sartén calentar el aceite y saltear los vegetales junto con el ajo picado. Añada un poco de pasta de tomate para la salsa. Luego incorpore la carne, el caldo y condimente con orégano, culantro y sal. Cocinar por 30 minutos a fuego bajo hasta que la salsa empiece a mermar./n
-Sirva con patacones o papas. ¡Buen provecho! /n
-        /n
-        /n
-        /n
-        /n
+        Lavar muy bien los tallos de caña de azúcar y procesarlos en un trapiche.\n
+Al jugo que se extrae en el trapiche se le agrega el jugo de 2 limones.\n
+Mezclar bien y servir bien frío. ¡Buen provecho! \n
+        \n
+        \n
+        \n
+        \n
     </string>
 
-    <string name="vigoron">
+    <string name="sancocho">INGREDIENTES \n
+    1 gallina de patio troceada \n
+1 cebolla grande \n
+5 ajíes \n
+4 o 5 dientes de ajo \n
+4 hojas de culantro \n
+1 rama de cilantro \n
+1 cucharada de orégano \n
+1 lb de ñame \n
+2 cucharadas de aceite \n
+2 litros de agua \n
+Sal \n
+
+        PROCEDIMIENTO \n
+
+        1.	Pelar, cortar y lavar el ñame. Reservar. \n
+2.	Colocar al fuego una cacerola con el aceite, la gallina, la cebolla, los ajíes, los ajos y el culantro picados. Sofreír por 2 minutos, luego añadir 4 tazas de agua y un poco de sal. Tapar y dejar cocinar por 40 minutos. \n
+3.	Incorporar el ñame y el resto del agua, cubriendo toda la preparación. Dejar cocinar hasta que el pollo y el ñame ablanden. \n
+4.	Rectificar la sal y agregar la rama de cilantro y más culantro si lo desea. Esperar que hierva unos 5 minutos más y retire del fuego. \n
+5.	Sirva bien caliente.\n
+        \n
+        \n
+        \n
+        \n
+    </string>
+    <string name="ceviche">INGREDIENTES \n
+        ½ kilogramo de Camarones \n
+•	 ½ kilogramo de Pescado blanco \n
+•	 ½ kilogramo de Almejas frescas en su jugo \n
+•	 2 Cebollas \n
+•	 1 hoja de Culantro \n
+•	 1 Ají chombo o habanero al gusto \n
+•	 1 cucharadita de Mostaza \n
+•	 7 Limones (jugo) \n
+•	 1 chorro de Vinagre \n
+•	 1 cucharadita de Paprika \n
+•	 1 pizca de Sal \n
+
+        PROCEDIMIENTO \n
+
+        1.	Con los pescados y mariscos bien lavados, los llevamos a una fuente donde aliñaremos con limón y vinagre. \n
+2.	Se añaden luego el culantro, la cebolla y la mostaza. \n
+3.	Incorporamos mientras removemos el resto de las especias y salpimentamos a gusto. \n
+4.	Esperamos hasta que los pescados y mariscos estén bien cocinados con el cítrico del limón y vinagre aprox. de media a 1 hora. \n
+5.	Puedes poner un poco de ají pero es opcional. \n
+        \n
+        \n
+        \n
+        \n
+
+
+    </string>
+    <string name="guachoderabitos">INGREDIENTES \n
+    Chicharrón picadito \n
+2 tazas de frijol \n
+½ kg de rabito de puerco cortado \n
+2 cebollas \n
+3 dientes de ajo picaditos \n
+1 ají \n
+1 pimentón rojo \n
+4 hojas de culantro \n
+1 poquito de cilantro picadito \n
+1 cubito de caldo de pollo \n
+1 taza de yuca cocida picadita \n
+1 taza de arroz \n
+Salsa de soja \n
+Salsa inglesa \n
+3 tomates picados \n
+Salsa de tomate \n
+Salsa china \n
+Apio \n
+Sal \n
+Orégano \n
+
+        PROCEDIMIENTO \n
+
+        El rabito cortado se pone en agua para secar la sal a esos rabitos. Se le cambian aguas y se ponen a cocinar en una olla aparte y se le siguen cambiando varias aguas para quitar la sal. Al estar suaves se retiran de la olla y se reservan.\n
+Se colocan los frijoles en una olla con suficiente agua al fuego hasta que suavicen. Añadir los rabitos a la olla, con 1 cebolla picada, cilantro, ajo, caldo de pollo, salsa china, e inglesa. Revolver y seguir cocinando por 30 minutos.\n
+Se agrega el arroz  y se revuelve para qué el arroz agarre todos éstos sabores.\n
+Se agrega la yuca cocida, el orégano, salsa de soya, otro poco de cilantro y se deja a fuego lento.\n
+Para hacer la salsa criolla se hace un sofrito: En un sartén se coloca aceite, la cebolla picadita, tomate, culantro, orégano y salsa de tomate. Dejamos cocinar a fuego lento por 10 minutos.\n
+Cuando los frijoles, arroz y rabitos estén bien cocidos pero con líquido no seco. Listo.\n
+Servir  el guache con el criollito por encima o refrito y un toque de chicharrón picadito.\n
+       \n
+        \n
+        \n
+        \n
+    </string>
+    <string name="guachodemariscos">INGREDIENTES \n
+    1 lb de mariscos mixtos.\n
+½ lb de camarones precocidos.\n
+2 cucharadas de aceite.\n
+2 dientes de ajo picados finamente.\n
+1 cucharada de paprika.\n
+¼ taza de tomates picados en cubos.\n
+¼ de pimentón picado en cubos.\n
+¼ taza de culantro picado.\n
+¼ de cebolla.\n
+1 cucharada de sal.\n
+1 cucharada de pimienta negra molida.\n
+1 taza de arroz.\n
+4 tazas de agua.\n
+1 cucharada de sazonador de mariscos.\n
+1 cucharada de salsa inglesa.\n
+
+        PROCEDIMIENTO \n
+
+        1- En una sartén grande, calentamos el aceite y sofreímos por 3 minutos los mariscos y los camarones junto con los ajos. \n
+
+2- Agregamos la paprika, removemos y seguidamente añadimos los tomates, el pimentón, el culantro, la cebolla, sal, pimienta, mezclamos muy bien y dejamos cocinando 10 minutos a fuego medio. \n
+
+3- Pasado el tiempo, incorporamos el arroz, dejamos sofreír por 2 minutos,  agregamos las 4 tazas de agua, el sazonador y dejamos cocinar por 5 minutos. \n
+
+4- Añadimos la salsa de soya, removemos, tapamos la sartén y dejamos cocinar a fuego bajo hasta que el arroz este totalmente cocido. \n
+
+5- Solo nos queda retirar del fuego y servir parar disfrutar de este rico guacho de mariscos. \n
+       \n
+        \n
+        \n
+        \n
+    </string>
+    <string name="ropavieja">INGREDIENTES \n
+    1 kg de falda de res \n
+2 cebollas medianas \n
+Pasta de tomate al gusto \n
+Aceite \n
+2 ajíes pimiento \n
+2 tomates \n
+4 hojas de culantro \n
+4 dientes de ajo \n
+ Sal \n
+
+        PROCEDIMIENTO \n
+
+        Limpiar y lavar la carne, y llevar al fuego en una olla con suficiente agua hasta que ablande. Retire la carne y espere que enfríe para deshilacharla. Reserve el caldo.\n
+Cortar en julianas las cebollas y los ajíes, y los tomates en cubos.\n
+En una sartén calentar el aceite y saltear los vegetales junto con el ajo picado. Añada un poco de pasta de tomate para la salsa. Luego incorpore la carne, el caldo y condimente con orégano, culantro y sal. Cocinar por 30 minutos a fuego bajo hasta que la salsa empiece a mermar.\n
+Sirva con patacones o papas. ¡Buen provecho! \n
+        \n
+        \n
+        \n
+        \n
+    </string>
+
+    <string name="vigoron"> INGREDIENTES \n
 
 * 1 ½ kg de chicharrón \n
  * 2 dientes ajo \n
@@ -1336,27 +1340,27 @@ Se aplastan un poco con la palma de la mano, se espolvorean con azúcar y se met
     2.	Se fríe la cebolla y se le agregan los jocotes, el dulce y el azúcar, añádele el arroz y se hierve hasta que se vea una consistencia de cajeta suave. \n
     3.	Se sirve frio en platillos pequeños como merienda. \n
     </string>
-    <string name="chucos">INGREDIENTES /n
-    10 panes para hot dog /n
-½ repollo /n
-10 salchichas /n
-4 aguacates /n
-½ limón /n
-Salsa de tomate, mayonesa y mostaza al gusto /n
-Sal y Pimienta al gusto /n
+    <string name="chucos">INGREDIENTES \n
+    10 panes para hot dog \n
+½ repollo \n
+10 salchichas \n
+4 aguacates \n
+½ limón \n
+Salsa de tomate, mayonesa y mostaza al gusto \n
+Sal y Pimienta al gusto \n
 
-        PROCEDIMIENTO /n
+        PROCEDIMIENTO \n
 
-        Primero ponemos dos tazas de agua en una olla y cocinamos al vapor el repollo previamente cortado por aproximadamente 10 a 15 minutos. /n
-Luego podemos añadir las salchichas y cocinarlas hasta que estén listas aproximadamente 3 a 4 minutos. /n
-Enseguida tocará hacer el guacamole, el cual será hecho deshaciendo con un tenedor. /n
-Se le añadirá el jugo de limón un poco de sal y pimienta a tu gusto personal, revuelve para que el sabor se unifique y el guacamole quede delicioso. /n
-Por otro lado Llegará el turno de tostar el pan en la parrilla y una vez esté listo podrás adicionar el guacamole. También podrás añadir la salchicha con la mayonesa, mostaza, salsa de tomate y el repollo. /n
-Listo, eso es todo lo que tienes que hacer para finalizar esta receta Recuerda que puedes también adicionar todo tipo de carnes como longaniza chorizo y muchas más Recuerda que un buen chico está hecho con mucho cariño y sobre todo con tus ingredientes favoritos, que lo disfrutes. /n
-        /n
-        /n
-        /n
-        /n
+        Primero ponemos dos tazas de agua en una olla y cocinamos al vapor el repollo previamente cortado por aproximadamente 10 a 15 minutos. \n
+Luego podemos añadir las salchichas y cocinarlas hasta que estén listas aproximadamente 3 a 4 minutos. \n
+Enseguida tocará hacer el guacamole, el cual será hecho deshaciendo con un tenedor. \n
+Se le añadirá el jugo de limón un poco de sal y pimienta a tu gusto personal, revuelve para que el sabor se unifique y el guacamole quede delicioso. \n
+Por otro lado Llegará el turno de tostar el pan en la parrilla y una vez esté listo podrás adicionar el guacamole. También podrás añadir la salchicha con la mayonesa, mostaza, salsa de tomate y el repollo. \n
+Listo, eso es todo lo que tienes que hacer para finalizar esta receta Recuerda que puedes también adicionar todo tipo de carnes como longaniza chorizo y muchas más Recuerda que un buen chico está hecho con mucho cariño y sobre todo con tus ingredientes favoritos, que lo disfrutes. \n
+        \n
+        \n
+        \n
+        \n
     </string>
     
     <string name="aguadesapo">

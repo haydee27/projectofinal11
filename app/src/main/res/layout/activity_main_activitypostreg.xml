@@ -57,12 +57,12 @@
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btngo2"
+            android:id="@+id/btnguate2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:onClick="postreg2"
-            android:text="Horchata"
+            android:onClick="postreguate2"
+            android:text="Tamalitos de cambray"
             android:layout_marginLeft="110dp"
             android:textColor="@color/black"
             android:textSize="10dp" />

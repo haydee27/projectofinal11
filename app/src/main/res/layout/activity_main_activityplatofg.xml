@@ -72,6 +72,7 @@
         android:layout_width="match_parent"
         android:layout_height="55dp"
         />
+
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -101,13 +102,15 @@
         android:gravity="center"
         android:orientation="horizontal">
 
+
+
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btngp3"
+            android:id="@+id/btnplatoguate3"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
             android:text="Shucos"
-            android:onClick="platog3"
+            android:onClick="MainActivityplatoguate3"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp"
             android:textColor="@color/black"

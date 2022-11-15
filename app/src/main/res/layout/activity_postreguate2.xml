@@ -5,11 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/fondopanama"
     android:layout_margin="0dp"
     android:gravity="center"
-    tools:context=".ui.guatemala.postresg2"
-    tools:ignore="MissingClass">
+    android:background="@drawable/fondooooo"
+    tools:context=".ui.guatemala.postreguate2">
 
     <Space
         android:layout_width="match_parent"
@@ -71,7 +70,5 @@
         </ScrollView>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
-
-
 
 </androidx.appcompat.widget.LinearLayoutCompat>
