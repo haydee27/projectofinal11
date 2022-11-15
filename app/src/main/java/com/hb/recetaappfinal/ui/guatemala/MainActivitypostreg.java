@@ -12,16 +12,15 @@ import com.hb.recetaappfinal.R;
 
 public class MainActivitypostreg extends AppCompatActivity {
 
-    Button btngo1, btngo2, btngo3, btngo4, btngo5;
+    Button btngo1, btnguate2, btngo3, btngo4, btngo5;
 
-    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_activitypostreg);
 
         btngo1 = findViewById(R.id.btngo1);
-        btngo2 = findViewById(R.id.btngo2);
+        btnguate2 = findViewById(R.id.btnguate2);
         btngo3 = findViewById(R.id.btngo3);
         btngo4 = findViewById(R.id.btngo4);
         btngo5 = findViewById(R.id.btngo5);
@@ -32,8 +31,8 @@ public class MainActivitypostreg extends AppCompatActivity {
         startActivity(btngo1);
     }
 
-    public void postresg2(View view) {
-        Intent btngo2= new Intent(this, postresg2.class);
+  public void postreguate2 (View view){
+        Intent btngo2 = new Intent(this, postreguate2.class);
         startActivity(btngo2);
     }
 

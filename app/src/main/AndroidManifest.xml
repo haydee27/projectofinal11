@@ -13,6 +13,13 @@
         android:theme="@style/Theme.Recetaappfinal"
         tools:targetApi="31">
         <activity
+            android:name=".ui.guatemala.postreguate2"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".ui.categorias.MainActivitymcategorias3"
             android:exported="false">
             <meta-data
@@ -308,13 +315,6 @@
         </activity>
         <activity
             android:name=".ui.guatemala.postreg3"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name=".ui.guatemala.postreg2"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
