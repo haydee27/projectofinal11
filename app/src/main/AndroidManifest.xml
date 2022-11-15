@@ -12,10 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Recetaappfinal"
         tools:targetApi="31">
-        <activity
-            android:name=".MainActivitysubcategoria22"
-            android:exported="false"/>
-            <meta-data
+        <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
 
