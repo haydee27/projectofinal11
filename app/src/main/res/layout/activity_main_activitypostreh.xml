@@ -12,7 +12,7 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="55dp"
+        android:layout_height="25dp"
         />
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
@@ -43,22 +43,33 @@
         android:gravity="center"
         android:orientation="horizontal">
 
-        <Button
-            android:id="@+id/btnho1"
-            android:layout_width="wrap_content"
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnhho1"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
             android:text="PASTEL DE GALLINA"
             android:onClick="postreh1"
-            android:layout_marginRight="60dp"
-            android:layout_marginLeft="0dp"/>
+            android:layout_marginRight="50dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
 
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnho2"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
+            android:text="ALCITRONES"
             android:onClick="postreh2"
-            android:text="ALCITRONES" />
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="50dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
+
+
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -93,22 +104,34 @@
         android:gravity="center"
         android:orientation="horizontal">
 
-        <Button
-            android:id="@+id/btnho3"
-            android:layout_width="wrap_content"
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnhh3"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:text="CIRUELS EN MIEL"
+            android:background="@drawable/button_color"
+            android:text="CIRUELAS EN MIEL"
             android:onClick="postreh3"
-            android:layout_marginRight="60dp"
-            android:layout_marginLeft="0dp"/>
+            android:layout_marginRight="50dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
 
 
-        <Button
-            android:id="@+id/btnho4"
-            android:layout_width="wrap_content"
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnhh4"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
+            android:text="MACHETEADAS"
             android:onClick="postreh4"
-            android:text="MACHETEADAS" />
+            android:layout_marginRight="50dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
+
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -133,12 +156,19 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="horizontal">
-        <Button
-            android:id="@+id/btnho5"
-            android:layout_width="wrap_content"
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnhho5"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
+            android:text="MAZAPAN RELLENO"
             android:onClick="postreh5"
-            android:text="MAZAPAN RELLENO" />
+            android:layout_marginRight="50dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
+
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 </androidx.appcompat.widget.LinearLayoutCompat>
