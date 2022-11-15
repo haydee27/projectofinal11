@@ -221,7 +221,7 @@ En las tiendas donde venden productos de Latinoamérica encontraran la Semilla d
 
 
     </string>
-    
+
     <string name="receta_bebida4I">bebida4i</string>
     INGREDIENTES /n
 
@@ -1185,15 +1185,15 @@ Doblar en cuatro y amarrar con el mecate
 
     </string>
 
-    <string name="boj">
- \n   * 1 libra de maíz. \n
-\n * 2 a 3 cañas de azúcar. \n
-\n * 1 1/2 cucharada de cal. \n
-      \n  PROCEDIMIENTO \n
-       \n Muela el maíz en una piedra y luego, séquelo sobre una sartén en el fuego. \n
-\n Muela la caña de azúcar en un trapiche, para extraer el juego. \n
-\n Agregueal maíz seco, el jugo de la caña de azúcar y un poco de cal (1 1/2 cucharada aproximadamente). \n
-\n Mezcle los ingredientes y deje fermentar pr ocho días aproximadamente. \n
+    <string name="boj">INGREDIENTES \n
+  * 1 libra de maíz. \n
+ * 2 a 3 cañas de azúcar. \n
+ * 1 1/2 cucharada de cal. \n
+       PROCEDIMIENTO \n
+        Muela el maíz en una piedra y luego, séquelo sobre una sartén en el fuego. \n
+ Muela la caña de azúcar en un trapiche, para extraer el juego. \n
+ Agregueal maíz seco, el jugo de la caña de azúcar y un poco de cal (1 1/2 cucharada aproximadamente). \n
+ Mezcle los ingredientes y deje fermentar pr ocho días aproximadamente. \n
     </string>
     <string name="chancleta">INGREDIENTES
 

@@ -6,11 +6,11 @@ import android.os.Bundle;
 
 import com.hb.recetaappfinal.R;
 
-public class platop2 extends AppCompatActivity {
+public class platopana2 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_platop6);
+        setContentView(R.layout.activity_platopana2);
     }
 }

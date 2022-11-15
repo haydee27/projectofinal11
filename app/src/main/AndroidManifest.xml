@@ -300,7 +300,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".ui.panama.platop2"
+            android:name=".ui.panama.platopana2"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
