@@ -1966,7 +1966,7 @@ Preparación: \n
         \n
         \n
     </string>
-    
+
     <string name="ponchedeleche">
         Ingredientes: \n
 *½ litro de leche \n
@@ -2015,7 +2015,7 @@ Preparación: \n
         \n
         \n
     </string>
-    
+
     <string name="jugodecañadeazucar">
         Ingredientes: \n
 *4 ramas o tallos de caña \n
@@ -2125,7 +2125,7 @@ Emplate las carnes arregladas sobre lechuga con los vegetales salteados, los cho
 
     </string>
 
-<string name="pepian">INGREDIENTES \n
+    <string name="pepian">INGREDIENTES \n
     1 pollo grande partido en trozos individuales \n
 1 lb de espinazo de cerdo \n
 4 papas conservadas en agua con sal \n
@@ -2151,10 +2151,6 @@ A continuación en una olla más grande, se coloca la carne, la salsa previament
 Al final se sazona de sal al gusto. Acompañar con arroz \n
 
 </string>
-
-
-
-
 
 
 </resources>
