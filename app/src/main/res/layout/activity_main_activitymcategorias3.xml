@@ -285,14 +285,14 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/button"
+            android:id="@+id/bmc"
             android:layout_width="180dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#AC88CA"
-            android:onClick="btnmas"
+            android:onClick="subcategoria3"
             android:background="#020202"
             android:textColor="@color/black"
-            android:text="Más postres" />
+            android:text="Más platilos" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 

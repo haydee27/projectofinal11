@@ -185,7 +185,7 @@
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
             android:text="chancleta"
-            android:onClick="bebidan1"
+            android:onClick="postreg1"
             android:textColor="@color/black"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp"/>
