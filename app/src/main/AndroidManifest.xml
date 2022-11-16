@@ -14,6 +14,7 @@
         tools:targetApi="31">
         <activity
             android:name=".ui.categorias.subcategoria31"
+            android:parentActivityName=".ui.categorias.subcategoria3"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -21,6 +22,7 @@
         </activity>
         <activity
             android:name=".ui.categorias.subcategoria3"
+            android:parentActivityName=".ui.categorias.subcategoria3"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -28,6 +30,7 @@
         </activity>
         <activity
             android:name=".ui.categorias.subcategoriasp2"
+            android:parentActivityName=".ui.categorias.subcategorias"
             android:exported="false"
             android:label="MY RECIPES">
             <meta-data
@@ -36,6 +39,7 @@
         </activity>
         <activity
             android:name=".ui.categorias.subcategorias"
+            android:parentActivityName=".ui.categorias.subcategorias"
             android:exported="false"
             android:label="MY RECIPES">
             <meta-data
@@ -49,6 +53,7 @@
 
         <activity
             android:name=".ui.categorias.subcategoria2"
+            android:parentActivityName=".ui.categorias.subcategoria2"
             android:exported="false"
             android:label="MY RECIPES" />
 
@@ -59,6 +64,7 @@
         <activity
             android:name=".ui.categorias.subactegoria21"
             android:exported="false"
+            android:parentActivityName=".ui.categorias.subcategoria2"
             android:label="MY RECIPES">
             <meta-data
                 android:name="android.app.lib_name"
@@ -84,6 +90,7 @@
         </activity>
         <activity
             android:name=".ui.categorias.MainActivitymcategorias3"
+            android:parentActivityName=".ui.categorias.subcategoria3"
             android:exported="false"
             android:label="MY RECIPES">
             <meta-data
@@ -92,6 +99,7 @@
         </activity>
         <activity
             android:name=".ui.categorias.MainActivitymcategorias2"
+            android:parentActivityName=".ui.categorias.MainActivitymcategorias2"
             android:exported="false"
             android:label="MY RECIPES">
             <meta-data
@@ -101,6 +109,7 @@
         <activity
             android:name=".ui.categorias.MainActivitymcategorias"
             android:exported="false"
+            android:parentActivityName=".ui.categorias.MainActivitymcategorias"
             android:label="MY RECIPES">
             <meta-data
                 android:name="android.app.lib_name"
