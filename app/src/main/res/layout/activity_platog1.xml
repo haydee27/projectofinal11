@@ -72,7 +72,7 @@
         android:textAlignment="center"
         android:textColor="@color/black"
         android:layout_marginLeft="10dp"
-        android:text="@string/vigoron" />
+        android:text="@string/kakik" />
 
     </ScrollView>
 

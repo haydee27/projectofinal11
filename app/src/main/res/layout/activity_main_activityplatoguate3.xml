@@ -40,7 +40,7 @@
         android:id="@+id/imageView7"
         android:layout_width="160dp"
         android:layout_height="160dp"
-        android:src="@drawable/nvigoron" />
+        android:src="@drawable/shucosguate" />
 
 </androidx.appcompat.widget.LinearLayoutCompat>
 <Space
