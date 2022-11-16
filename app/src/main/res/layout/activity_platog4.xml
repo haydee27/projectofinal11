@@ -73,7 +73,7 @@
         android:textAlignment="center"
         android:layout_marginLeft="10dp"
         android:textColor="@color/black"
-        android:text="@string/vigoron" />
+        android:text="@string/pepian" />
 
     </ScrollView>
   </androidx.appcompat.widget.LinearLayoutCompat>
