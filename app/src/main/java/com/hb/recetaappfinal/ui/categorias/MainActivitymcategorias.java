@@ -91,4 +91,4 @@ public class MainActivitymcategorias extends AppCompatActivity {
         Intent btn = new Intent(this, subcategorias.class);
         startActivity(btn);
     }
-};
+}

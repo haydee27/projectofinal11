@@ -12,7 +12,7 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="55dp"
+        android:layout_height="35dp"
         />
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
@@ -24,7 +24,7 @@
             android:id="@+id/imageView5"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/cebada"
+            android:src="@drawable/ponchedeleche"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"/>
 
@@ -32,7 +32,7 @@
             android:id="@+id/imageView1"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/horchata"
+            android:src="@drawable/pinol"
             android:layout_marginRight="60dp"/>
     </androidx.appcompat.widget.LinearLayoutCompat>
 
@@ -48,7 +48,7 @@
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:text="refresco de cebada"
+            android:text="PONCHE DE LECHE"
             android:onClick="bebidah1"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp"
@@ -62,7 +62,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
             android:onClick="bebidah2"
-            android:text="Horchata"
+            android:text="PINOL"
             android:layout_marginLeft="110dp"
             android:textColor="@color/black"
             android:textSize="10dp" />
@@ -70,7 +70,7 @@
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
         android:layout_width="match_parent"
-        android:layout_height="55dp"
+        android:layout_height="25dp"
         />
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
@@ -82,7 +82,7 @@
             android:id="@+id/imageView53"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/chocolate"
+            android:src="@drawable/cafedepalo"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="60dp"/>
 
@@ -90,7 +90,7 @@
             android:id="@+id/imageView12"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/tamarindo"
+            android:src="@drawable/jugodecanadeazucar"
             android:layout_marginRight="60dp"/>
     </androidx.appcompat.widget.LinearLayoutCompat>
 
@@ -106,7 +106,7 @@
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:text="Chocolate caliente"
+            android:text="CAFÉ DE MAÍZ"
             android:onClick="bebidah3"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp"
@@ -120,7 +120,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
             android:onClick="bebidah4"
-            android:text="refresco de tamarindo"
+            android:text="JUGO DE CAÑA DE AZUCAR"
             android:layout_marginLeft="110dp"
             android:textColor="@color/black"
             android:textSize="10dp" />
@@ -128,7 +128,7 @@
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
         android:layout_width="match_parent"
-        android:layout_height="55dp"
+        android:layout_height="25dp"
         />
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
@@ -140,7 +140,7 @@
             android:id="@+id/imageView13"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:src="@drawable/refrescoensalada"
+            android:src="@drawable/aguadehorchata"
             android:layout_marginRight="60dp"/>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -156,7 +156,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
             android:onClick="bebidah5"
-            android:text="Refresco de ensalada"
+            android:text="AGUA DE HORCHATA"
             android:layout_marginLeft="1dp"
             android:textColor="@color/black"
             android:textSize="10dp" />

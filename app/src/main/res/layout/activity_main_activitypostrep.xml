@@ -121,7 +121,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
             android:onClick="postrep4"
-            android:text="HOJALDRA PANAMEÑA"
+            android:text="mazamorra"
             android:layout_marginLeft="110dp"
             android:textColor="@color/black"
             android:textSize="14dp" />
