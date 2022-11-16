@@ -1,9 +1,300 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/fondooooo"
+    android:layout_margin="0dp"
     tools:context=".ui.categorias.MainActivitymcategorias3">
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        />
+    <androidx.appcompat.widget.AppCompatCheckedTextView
+        android:id="@+id/txtm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:layout_marginRight="0dp"
+        android:fontFamily="@font/architects_daughter"
+        android:foregroundTint="#101010"
+        android:text="Categoria de Platillos"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="48dp" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="100dp"
+            android:layout_height="160dp"
+            android:src="@drawable/kakikguate"
+            android:layout_marginRight="40dp"
+            android:layout_marginLeft="60dp"/>
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="100dp"
+            android:layout_height="160dp"
+            android:src="@drawable/fuertefiambreguate"
+            android:layout_marginRight="40dp"/>
+
+        <ImageView
+            android:id="@+id/imageView53"
+            android:layout_width="100dp"
+            android:layout_height="160dp"
+            android:src="@drawable/shucosguate"
+            android:layout_marginRight="60dp"
+            android:layout_marginLeft="0dp"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btngp1"
+            android:layout_width="100dp"
+            android:backgroundTint="#E5DFE6"
+            android:fontFamily="sans-serif-smallcaps"
+            android:layout_height="wrap_content"
+            android:text="Kak ik"
+            android:onClick="platog1"
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="@color/black"
+            android:textSize="15dp" />
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btngp2"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#E5DFE6"
+            android:fontFamily="sans-serif-smallcaps"
+            android:onClick="platog2"
+            android:text="FIAMBRE"
+            android:layout_marginLeft="30dp"
+            android:textColor="@color/black"
+            android:textSize="15dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnplatoguate3"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#E5DFE6"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="Shucos"
+            android:onClick="MainActivityplatoguate3"
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="40dp"
+            android:textColor="@color/black"
+            android:textSize="15dp" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        />
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="110dp"
+            android:layout_height="160dp"
+            android:src="@drawable/peoianguate"
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="0dp" />
+
+        <ImageView
+            android:id="@+id/imageView13"
+            android:layout_width="100dp"
+            android:layout_height="160dp"
+            android:src="@drawable/caldoderesguate"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="40dp" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="100dp"
+            android:layout_height="160dp"
+            android:src="@drawable/sancochopanama"
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="10dp"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btngp4"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#E5DFE6"
+            android:fontFamily="sans-serif-smallcaps"
+            android:onClick="platog4"
+            android:text="PEPIAN"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btngp5"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#E5DFE6"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="Caldo de res"
+            android:onClick="platog5"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnpp1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#E5DFE6"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="sancocho"
+            android:onClick="platop1"
+            android:textColor="@color/black"
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="0dp"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        />
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="110dp"
+            android:layout_height="160dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="40dp"
+            android:src="@drawable/cevichepanama" />
+        <ImageView
+            android:id="@+id/imageView21"
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:src="@drawable/guachoderabitopanama"
+            android:layout_marginRight="40dp"
+            android:layout_marginLeft="40dp"/>
+
+        <ImageView
+            android:id="@+id/imageView63"
+            android:layout_width="110dp"
+            android:layout_height="90dp"
+            android:layout_marginRight="40dp"
+            android:src="@drawable/guachodemariscos"/>
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnpp2"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#E5DFE6"
+            android:fontFamily="sans-serif-smallcaps"
+            android:onClick="platopana2"
+            android:text="ceviche"
+            android:textColor="@color/black"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="20dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnpp3"
+            
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#E5DFE6"
+            android:fontFamily="sans-serif-smallcaps"
+            android:textColor="@color/black"
+            android:text="guacho de rabito"
+            android:onClick="platop3"
+            android:layout_marginRight="40dp"
+            android:layout_marginLeft="40dp"/>
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnpp4"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#E5DFE6"
+            android:fontFamily="sans-serif-smallcaps"
+            android:textColor="@color/black"
+            android:text="guacho de marisco"
+            android:onClick="platop4"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="0dp"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        />
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#AC88CA"
+            android:onClick="btnmas"
+            android:background="#020202"
+            android:textColor="@color/black"
+            android:text="Más postres" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
