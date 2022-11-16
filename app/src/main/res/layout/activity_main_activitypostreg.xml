@@ -102,7 +102,7 @@
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_color"
-            android:text="CHANCLETAS"
+            android:text="CONSERVA DE COCO"
             android:onClick="postreg3"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp"
