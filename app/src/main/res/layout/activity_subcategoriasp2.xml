@@ -7,7 +7,8 @@
     android:orientation="vertical"
     android:background="@drawable/fondooooo"
     android:layout_margin="0dp"
-    tools:context=".ui.categorias.MainActivitymcategorias3">
+    tools:context=".ui.categorias.subcategoriasp2">
+
     <Space
         android:layout_width="match_parent"
         android:layout_height="5dp"
@@ -20,7 +21,7 @@
         android:layout_marginRight="0dp"
         android:fontFamily="@font/architects_daughter"
         android:foregroundTint="#101010"
-        android:text="Categoria de Platillos"
+        android:text="Categoria de postres"
         android:textAppearance="@style/TextAppearance.AppCompat.Small"
         android:textColor="#000000"
         android:textSize="20dp"
@@ -38,7 +39,7 @@
             android:id="@+id/imageView5"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/kakikguate"
+            android:src="@drawable/hojaldras"
             android:layout_marginRight="40dp"
             android:layout_marginLeft="60dp"/>
 
@@ -46,14 +47,14 @@
             android:id="@+id/imageView1"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/fuertefiambreguate"
+            android:src="@drawable/tamazo"
             android:layout_marginRight="40dp"/>
 
         <ImageView
             android:id="@+id/imageView53"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/shucosguate"
+            android:src="@drawable/churchil"
             android:layout_marginRight="60dp"
             android:layout_marginLeft="0dp"/>
 
@@ -67,50 +68,45 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btngp1"
+            android:id="@+id/btnio4"
             android:layout_width="100dp"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
             android:layout_height="wrap_content"
-            android:text="Kak ik"
-            android:onClick="platog1"
+            android:text="hojaldras somoteñas"
+            android:onClick="postren4"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="15dp"
             android:textColor="@color/black"
-            android:textSize="15dp" />
+            android:textSize="13dp"/>
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btngp2"
+            android:id="@+id/btnio5"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="platog2"
-            android:text="FIAMBRE"
+            android:onClick="postren5"
+            android:text="tamazo"
             android:layout_marginLeft="30dp"
             android:textColor="@color/black"
             android:textSize="15dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnplatoguate3"
+            android:id="@+id/btnco1"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="Shucos"
-            android:onClick="MainActivityplatoguate3"
+            android:text="churchill"
+            android:onClick="postrec1"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="40dp"
             android:textColor="@color/black"
             android:textSize="15dp" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
-
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="5dp"
-        />
 
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
@@ -123,7 +119,7 @@
             android:id="@+id/imageView12"
             android:layout_width="110dp"
             android:layout_height="160dp"
-            android:src="@drawable/peoianguate"
+            android:src="@drawable/empanadachimerre"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp" />
 
@@ -131,7 +127,7 @@
             android:id="@+id/imageView13"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/caldoderesguate"
+            android:src="@drawable/cajetadecoco"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="40dp" />
 
@@ -139,7 +135,7 @@
             android:id="@+id/imageView2"
             android:layout_width="100dp"
             android:layout_height="160dp"
-            android:src="@drawable/sancochopanama"
+            android:src="@drawable/arrolladodedulcedeleche"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="10dp"/>
 
@@ -154,48 +150,44 @@
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btngp4"
+            android:id="@+id/btnco2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="platog4"
-            android:text="PEPIAN"
+            android:onClick="postrec2"
+            android:text="empanada de chiverre"
             android:layout_marginLeft="0dp"
             android:textColor="@color/black"
             android:textSize="10dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btngp5"
+            android:id="@+id/btnco3"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="Caldo de res"
-            android:onClick="platog5"
+            android:onClick="postrec3"
+            android:text="cajeta de coco"
             android:layout_marginLeft="40dp"
             android:layout_marginRight="40dp"
             android:textColor="@color/black"
-            android:textSize="10dp" />
+            android:textSize="13dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnpp1"
+            android:id="@+id/btnco4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="sancocho"
-            android:onClick="platop1"
+            android:text="arrollado de dulce de leche"
+            android:onClick="postrec4"
             android:textColor="@color/black"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp"/>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="5dp"
-        />
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -208,12 +200,12 @@
             android:layout_height="160dp"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="40dp"
-            android:src="@drawable/cevichepanama" />
+            android:src="@drawable/chorreadas" />
         <ImageView
             android:id="@+id/imageView21"
             android:layout_width="90dp"
             android:layout_height="100dp"
-            android:src="@drawable/guachoderabitopanama"
+            android:src="@drawable/pasteldegallina"
             android:layout_marginRight="40dp"
             android:layout_marginLeft="40dp"/>
 
@@ -222,7 +214,7 @@
             android:layout_width="110dp"
             android:layout_height="90dp"
             android:layout_marginRight="40dp"
-            android:src="@drawable/guachodemariscos"/>
+            android:src="@drawable/alcitrones"/>
 
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -234,67 +226,43 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnpp2"
+            android:id="@+id/btnco5"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:onClick="platopana2"
-            android:text="ceviche"
+            android:onClick="postrec5"
             android:textColor="@color/black"
             android:layout_marginRight="10dp"
-            android:layout_marginLeft="20dp" />
+            android:layout_marginLeft="20dp"
+            android:text="chorreadas azucaradas"
+            android:textSize="13dp"/>
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnpp3"
-            
+            android:id="@+id/btnhho1"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
+            android:text="pastel de gallina"
             android:textColor="@color/black"
-            android:text="guacho de rabito"
-            android:onClick="platop3"
+            android:onClick="postreh1"
             android:layout_marginRight="40dp"
             android:layout_marginLeft="40dp"/>
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnpp4"
+            android:id="@+id/btnho2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
+            android:onClick="postreh2"
             android:textColor="@color/black"
-            android:text="guacho de marisco"
-            android:onClick="platop4"
+            android:text="alcitrones"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="0dp"/>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
-
-
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="15dp"
-        />
-    <androidx.appcompat.widget.LinearLayoutCompat
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:orientation="horizontal">
-
-        <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/button"
-            android:layout_width="180dp"
-            android:layout_height="wrap_content"
-            android:backgroundTint="#AC88CA"
-            android:onClick="btnmas"
-            android:background="#020202"
-            android:textColor="@color/black"
-            android:text="Más postres" />
-
-    </androidx.appcompat.widget.LinearLayoutCompat>
-
-
+    
 </androidx.appcompat.widget.LinearLayoutCompat>

@@ -8,11 +8,6 @@ import android.view.View;
 import android.widget.Button;
 
 import com.hb.recetaappfinal.R;
-import com.hb.recetaappfinal.ui.panama.postrep1;
-import com.hb.recetaappfinal.ui.panama.postrep2;
-import com.hb.recetaappfinal.ui.panama.postrep3;
-import com.hb.recetaappfinal.ui.panama.postrep4;
-import com.hb.recetaappfinal.ui.panama.postrep5;
 
 public class MainActivitypostreh extends AppCompatActivity {
 
@@ -23,11 +18,11 @@ public class MainActivitypostreh extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_activitypostreh);
 
-        btnho1 = findViewById(R.id.btnho1);
+        btnho1 = findViewById(R.id.btnhho1);
         btnho2 = findViewById(R.id.btnho2);
-        btnho3 = findViewById(R.id.btnho3);
-        btnho4 = findViewById(R.id.btnho4);
-        btnho5 = findViewById(R.id.btnho5);
+        btnho3 = findViewById(R.id.btnhh3);
+        btnho4 = findViewById(R.id.btnhh4);
+        btnho5 = findViewById(R.id.btnhho5);
     }
 
     public void postreh1(View view) {

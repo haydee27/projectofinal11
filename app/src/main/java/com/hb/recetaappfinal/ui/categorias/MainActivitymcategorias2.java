@@ -79,6 +79,11 @@ public class MainActivitymcategorias2 extends AppCompatActivity {
         startActivity(btnib3);
     }
 
+    public void bebidan4(View view) {
+        Intent btnib4= new Intent(this, bebidan4.class);
+        startActivity(btnib4);
+    }
+
     public void subcategoria2 (View view) {
         Intent bm1= new Intent(this, subcategoria2.class);
         startActivity(bm1);
