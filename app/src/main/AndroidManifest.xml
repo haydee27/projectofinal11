@@ -15,6 +15,7 @@
 
         <activity
             android:name=".ui.categorias.subcategoriasp2"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -22,6 +23,7 @@
         </activity>
         <activity
             android:name=".ui.categorias.subcategorias"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -34,12 +36,14 @@
 
         <activity
             android:name=".ui.categorias.subcategoria2"
+            android:label="MY RECIPES"
             android:exported="false"/>
         <meta-data
             android:name="android.app.lib_name"
             android:value="" />
         <activity
             android:name=".ui.categorias.subactegoria21"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -48,6 +52,8 @@
 
         <activity
             android:name=".ui.guatemala.MainActivityplatoguate3"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.guatemala.MainActivityplatofg"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -55,6 +61,8 @@
         </activity>
         <activity
             android:name=".ui.guatemala.postreguate2"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.guatemala.MainActivityplatofg"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -62,6 +70,7 @@
         </activity>
         <activity
             android:name=".ui.categorias.MainActivitymcategorias3"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -69,6 +78,7 @@
         </activity>
         <activity
             android:name=".ui.categorias.MainActivitymcategorias2"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -76,6 +86,7 @@
         </activity>
         <activity
             android:name=".ui.categorias.MainActivitymcategorias"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -83,48 +94,62 @@
         </activity>
         <activity
             android:name=".ui.honduras.platoh5"
-            android:exported="false">
+            android:label="MY RECIPES"
+            android:exported="false"
+            android:parentActivityName=".ui.honduras.MainActivityplatofh">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
             android:name=".ui.honduras.platoh4"
-            android:exported="false">
+            android:label="MY RECIPES"
+            android:exported="false"
+            android:parentActivityName=".ui.honduras.MainActivityplatofh">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
             android:name=".ui.honduras.platoh3"
-            android:exported="false">
+            android:label="MY RECIPES"
+            android:exported="false"
+            android:parentActivityName=".ui.honduras.MainActivityplatofh">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
             android:name=".ui.honduras.platoh2"
-            android:exported="false">
+            android:label="MY RECIPES"
+            android:exported="false"
+            android:parentActivityName=".ui.honduras.MainActivityplatofh">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
             android:name=".ui.honduras.postreh4"
-            android:exported="false">
+            android:label="MY RECIPES"
+            android:exported="false"
+            android:parentActivityName=".ui.honduras.MainActivitypostreh">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
             android:name=".ui.honduras.platoh1"
-            android:exported="false">
+            android:label="MY RECIPES"
+            android:exported="false"
+            android:parentActivityName=".ui.honduras.MainActivityplatofh">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
             android:name=".ui.honduras.postreh5"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.honduras.MainActivitypostreh"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -132,6 +157,8 @@
         </activity>
         <activity
             android:name=".ui.honduras.postreh3"
+            android:parentActivityName=".ui.honduras.MainActivitypostreh"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -139,6 +166,8 @@
         </activity>
         <activity
             android:name=".ui.honduras.postreh2"
+            android:parentActivityName=".ui.honduras.MainActivitypostreh"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -146,6 +175,8 @@
         </activity>
         <activity
             android:name=".ui.honduras.postreh1"
+            android:parentActivityName=".ui.honduras.MainActivitypostreh"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -153,6 +184,8 @@
         </activity>
         <activity
             android:name=".ui.honduras.bebidah5"
+            android:parentActivityName=".ui.honduras.MainActivitybebidah"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -160,6 +193,8 @@
         </activity>
         <activity
             android:name=".ui.honduras.bebidah4"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.honduras.MainActivitybebidah"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -167,6 +202,8 @@
         </activity>
         <activity
             android:name=".ui.honduras.bebidah3"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.honduras.MainActivitybebidah"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -174,6 +211,8 @@
         </activity>
         <activity
             android:name=".ui.honduras.bebidah2"
+            android:parentActivityName=".ui.honduras.MainActivitybebidah"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -181,6 +220,8 @@
         </activity>
         <activity
             android:name=".ui.honduras.bebidah1"
+            android:parentActivityName=".ui.honduras.MainActivitybebidah"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -188,6 +229,8 @@
         </activity>
         <activity
             android:name=".ui.honduras.MainActivityplatofh"
+            android:parentActivityName=".ui.honduras.MainActivityplatofh"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -195,6 +238,8 @@
         </activity>
         <activity
             android:name=".ui.honduras.MainActivitybebidah"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.honduras.MainActivitybebidah"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -202,6 +247,8 @@
         </activity>
         <activity
             android:name=".ui.honduras.MainActivitypostreh"
+            android:parentActivityName=".ui.honduras.MainActivitypostreh"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -209,6 +256,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.MainActivitybebidac"
+            android:parentActivityName=".ui.costarica.MainActivitybebidac"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -216,6 +265,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.postrec5"
+            android:parentActivityName=".ui.costarica.MainActivitypostresc"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -223,6 +274,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.postrec4"
+            android:parentActivityName=".ui.costarica.MainActivitypostresc"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -230,6 +283,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.postrec3"
+            android:parentActivityName=".ui.costarica.MainActivitypostresc"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -237,6 +292,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.postrec2"
+            android:parentActivityName=".ui.costarica.MainActivitypostresc"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -244,6 +301,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.postrec1"
+            android:parentActivityName=".ui.costarica.MainActivitypostresc"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -251,6 +310,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.platoc5"
+            android:parentActivityName=".ui.costarica.MainActivityplatofc"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -258,6 +319,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.platoc4"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.costarica.MainActivityplatofc"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -265,6 +328,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.platoc3"
+            android:parentActivityName=".ui.costarica.MainActivityplatofc"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -272,6 +337,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.platoc2"
+            android:parentActivityName=".ui.costarica.MainActivityplatofc"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -279,6 +346,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.platoc1"
+            android:parentActivityName=".ui.costarica.MainActivityplatofc"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -286,6 +355,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.bebidac5"
+            android:parentActivityName=".ui.costarica.MainActivitybebidac"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -293,6 +364,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.bebidac4"
+            android:parentActivityName=".ui.costarica.MainActivitybebidac"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -300,6 +373,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.bebidac3"
+            android:parentActivityName=".ui.costarica.MainActivitybebidac"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -307,13 +382,18 @@
         </activity>
         <activity
             android:name=".ui.costarica.bebidac2"
+            android:parentActivityName=".ui.costarica.MainActivitybebidac"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+
         <activity
             android:name=".ui.costarica.bebidac1"
+            android:parentActivityName=".ui.costarica.MainActivitybebidac"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -321,6 +401,8 @@
         </activity>
         <activity
             android:name=".ui.guatemala.bebidag4"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.guatemala.MainActivitybebidasg"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -328,6 +410,8 @@
         </activity>
         <activity
             android:name=".ui.guatemala.bebidag5"
+            android:parentActivityName=".ui.guatemala.MainActivitybebidasg"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -335,13 +419,17 @@
         </activity>
         <activity
             android:name=".ui.panama.platopana2"
-            android:exported="false">
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.panama.MainActivityplatofp"
+             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
             android:name=".ui.guatemala.postreg5"
+            android:parentActivityName=".ui.guatemala.MainActivityplatofg"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -349,6 +437,8 @@
         </activity>
         <activity
             android:name=".ui.guatemala.postreg4"
+            android:parentActivityName=".ui.guatemala.MainActivitypostreg"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -356,6 +446,8 @@
         </activity>
         <activity
             android:name=".ui.guatemala.postreg3"
+            android:parentActivityName=".ui.guatemala.MainActivitypostreg"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -363,6 +455,8 @@
         </activity>
         <activity
             android:name=".ui.guatemala.postreg1"
+            android:parentActivityName=".ui.guatemala.MainActivitypostreg"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -370,6 +464,8 @@
         </activity>
         <activity
             android:name=".ui.guatemala.MainActivitypostreg"
+            android:parentActivityName=".ui.guatemala.MainActivitypostreg"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -377,6 +473,8 @@
         </activity>
         <activity
             android:name=".ui.nicaragua.postren1"
+            android:parentActivityName=".ui.nicaragua.MainActivitypostresn"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -384,6 +482,8 @@
         </activity>
         <activity
             android:name=".ui.panama.MainActivityplatofp"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.panama.MainActivityplatofp"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -391,6 +491,8 @@
         </activity>
         <activity
             android:name=".ui.panama.MainActivitybebidap"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.panama.MainActivitybebidap"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -398,6 +500,8 @@
         </activity>
         <activity
             android:name=".ui.panama.MainActivitypostrep"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.panama.MainActivitypostrep"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -405,6 +509,8 @@
         </activity>
         <activity
             android:name=".ui.guatemala.platog5"
+            android:parentActivityName=".ui.guatemala.MainActivityplatofg"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -412,6 +518,8 @@
         </activity>
         <activity
             android:name=".ui.guatemala.platog4"
+            android:parentActivityName=".ui.guatemala.MainActivityplatofg"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -419,6 +527,8 @@
         </activity>
         <activity
             android:name=".ui.guatemala.platog2"
+            android:parentActivityName=".ui.guatemala.MainActivityplatofg"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -426,6 +536,8 @@
         </activity>
         <activity
             android:name=".ui.guatemala.platog1"
+            android:parentActivityName=".ui.guatemala.MainActivityplatofg"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -434,6 +546,8 @@
         <activity
             android:name=".ui.panama.platop5"
             android:exported="false"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.panama.MainActivityplatofp"
             tools:ignore="WrongManifestParent">
             <meta-data
                 android:name="android.app.lib_name"
@@ -441,6 +555,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.MainActivityplatofc"
+            android:parentActivityName=".ui.costarica.MainActivityplatofc"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -448,6 +564,8 @@
         </activity>
         <activity
             android:name=".ui.costarica.MainActivitypostresc"
+            android:parentActivityName=".ui.costarica.MainActivitypostresc"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -455,6 +573,8 @@
         </activity>
         <activity
             android:name=".ui.panama.platop4"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.panama.MainActivityplatofp"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -462,13 +582,18 @@
         </activity>
         <activity
             android:name=".ui.panama.platop3"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.panama.MainActivityplatofp"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+
         <activity
             android:name=".ui.panama.platop1"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.panama.MainActivityplatofp"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -476,6 +601,8 @@
         </activity>
         <activity
             android:name=".ui.panama.bebidap5"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.panama.MainActivitybebidap"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -483,6 +610,8 @@
         </activity>
         <activity
             android:name=".ui.panama.bebidap4"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.panama.MainActivitybebidap"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -490,6 +619,8 @@
         </activity>
         <activity
             android:name=".ui.panama.bebidap3"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.panama.MainActivitybebidap"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -497,9 +628,13 @@
         </activity>
         <activity
             android:name=".ui.panama.bebidap2"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.panama.MainActivitybebidap"
             android:exported="false" />
         <activity
             android:name=".ui.panama.bebidap1"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.panama.MainActivitybebidap"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -507,6 +642,8 @@
         </activity>
         <activity
             android:name=".ui.panama.postrep5"
+            android:parentActivityName=".ui.panama.MainActivitypostrep"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -514,6 +651,8 @@
         </activity>
         <activity
             android:name=".ui.panama.postrep4"
+            android:parentActivityName=".ui.panama.MainActivitypostrep"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -521,6 +660,8 @@
         </activity>
         <activity
             android:name=".ui.panama.postrep3"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.panama.MainActivitypostrep"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -528,6 +669,8 @@
         </activity>
         <activity
             android:name=".ui.panama.postrep2"
+            android:parentActivityName=".ui.panama.MainActivitypostrep"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -535,6 +678,8 @@
         </activity>
         <activity
             android:name=".ui.panama.postrep1"
+            android:parentActivityName=".ui.panama.MainActivitypostrep"
+            android:label="MY RECIPES"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -542,171 +687,215 @@
         </activity>
         <activity
             android:name=".ui.guatemala.MainActivitybebidasg"
+            android:parentActivityName=".ui.guatemala.MainActivitybebidasg"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.guatemala.bebidag1"
+            android:parentActivityName=".ui.guatemala.MainActivitybebidasg"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.guatemala.bebidag3"
+            android:parentActivityName=".ui.guatemala.MainActivitybebidasg"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.guatemala.bebidag2"
+            android:parentActivityName=".ui.guatemala.MainActivitybebidasg"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.guatemala.MainActivityplatofg"
+            android:parentActivityName=".ui.guatemala.MainActivityplatofg"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.platon5"
+            android:parentActivityName=".ui.nicaragua.MainActivityplatofn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.platon4"
+            android:parentActivityName=".ui.nicaragua.MainActivityplatofn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.platon3"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.nicaragua.MainActivityplatofn"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.platon2"
+            android:parentActivityName=".ui.nicaragua.MainActivityplatofn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.platon1"
+            android:parentActivityName=".ui.nicaragua.MainActivityplatofn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.bebidan5"
+            android:parentActivityName=".ui.nicaragua.MainActivitybebidasn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.bebidan4"
+            android:parentActivityName=".ui.nicaragua.MainActivitybebidasn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.bebidan3"
+            android:parentActivityName=".ui.nicaragua.MainActivitybebidasn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.bebidan2"
+            android:parentActivityName=".ui.nicaragua.MainActivitybebidasn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.bebidan1"
+            android:parentActivityName=".ui.nicaragua.MainActivitybebidasn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.postren5"
+            android:parentActivityName=".ui.nicaragua.MainActivitypostresn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.postren4"
+            android:parentActivityName=".ui.nicaragua.MainActivitypostresn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.postren3"
+            android:parentActivityName=".ui.nicaragua.MainActivitypostresn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.postren2"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.nicaragua.MainActivitypostresn"
             android:exported="false" />
 
-        <meta-data
-            android:name="android.app.lib_name"
-            android:value="" />
-        <meta-data
-            android:name="preloaded_fonts"
-            android:resource="@array/preloaded_fonts" />
 
         <activity
             android:name=".ui.login.MainActivitylogin"
+            android:label="MY RECIPES"
             android:exported="true" />
         <activity
             android:name=".ui.login.registrar"
+            android:label="MY RECIPES"
+            android:parentActivityName=".ui.login.MainActivitylogin"
             android:exported="true" />
         <activity
             android:name=".ui.nicaragua.MainActivityplatofn"
+            android:parentActivityName=".ui.nicaragua.MainActivityplatofn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.MainActivitybebidasn"
+            android:parentActivityName=".ui.nicaragua.MainActivitybebidasn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.nicaragua.MainActivitypostresn"
+            android:parentActivityName=".ui.nicaragua.MainActivitypostresn"
+            android:label="MY RECIPES"
             android:exported="false" />
         <activity
             android:name=".ui.sv.bebida5"
             android:exported="false"
-            android:label="REFRESCO DE ENSALADA DE FRUTAS"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivitybebidas" />
         <activity
             android:name=".ui.sv.bebida4"
             android:exported="false"
-            android:label="REFRESCO DE TAMARINDO"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivitybebidas" />
         <activity
             android:name=".ui.sv.bebida3"
             android:exported="false"
-            android:label="CHOCOLATE CALIENTE"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivitybebidas" />
         <activity
             android:name=".ui.sv.bebida2"
             android:exported="false"
-            android:label="REFRESCO DE HORCHATA"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivitybebidas" />
         <activity
             android:name=".ui.sv.bebida1"
             android:exported="false"
-            android:label="REFRESCO DE CEBADA"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivitybebidas" />
         <activity
             android:name=".ui.sv.plato5"
             android:exported="false"
-            android:label="TAMALES DE POLLO"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivityplatof" />
         <activity
             android:name=".ui.sv.plato4"
             android:exported="false"
-            android:label="PANES RELLENOS"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivityplatof" />
         <activity
             android:name=".ui.sv.plato3"
             android:exported="false"
-            android:label="SOPA DE PATA"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivityplatof" />
         <activity
             android:name=".ui.sv.plato2"
             android:exported="false"
-            android:label="SOPA DE GALLINA"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivityplatof" />
         <activity
             android:name=".ui.sv.plato1"
             android:exported="false"
-            android:label="PUPUSAS"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivityplatof" />
         <activity
             android:name=".ui.sv.MainActivityplatof"
+            android:parentActivityName=".ui.sv.MainActivityplatof"
             android:exported="false"
-            android:label="MENU PLATOS" />
+            android:label="MY RECIPES" />
         <activity
             android:name=".ui.sv.MainActivitybebidas"
+            android:parentActivityName=".ui.sv.MainActivitybebidas"
             android:exported="false"
-            android:label="MENU BEBIDAS" />
+            android:label="MY RECIPES"/>
         <activity
             android:name=".ui.sv.postre5"
             android:exported="false"
-            android:label="MANGO EN MIEL"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivitypostres" />
         <activity
             android:name=".ui.sv.postre4"
             android:exported="false"
-            android:label="ATOLE DE ELOTE"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivitypostres" />
         <activity
             android:name=".ui.sv.postre3"
             android:exported="false"
-            android:label="SORBETE DE COCO"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivitypostres" />
         <activity
             android:name=".ui.sv.postre2"
             android:exported="false"
-            android:label="EMPANADAS"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivitypostres" />
         <activity
             android:name=".ui.sv.postre1"
             android:exported="false"
-            android:label="TORREJAS"
+            android:label="MY RECIPES"
             android:parentActivityName=".ui.sv.MainActivitypostres" />
         <activity
             android:name=".ui.sv.MainActivitypostres"
+            android:parentActivityName=".ui.sv.MainActivitypostres"
             android:exported="false"
-            android:label="MENU POSTRES" />
+            android:label="MY RECIPES" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
