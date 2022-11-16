@@ -15,7 +15,7 @@
       android:id="@+id/txtm"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="VIGORON"
+      android:text="CALDO DE RES"
       android:textSize="35dp"
       android:textColor="#673AB7"
       android:textStyle="bold"
@@ -41,7 +41,7 @@
         android:id="@+id/imageView7"
         android:layout_width="160dp"
         android:layout_height="160dp"
-        android:src="@drawable/nvigoron" />
+        android:src="@drawable/caldoderes" />
 
   </androidx.appcompat.widget.LinearLayoutCompat>
   <Space
@@ -71,7 +71,7 @@
         android:textColor="@color/black"
         android:textAlignment="center"
         android:layout_marginLeft="10dp"
-        android:text="@string/vigoron"/>
+        android:text="@string/caldoderes"/>
 
   </ScrollView>
   </androidx.appcompat.widget.LinearLayoutCompat>
