@@ -12,12 +12,16 @@ import com.hb.recetaappfinal.ui.guatemala.bebidag1;
 import com.hb.recetaappfinal.ui.guatemala.bebidag2;
 import com.hb.recetaappfinal.ui.guatemala.bebidag3;
 import com.hb.recetaappfinal.ui.guatemala.bebidag5;
+import com.hb.recetaappfinal.ui.honduras.bebidah1;
+import com.hb.recetaappfinal.ui.honduras.bebidah2;
+import com.hb.recetaappfinal.ui.honduras.bebidah4;
 import com.hb.recetaappfinal.ui.panama.bebidap4;
 import com.hb.recetaappfinal.ui.panama.bebidap5;
+import com.hb.recetaappfinal.ui.panama.platop1;
 
 public class subactegoria21 extends AppCompatActivity {
 
-    Button btnpb4, btnpb5, btngb1, btngb2, btngb3, btngb5, bm3;
+    Button btnpb4, btnpb5, btngb1, btngb2, btngb3, btngb5, btnhb1, btnhb2, btnhb4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,7 +34,10 @@ public class subactegoria21 extends AppCompatActivity {
         btngb2 = findViewById(R.id.btngb2);
         btngb3 = findViewById(R.id.btngb3);
         btngb5 = findViewById(R.id.btngb5);
-        bm3 = findViewById(R.id.bm3);
+        btnhb1 = findViewById(R.id.btnhb1);
+        btnhb2 = findViewById(R.id.btnhb2);
+        btnhb4 = findViewById(R.id.btnhb4);
+
     }
 
     public void bebidap4(View view) {
@@ -63,9 +70,18 @@ public class subactegoria21 extends AppCompatActivity {
         startActivity(btngb5);
     }
 
-    public void subactegoria21 (View view) {
-        Intent bm3= new Intent(this, subactegoria21.class);
-        startActivity(bm3);
+    public void bebidah1(View view) {
+        Intent btnhb1= new Intent(this, bebidah1.class);
+        startActivity(btnhb1);
+    }
+
+    public void bebidah2(View view) {
+        Intent btnhb2= new Intent(this, bebidah2.class);
+        startActivity(btnhb2);
+    }
+    public void bebidah4(View view) {
+        Intent btnhb4= new Intent(this, bebidah4.class);
+        startActivity(btnhb4);
     }
 
 

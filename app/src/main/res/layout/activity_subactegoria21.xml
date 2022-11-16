@@ -211,13 +211,13 @@
             android:layout_height="160dp"
             android:layout_marginRight="0dp"
             android:layout_marginLeft="40dp"
-            android:src="@drawable/chichemepanamenopanama"/>
+            android:src="@drawable/pinol"/>
 
         <ImageView
             android:id="@+id/imageView21"
             android:layout_width="90dp"
             android:layout_height="100dp"
-            android:src="@drawable/chichademaizpanama"
+            android:src="@drawable/jugodecanadeazucar"
             android:layout_marginRight="40dp"
             android:layout_marginLeft="40dp"/>
 
@@ -226,7 +226,7 @@
             android:layout_width="110dp"
             android:layout_height="90dp"
             android:layout_marginRight="40dp"
-            android:src="@drawable/chcichadesarilpanama"/>
+            android:src="@drawable/ponchedeleche"/>
 
 
     </androidx.appcompat.widget.LinearLayoutCompat>
@@ -238,39 +238,39 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnpb1"
+            android:id="@+id/btnhb2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="CHICHEME"
-            android:onClick="bebidap1"
+            android:onClick="bebidah2"
+            android:text="PINOL"
             android:textColor="@color/black"
             android:layout_marginRight="10dp"
             android:layout_marginLeft="20dp"
             android:textSize="12dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnpb2"
+            android:id="@+id/btnhb4"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
             android:textColor="@color/black"
-            android:onClick="bebidap2"
-            android:text="CHICHA DE MAIZ"
+            android:onClick="bebidah4"
+            android:text="JUGO DE CAÑA DE AZUCAR"
             android:layout_marginRight="40dp"
             android:layout_marginLeft="40dp"/>
 
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/btnpb3"
+            android:id="@+id/btnhb1"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#E5DFE6"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="CHICHA DE SARIL"
-            android:onClick="bebidap3"
+            android:text="PONCHE DE LECHE"
+            android:onClick="bebidah1"
             android:textColor="@color/black"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="0dp"/>
@@ -288,15 +288,7 @@
         android:gravity="center"
         android:orientation="horizontal">
 
-        <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/bm3"
-            android:layout_width="180dp"
-            android:layout_height="wrap_content"
-            android:backgroundTint="#AC88CA"
-            android:background="#020202"
-            android:textColor="@color/black"
-            android:text="Más bebidas"
-            android:onClick="subactegoria22"/>
+
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 
