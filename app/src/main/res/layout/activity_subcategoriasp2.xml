@@ -264,5 +264,5 @@
             android:layout_marginLeft="0dp"/>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
-    
+
 </androidx.appcompat.widget.LinearLayoutCompat>
