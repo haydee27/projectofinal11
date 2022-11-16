@@ -20,7 +20,7 @@ import com.hb.recetaappfinal.ui.panama.platopana2;
 
 public class MainActivitymcategorias3 extends AppCompatActivity {
 
-    Button btngp1, btngp2, btnplatoguate3, btngp4, btngp5, btnpp1, btnpp2, btnpp3, btnpp4;
+    Button btngp1, btngp2, btnplatoguate3, btngp4, btngp5, btnpp1, btnpp2, btnpp3, btnpp4, bmc;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -83,6 +83,11 @@ public class MainActivitymcategorias3 extends AppCompatActivity {
     public void platop4(View view) {
         Intent btnpp4= new Intent(this, platop4.class);
         startActivity(btnpp4);
+    }
+
+    public void subcategoria3(View view) {
+        Intent bmc= new Intent(this, subcategoria3.class);
+        startActivity(bmc);
     }
 
 };
