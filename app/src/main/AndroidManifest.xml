@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -14,11 +16,22 @@
         tools:targetApi="31">
         <activity
             android:name=".acercade"
-            android:exported="false">
+            android:exported="true">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity
+            android:name=".Login"
+            android:label="MY RECIPES"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
         <activity
             android:name=".ui.categorias.subcategoria31"
             android:exported="false"
@@ -809,14 +822,16 @@
             android:label="MY RECIPES"
             android:parentActivityName=".ui.nicaragua.MainActivitypostresn" />
         <activity
-            android:name=".MainActivitylogin"
-            android:exported="true"
-            android:label="MY RECIPES" />
-        <activity
             android:name=".RegistrarUsuario"
             android:exported="true"
-            android:label="MY RECIPES"
-            android:parentActivityName=".MainActivitylogin" />
+            android:label="MY RECIPES">
+
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
         <activity
             android:name=".ui.nicaragua.MainActivityplatofn"
             android:exported="false"
@@ -928,11 +943,6 @@
             android:label="MY RECIPES"
             android:theme="@style/Theme.Recetaappfinal.NoActionBar"
             tools:ignore="WrongManifestParent">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
     </application>
 

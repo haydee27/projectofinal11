@@ -11,7 +11,7 @@
 
     <Space
         android:layout_width="wrap_content"
-        android:layout_height="8dp"/>
+        android:layout_height="50dp"/>
 
     <ImageView
         android:layout_width="150dp"
@@ -26,7 +26,7 @@
         android:textSize="16sp"
         android:textStyle="bold"
         android:gravity="center"
-        android:text="Registrate en My Repices"/>
+        android:text="Estudiante Haydee Abigail Bonilla Reyes"/>
 
 
     <TextView
@@ -55,13 +55,13 @@
         <ScrollView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#D8B8DD">
+            android:background="#9068C1">
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="15dp"
-                android:background="#AC74F1"
+                android:background="#9068C1"
                 android:orientation="vertical">
 
                 <RelativeLayout
@@ -72,10 +72,9 @@
                         android:id="@+id/textView"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="76dp"
                         android:text="Registro Usuario"
                         android:textColor="@android:color/black"
-                        android:textSize="20sp"
+                        android:textSize="28sp"
                         android:textStyle="bold" />
                 </RelativeLayout>
 
@@ -89,6 +88,7 @@
                     android:hint="ID"
                     android:inputType="phone"
                     android:padding="10dp" />
+
                 <EditText
                     android:id="@+id/edt_NomUser"
                     android:layout_width="match_parent"
