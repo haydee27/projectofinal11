@@ -44,6 +44,10 @@ public class MainActivityplatofp extends AppCompatActivity {
         Intent btnpp4= new Intent(this, platop4.class);
         startActivity(btnpp4);
     }
+    public void platop5(View view) {
+        Intent btnpp5 = new Intent(this, platop5.class);
+        startActivity(btnpp5);
+    }
 
 
 

@@ -74,7 +74,7 @@
                 android:textColor="@color/black"
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
-                android:text="@string/ciruelaenmiel" />
+                android:text="@string/chancleta" />
         </ScrollView>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
