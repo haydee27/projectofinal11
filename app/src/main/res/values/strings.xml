@@ -2189,5 +2189,25 @@ Te sugiero que acompañes este platillo con aguacates partidos en cuatro, rodaja
 
     </string>
 
+    <string-array name="estadoUser">
+        <item>Seleccione un estado usuario</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="tipoUser">
+        <item>Tipo de usuario 1)Admon o 2)Invitado</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+
+    <string-array name="preguntaUser">
+        <item>Seleccione una pregunta</item>
+        <item>1- ¿Nombre de tu escuela?</item>
+        <item>2- ¿Comida favorita?</item>
+        <item>3- ¿Artista favorito? </item>
+    </string-array>
+
 
 </resources>
