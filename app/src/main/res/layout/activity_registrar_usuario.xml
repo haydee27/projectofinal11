@@ -79,7 +79,7 @@
                         android:textStyle="bold" />
                 </RelativeLayout>
                 <EditText
-                    android:id="@+id/nombre"
+                    android:id="@+id/edt_NomUser"
                     android:layout_width="match_parent"
                     android:layout_height="40dp"
                     android:layout_marginTop="20dp"
@@ -90,7 +90,7 @@
                     android:padding="10dp" />
 
                 <EditText
-                    android:id="@+id/apellidos"
+                    android:id="@+id/edt_ApellUser"
                     android:layout_width="match_parent"
                     android:layout_height="40dp"
                     android:layout_marginTop="20dp"
@@ -101,7 +101,7 @@
                     android:padding="10dp" />
 
                 <EditText
-                    android:id="@+id/correo"
+                    android:id="@+id/edt_correoUser"
                     android:layout_width="match_parent"
                     android:layout_height="40dp"
                     android:layout_marginTop="20dp"
@@ -123,7 +123,7 @@
                     android:padding="10dp" />
 
                 <EditText
-                    android:id="@+id/contraseñau"
+                    android:id="@+id/edt_claveUser"
                     android:layout_width="match_parent"
                     android:layout_height="40dp"
                     android:layout_marginTop="20dp"
