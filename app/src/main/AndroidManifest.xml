@@ -806,7 +806,7 @@
             android:exported="true"
             android:label="MY RECIPES" />
         <activity
-            android:name=".registrar"
+            android:name=".RegistrarUsuario"
             android:exported="true"
             android:label="MY RECIPES"
             android:parentActivityName=".MainActivitylogin" />
