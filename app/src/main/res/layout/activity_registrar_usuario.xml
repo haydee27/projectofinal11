@@ -78,6 +78,17 @@
                         android:textSize="20sp"
                         android:textStyle="bold" />
                 </RelativeLayout>
+
+                <EditText
+                    android:id="@+id/edt_IdUser"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/textverde"
+                    android:drawableStart="@drawable/ic_key_log"
+                    android:hint="ID"
+                    android:inputType="phone"
+                    android:padding="10dp" />
                 <EditText
                     android:id="@+id/edt_NomUser"
                     android:layout_width="match_parent"
@@ -132,6 +143,41 @@
                     android:ems="10"
                     android:hint="Contraseña"
                     android:inputType="textPassword"
+                    android:padding="10dp" />
+
+                <androidx.appcompat.widget.AppCompatSpinner
+                    android:id="@+id/sp_TipoUser"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:entries="@array/tipoUser"
+                    android:minHeight="40dp" />
+
+                <androidx.appcompat.widget.AppCompatSpinner
+                    android:id="@+id/sp_EstadoUser"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:entries="@array/estadoUser"
+                    android:minHeight="40dp" />
+
+                <androidx.appcompat.widget.AppCompatSpinner
+                    android:id="@+id/sp_PreguntaUser"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:entries="@array/preguntaUser"
+                    android:minHeight="40dp" />
+
+                <EditText
+                    android:id="@+id/edt_Respuesta"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/textverde"
+                    android:drawableStart="@drawable/ic_reply"
+                    android:hint="Respuesta"
+                    android:inputType="text"
                     android:padding="10dp" />
 
                 <TextView
