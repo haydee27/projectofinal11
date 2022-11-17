@@ -2,7 +2,7 @@ package com.hb.recetaappfinal.ui.conexion;
 
 public class dto_categoria {
 
-    int id;
+    /*int id;
     String nombre;
 
     public int getId() {
@@ -30,6 +30,6 @@ public class dto_categoria {
         this.id = id;
         this.nombre = nombre;
     }
-}
+}*/
 
 
