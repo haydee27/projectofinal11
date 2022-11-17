@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:background="@drawable/fondooooo"
-    tools:context=".registrar">
+    tools:context=".RegistrarUsuario">
 
     <Space
         android:layout_width="wrap_content"
