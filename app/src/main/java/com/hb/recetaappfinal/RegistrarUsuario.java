@@ -21,9 +21,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class RegistrarUsuario extends AppCompatActivity {
-
-
-    private EditText nombre, apellidos, email, user, clave;
+    private EditText id, nombre, apellidos, email, user, clave, respuesta;
+    private Spinner tipo, estado, pregunta;
     private TextView fecha_registro;
     private Button btnRegistrar;
 
@@ -31,27 +30,80 @@ public class RegistrarUsuario extends AppCompatActivity {
     String datoSelectEstado = "";
     String datoSelectPregunta = "";
 
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_registrar_usuario);
 
+        id = (EditText) findViewById(R.id.edt_IdUser);
         nombre = (EditText) findViewById(R.id.edt_NomUser);
         apellidos = (EditText) findViewById(R.id.edt_ApellUser);
         email = (EditText) findViewById(R.id.edt_correoUser);
         user = (EditText) findViewById(R.id.edt_usuario);
         clave = (EditText) findViewById(R.id.edt_claveUser);
+        pregunta = (Spinner) findViewById(R.id.sp_PreguntaUser);
+        respuesta = (EditText) findViewById(R.id.edt_Respuesta);
+        tipo = (Spinner) findViewById(R.id.sp_TipoUser);
+        estado = (Spinner) findViewById(R.id.sp_EstadoUser);
         fecha_registro = (TextView) findViewById(R.id.tv_fechaRegistro);
         fecha_registro.setText(timedate());
         btnRegistrar = (Button) findViewById(R.id.btn_registrar);
 
 
+        tipo.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                if(tipo.getSelectedItemPosition()>0) {
+                    datoSelectTipo = tipo.getSelectedItem().toString();
+                }else{
+                    datoSelectTipo = "";
+                }
+            }
+            @Override
+            public void onNothingSelected(AdapterView<?> adapterView) {
+
+            }
+        });
+
+        estado.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                if(estado.getSelectedItemPosition()>0) {
+                    datoSelectEstado = estado.getSelectedItem().toString();
+                }else{
+                    datoSelectEstado = "";
+                }
+            }
+            @Override
+            public void onNothingSelected(AdapterView<?> adapterView) {
+
+            }
+        });
+
+        pregunta.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                if(pregunta.getSelectedItemPosition()>0) {
+                    datoSelectPregunta = pregunta.getSelectedItem().toString();
+                }else{
+                    datoSelectPregunta = "";
+                }
+            }
+            @Override
+            public void onNothingSelected(AdapterView<?> adapterView) {
+
+            }
+        });
 
         btnRegistrar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 //Toast.makeText(getContext(), "Clic en botón Guardar", Toast.LENGTH_SHORT).show();
                 //recibirJson(getContext());
+                String iduser = id.getText().toString();
                 String nombreUser = nombre.getText().toString();
                 String apellUser = apellidos.getText().toString();
                 String emailUser = email.getText().toString();
@@ -60,10 +112,13 @@ public class RegistrarUsuario extends AppCompatActivity {
                 String tipo = datoSelectTipo;
                 String estado = datoSelectEstado;
                 String pregunta = datoSelectPregunta;
+                String respuestaU = respuesta.getText().toString();
 
                 String dato = "";
 
-             if(nombreUser.length()==0) {
+                if(iduser.length() == 0){
+                    id.setError("Campo obligatorio");
+                }else if(nombreUser.length()==0) {
                     nombre.setError("Campo obligatorio");
                 }else if(apellUser.length()==0){
                     apellidos.setError("Campo obligatorio");
@@ -73,8 +128,11 @@ public class RegistrarUsuario extends AppCompatActivity {
                     user.setError("Campo obligatorio");
                 }else if(claveU.length()==0){
                     clave.setError("Campo obligatorio");
+                }else if(tipo.length()==0){
+                    dato = "Debe seleccionar una ópcion";
+                    Toast.makeText(RegistrarUsuario.this, ""+dato, Toast.LENGTH_SHORT).show();
                 }else{
-                    guardarUser(RegistrarUsuario.this,  nombreUser, apellUser, emailUser, usuario, claveU, pregunta, respuestaU, Integer.parseInt(tipo), Integer.parseInt(estado));
+                    guardarUser(RegistrarUsuario.this, Integer.parseInt(iduser), nombreUser, apellUser, emailUser, usuario, claveU, pregunta, respuestaU, Integer.parseInt(tipo), Integer.parseInt(estado));
                 }
             }
         });
@@ -139,8 +197,3 @@ public class RegistrarUsuario extends AppCompatActivity {
     }
 
 }
-
-
-
-
-
