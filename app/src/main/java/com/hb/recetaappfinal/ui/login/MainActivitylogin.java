@@ -20,6 +20,12 @@ import com.hb.recetaappfinal.R;
 import com.hb.recetaappfinal.ui.conexion.dto_registros;
 
 public class MainActivitylogin extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activitylogin);
+    }
     /*private Button btn_log;
     private EditText usuario, contraseña;
     private dto_registros usuario1= new dto_registros();
