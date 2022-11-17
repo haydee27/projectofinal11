@@ -20,7 +20,7 @@ import com.hb.recetaappfinal.R;
 import com.hb.recetaappfinal.ui.conexion.dto_registros;
 
 public class MainActivitylogin extends AppCompatActivity {
-    private Button btn_log;
+    /*private Button btn_log;
     private EditText usuario, contraseña;
     private dto_registros usuario1= new dto_registros();
     private Switch mantener;
@@ -72,16 +72,23 @@ public class MainActivitylogin extends AppCompatActivity {
         });
     }
 
-    /*public void Onclick(View view){
-        Intent miIntent=null;
-        switch (view.getId()){
+    public void Onclick(View view) {
+        Intent miIntent = null;
+        switch (view.getId()) {
             case R.id.btn_registrar:
-                miIntent
+                miIntent = new Intent(MainActivitylogin.this, registrar.class);
+                break;
             case R.id.btn_log:
-                miIntent=new Intent(MainActivitylogin.this, MainActivitylogin.class);
-                final ProgressDialog progressDialog
+                miIntent = new Intent(MainActivitylogin.this, MainActivitylogin.class);
+                final ProgressDialog progressDialog = new ProgressDialog(this);
+                progressDialog.setMessage("Por favor espera...");
+                progressDialog.show();
+                break;
         }
-    }*/
-    private void login(MainActivitylogin mainActivitylogin, dto_registros usuario1, Switch mantener) {
+        if(miIntent!=null){
+            startActivity(miIntent);
+        }
     }
+    private void login(MainActivitylogin mainActivitylogin, dto_registros usuario1, Switch mantener) {
+    }*/
 }
