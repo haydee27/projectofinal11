@@ -155,7 +155,7 @@ public class RegistrarUsuario extends AppCompatActivity {
     private void guardarUser(final Context context, final int id_user, final String nombreUser,
                              final String apellUser, final String emailUser, final String usuario,
                              final String claveU, final String pregunta, final String respuestaU, final int tipo, final int estado) {
-        String url = "https://abithaaareyes.000webhostapp.com/ws/guardar_usuario.php";
+        String url = "\"https://salva10012002.000webhostapp.com/service/guardar_usuario.php\";";
         //String url = "http://localhost/service/guardar_categorias.php";
         StringRequest request = new StringRequest(Request.Method.POST,url, new Response.Listener<String>() {
             @Override

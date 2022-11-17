@@ -1,8 +1,11 @@
 package com.hb.recetaappfinal;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.Menu;
+import android.widget.Toast;
 
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
@@ -53,9 +56,21 @@ public class MainActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.main, menu);
-        return true;
+
+        return super.onCreateOptionsMenu(menu);
+
     }
 
+    public boolean onOptionsItemSelected( MenuItem item){
+        switch (item.getItemId()){
+            case R.id.acerca:
+                Toast.makeText(this, "ACERCA DE", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(MainActivity.this, acercade.class));
+                return true;
+            default:return super.onOptionsItemSelected(item);
+        }
+
+    }
     @Override
     public boolean onSupportNavigateUp() {
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
