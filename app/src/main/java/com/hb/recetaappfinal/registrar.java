@@ -1,4 +1,4 @@
-package com.hb.recetaappfinal.ui.login;
+package com.hb.recetaappfinal;
 
 import androidx.appcompat.app.AppCompatActivity;
 

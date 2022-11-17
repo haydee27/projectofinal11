@@ -802,14 +802,14 @@
             android:label="MY RECIPES"
             android:parentActivityName=".ui.nicaragua.MainActivitypostresn" />
         <activity
-            android:name=".ui.login.MainActivitylogin"
+            android:name=".MainActivitylogin"
             android:exported="true"
             android:label="MY RECIPES" />
         <activity
-            android:name=".ui.login.registrar"
+            android:name=".registrar"
             android:exported="true"
             android:label="MY RECIPES"
-            android:parentActivityName=".ui.login.MainActivitylogin" />
+            android:parentActivityName=".MainActivitylogin" />
         <activity
             android:name=".ui.nicaragua.MainActivityplatofn"
             android:exported="false"
