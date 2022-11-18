@@ -42,26 +42,33 @@
         android:gravity="center"
         android:orientation="horizontal">
 
-        <Button
+
+
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnib1"
-            android:layout_width="130dp"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
             android:text="Pinolillo"
-            android:background="@drawable/button_color"
             android:onClick="bebidan1"
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="0dp"
             android:textColor="@color/black"
-            android:layout_marginRight="20dp"
-            android:layout_marginLeft="11dp"/>
+            android:textSize="15dp" />
 
 
-        <Button
+
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnib2"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:onClick="bebidan2"
-            android:textColor="@color/black"
             android:background="@drawable/button_color"
-            android:text="Semilla de Jicaro" />
+            android:text="Semilla de Jicaro"
+            android:onClick="bebidan2"
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="70dp"
+            android:textColor="@color/black"
+            android:textSize="15dp" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -96,27 +103,33 @@
         android:gravity="center"
         android:orientation="horizontal">
 
-        <Button
+
+
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnib3"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
             android:text="Tiste"
             android:onClick="bebidan3"
-            android:background="@drawable/button_color"
-            android:textColor="@color/black"
-            android:layout_marginRight="100dp"
+            android:layout_marginRight="0dp"
             android:layout_marginLeft="0dp"
-            android:textSize="10dp"/>
-
-
-        <Button
-            android:id="@+id/btnib4"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:onClick="bebidan4"
-            android:background="@drawable/button_color"
             android:textColor="@color/black"
-            android:text="Tibio" />
+            android:textSize="15dp" />
+
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnib4"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_color"
+            android:text="Tibio"
+            android:onClick="bebidan4"
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="70dp"
+            android:textColor="@color/black"
+            android:textSize="15dp" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
     <Space
@@ -141,16 +154,22 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="horizontal">
-        <Button
+
+
+
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnib5"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:onClick="bebidan5"
             android:background="@drawable/button_color"
-            android:textColor="@color/black"
-            android:layout_marginLeft="0dp"
+            android:text="Grama"
+            android:onClick="bebidan5"
             android:layout_marginRight="0dp"
-            android:text="Grama" />
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:textSize="15dp" />
+
+
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 </androidx.appcompat.widget.LinearLayoutCompat>
